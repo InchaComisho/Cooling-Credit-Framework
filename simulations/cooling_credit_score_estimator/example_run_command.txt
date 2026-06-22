@@ -1,0 +1,1 @@
+python simulations/cooling_credit_score_estimator/cooling_credit_score_estimator.py --input simulations/cooling_credit_score_estimator/example_inputs.csv --output simulations/cooling_credit_score_estimator/results/cooling_credit_score_results.csv --json-output simulations/cooling_credit_score_estimator/results/cooling_credit_score_results.json --print-summary
