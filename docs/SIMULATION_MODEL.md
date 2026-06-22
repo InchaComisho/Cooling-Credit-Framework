@@ -60,6 +60,10 @@ The emergency scenario assumes accelerated deployment of Cooling Credit measures
 
 If a scenario lowers the heat-load index and El Niño damage-risk index while raising water-cycle, soil moisture, vegetation transpiration, and ecological cooling indices, it represents stronger relative alignment with Cooling Credit principles. If cooling depends on unsustainable water use, excessive misting, ecological intervention without safeguards, or poor monitoring, the penalty terms reduce the score.
 
+## Note on Solar Shielding
+
+This simulation does not model solar-shielding, solar-radiation-blocking, or stratospheric aerosol interventions. Those approaches reduce future incoming heat but do not directly reduce accumulated heat already held in oceans, cities, soils, and ecosystems. Cooling Credit scenarios in this model focus on direct heat-load reduction, natural cooling recovery, and water-cycle restoration.
+
 ## Limitations
 
 The model does not calculate actual global temperature reduction, ENSO behavior, regional weather change, or verified credit quantities. It uses stylized index relationships and assumed weights. It should be treated as a transparent educational and planning model, not as evidence of real-world climate effect.

@@ -81,6 +81,16 @@ Independent verification should review data quality, baseline design, control-ar
 
 Emergency El Niño deployment must prioritize harm reduction, food-system protection, water-cycle recovery, and heat-risk reduction. Projects may include emergency urban cooling zones, drought-buffering soil moisture recovery, rainwater storage and infiltration, treated-water reuse, wetland and watershed buffering, agricultural cooling pilots, and ocean monitoring where applicable. Emergency status does not remove the need for MRV; weak monitoring should reduce credit.
 
+## Solar Shielding Is Not a Primary Cooling Credit Category
+
+Solar shielding, solar-radiation blocking, and stratospheric aerosol approaches should not be treated as primary Cooling Credit categories.
+
+They may reduce future incoming heat, but they do not directly measure removal or reduction of heat already accumulated in oceans, cities, soils, buildings, or ecosystems.
+
+If reflective or shading measures are evaluated, they must be treated as heat-input suppression or local heat-load reduction only when measurable through surface temperature, air temperature, WBGT, cooling-demand reduction, or other verified indicators.
+
+Cooling Credits should prioritize measurable reduction of existing heat load, waste heat, water-cycle degradation, soil dryness, vegetation transpiration loss, urban heat stress, and ecological cooling decline.
+
 ## Summary
 
 Cooling Credits should reward real heat-load reduction, water-cycle recovery, soil cooling, vegetation transpiration, waste-heat reduction, and ecological cooling recovery. Credible MRV requires measured data, transparent baselines, control comparisons, seasonal correction, sustainable water use, WBGT checks, ecological safeguards, emergency-risk indicators where relevant, and independent verification.

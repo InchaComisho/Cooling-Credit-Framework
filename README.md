@@ -871,6 +871,49 @@ The Cooling Credit Framework is a proposed economic and technical system to conn
 
 ---
 
+## Cooling Credits Are Not Solar-Shielding Credits
+
+Cooling Credits should not be confused with solar-shielding, solar-radiation-blocking, or stratospheric aerosol schemes.
+
+Blocking sunlight may reduce additional incoming heat, but it does not directly reduce the heat already accumulated in oceans, soils, cities, buildings, infrastructure, and ecosystems.
+
+In this framework, Cooling Credits are defined as measurable contributions to actual heat-load reduction and natural cooling recovery.
+
+Cooling Credit targets include:
+
+- urban heat-load reduction
+- waste-heat reduction
+- water-cycle restoration
+- soil moisture recovery
+- vegetation transpiration recovery
+- evapotranspiration-based cooling
+- ecological cooling recovery
+- ocean circulation and surface-cooling support
+
+Solar shielding may be classified as heat-input suppression, but it is not the same as direct planetary cooling.
+
+Cooling Credits are intended to evaluate actions that reduce existing heat load, restore natural cooling functions, and lower thermal stress in real environments.
+
+In short:
+
+> Solar shielding reduces part of future heat input.
+> Cooling Credits evaluate measurable reduction of existing heat load and restoration of natural cooling capacity.
+
+## Cooling Credits vs. Solar Shielding — Comparison Table
+
+| Category | Description | Cooling Credit Treatment |
+|---|---|---|
+| Solar shielding | Blocks or reflects incoming sunlight | Not classified as direct cooling by itself |
+| Heat-input suppression | Reduces future heat entering a system | Secondary or limited relevance |
+| Reflective / insulation measures | Reduces heat absorption by roofs, roads, walls, or buildings | May be evaluated as urban heat-load reduction when measurable |
+| Waste-heat reduction | Reduces heat discharged from AC systems, buildings, vehicles, data centers, and industry | Core evaluation target |
+| Water-cycle cooling | Uses evaporation, transpiration, soil moisture, and water circulation to release heat | Core evaluation target |
+| Soil and forest restoration | Restores water retention, transpiration, carbon fixation, and ecological cooling | Core evaluation target |
+| Ocean circulation recovery | Supports surface cooling, oxygenation, and vertical circulation | Core evaluation target |
+| Carbon reduction | Reduces future warming drivers | Necessary, but not the primary basis of Cooling Credits |
+
+---
+
 ## Related Repositories
 
 | Category | Repository | Relationship |

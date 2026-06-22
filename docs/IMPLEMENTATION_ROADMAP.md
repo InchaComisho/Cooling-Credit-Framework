@@ -89,3 +89,7 @@ Ocean-related crediting must be conservative, monitored, and conditional on ecol
 - International cooling-credit framework
 
 Institutional adoption should preserve the core rule: Cooling Credits certify measurable cooling contribution and must not become permission to emit.
+
+## Boundary Note: Solar Shielding Is Outside Cooling Credit Scope
+
+Cooling Credits are designed to measure direct heat-load reduction and natural cooling recovery. Solar shielding, solar-radiation management, and stratospheric aerosol interventions are outside the primary scope of this roadmap. They reduce future incoming heat but do not directly reduce accumulated heat already stored in oceans, soils, cities, and ecosystems. Any future integration of solar-shielding-related measures would require separate categorization and safeguards distinct from the core Cooling Credit evaluation.
