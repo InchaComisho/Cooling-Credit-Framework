@@ -1,13 +1,13 @@
 # Cooling Credit Implementation Roadmap
 
-The purpose of Cooling Credits is not to create a new financial product first, but to force measurable responsibility for heat-load reduction.
+The purpose of Cooling Credits is not to create a new financial product first, but to force measurable responsibility for heat-load reduction, especially under escalating climate risks such as El Niño.
 
 ## Phase 0: Concept Publication and Open Framework
 
-- Publish the NOTE concept and repository materials.
-- Maintain GitHub as the open framework location.
-- Keep multilingual README files aligned.
-- Link related repositories for direct planetary cooling, water-circulation cities, heat-circulation systems, and Natural Complementary Science.
+- NOTE
+- GitHub
+- Multilingual README
+- Related repository links
 
 ## Phase 1: Local Measurement Pilots
 
@@ -20,7 +20,19 @@ The purpose of Cooling Credits is not to create a new financial product first, b
 
 The aim is to establish measurement methods, baseline design, and simple before-after comparison.
 
-## Phase 2: Municipal Demonstration
+## Phase 2: El Niño Emergency Damage-Reduction Pilots
+
+- Emergency urban cooling zones
+- Drought-buffering soil moisture recovery
+- Rainwater storage and infiltration
+- Agricultural heat-stress reduction
+- Treated-water reuse
+- Wetland and watershed buffering
+- Heat-risk monitoring
+
+This phase tests accelerated deployment for harm reduction during El Niño or Super El Niño risk periods.
+
+## Phase 3: Municipal Demonstration
 
 - Water-circulation district
 - Urban heat sensors
@@ -31,7 +43,7 @@ The aim is to establish measurement methods, baseline design, and simple before-
 
 Municipal demonstrations should connect heat sensors, water-source records, WBGT measurement, and district-scale cooling-demand data.
 
-## Phase 3: Agricultural and Soil Cooling Credits
+## Phase 4: Agricultural and Soil Cooling Credits
 
 - Organic matter restoration
 - Compost and leaf mold
@@ -41,7 +53,7 @@ Municipal demonstrations should connect heat sensors, water-source records, WBGT
 
 This phase evaluates farms and soils as cooling infrastructure, not only food-production or carbon-storage systems.
 
-## Phase 4: Building and Vehicle Heat-Rejection Reduction
+## Phase 5: Building and Vehicle Heat-Rejection Reduction
 
 - AC exhaust cooling
 - Data-center heat reduction
@@ -50,7 +62,7 @@ This phase evaluates farms and soils as cooling infrastructure, not only food-pr
 
 This phase focuses on reducing artificial heat rejection and cooling-energy demand from built and mobile systems.
 
-## Phase 5: Regional Water-Cycle Cooling
+## Phase 6: Regional Water-Cycle Cooling
 
 - Watershed restoration
 - Forest transpiration recovery
@@ -59,7 +71,7 @@ This phase focuses on reducing artificial heat rejection and cooling-energy dema
 
 Regional implementation should measure long-term water retention, evapotranspiration, surface temperature, and ecosystem safeguards.
 
-## Phase 6: Ocean and Planetary Cooling Integration
+## Phase 7: Ocean and Planetary Cooling Integration
 
 - OTU
 - Ocean surface cooling support
@@ -69,7 +81,7 @@ Regional implementation should measure long-term water retention, evapotranspira
 
 Ocean-related crediting must be conservative, monitored, and conditional on ecological safeguards.
 
-## Phase 7: Institutional Adoption
+## Phase 8: Institutional Adoption
 
 - Municipal credit registry
 - National climate adaptation policy

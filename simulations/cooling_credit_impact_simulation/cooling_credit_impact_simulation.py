@@ -1,14 +1,16 @@
 """Cooling Credit Impact Simulation.
 
 This is an illustrative scenario simulation, not a climate prediction model.
-It is intended to compare relative effects of Cooling Credit adoption scenarios
-on heat-load reduction, water-cycle recovery, and ecological cooling capacity.
+It does not directly predict global mean temperature or ENSO behavior.
+It compares relative effects of Cooling Credit adoption scenarios on heat-load reduction,
+water-cycle recovery, ecological cooling capacity, and potential El Niño-related damage-risk reduction.
 """
 
 from __future__ import annotations
 
 from dataclasses import dataclass
 from pathlib import Path
+import sys
 
 import matplotlib.pyplot as plt
 import numpy as np
@@ -33,17 +35,23 @@ class Scenario:
     treated_water_reuse: float
     organic_matter_restoration: float
     ocean_cooling_support: float
+    emergency_heat_risk_reduction: float
+    drought_buffering: float
+    flood_buffering: float
+    food_system_cooling_support: float
     water_stress_penalty: float
     humidity_risk_penalty: float
     ecological_risk_penalty: float
+    poor_monitoring_penalty: float
 
 
 SCENARIOS = [
-    Scenario("Baseline / No Cooling Credit", 0.03, 0.02, 0.02, 0.02, 0.01, 0.03, 0.01, 0.01, 0.02, 0.00, 0.02, 0.01, 0.01),
-    Scenario("Low Adoption", 0.22, 0.18, 0.16, 0.18, 0.14, 0.20, 0.16, 0.12, 0.16, 0.04, 0.05, 0.04, 0.04),
-    Scenario("Medium Adoption", 0.48, 0.42, 0.38, 0.42, 0.34, 0.42, 0.36, 0.30, 0.36, 0.12, 0.07, 0.06, 0.06),
-    Scenario("High Adoption", 0.72, 0.66, 0.62, 0.66, 0.56, 0.64, 0.58, 0.52, 0.60, 0.24, 0.10, 0.08, 0.08),
-    Scenario("Integrated Planetary Cooling Scenario", 0.86, 0.86, 0.82, 0.84, 0.72, 0.76, 0.76, 0.72, 0.80, 0.64, 0.12, 0.10, 0.12),
+    Scenario("Baseline / No Cooling Credit", 0.03, 0.02, 0.02, 0.02, 0.01, 0.03, 0.01, 0.01, 0.02, 0.00, 0.00, 0.01, 0.01, 0.01, 0.02, 0.01, 0.01, 0.06),
+    Scenario("Low Adoption", 0.22, 0.18, 0.16, 0.18, 0.14, 0.20, 0.16, 0.12, 0.16, 0.04, 0.08, 0.12, 0.10, 0.12, 0.05, 0.04, 0.04, 0.05),
+    Scenario("Medium Adoption", 0.48, 0.42, 0.38, 0.42, 0.34, 0.42, 0.36, 0.30, 0.36, 0.12, 0.22, 0.34, 0.30, 0.34, 0.07, 0.06, 0.06, 0.04),
+    Scenario("High Adoption", 0.72, 0.66, 0.62, 0.66, 0.56, 0.64, 0.58, 0.52, 0.60, 0.24, 0.42, 0.56, 0.52, 0.56, 0.10, 0.08, 0.08, 0.03),
+    Scenario("Integrated Planetary Cooling Scenario", 0.86, 0.86, 0.82, 0.84, 0.72, 0.76, 0.76, 0.72, 0.80, 0.64, 0.56, 0.74, 0.70, 0.72, 0.12, 0.10, 0.12, 0.03),
+    Scenario("El Niño Emergency Response Scenario", 0.78, 0.78, 0.76, 0.74, 0.52, 0.58, 0.82, 0.76, 0.68, 0.36, 0.84, 0.86, 0.84, 0.82, 0.14, 0.12, 0.10, 0.04),
 ]
 
 
@@ -72,22 +80,39 @@ def simulate_scenario(scenario: Scenario) -> pd.DataFrame:
         treated = adoption_curve(year, scenario.treated_water_reuse)
         organic = adoption_curve(year, scenario.organic_matter_restoration)
         ocean = adoption_curve(year, scenario.ocean_cooling_support)
+        emergency = adoption_curve(year, scenario.emergency_heat_risk_reduction)
+        drought = adoption_curve(year, scenario.drought_buffering)
+        flood = adoption_curve(year, scenario.flood_buffering)
+        food = adoption_curve(year, scenario.food_system_cooling_support)
 
         background_heat_pressure = year * 0.42
-        heat_reduction = 17 * urban + 11 * water + 9 * vegetation + 7 * soil + 8 * waste + 4 * ocean
+        enso_risk_pressure = 100 + year * 0.55
+        heat_reduction = 17 * urban + 11 * water + 9 * vegetation + 7 * soil + 8 * waste + 4 * ocean + 5 * emergency
         heat_load_index = 100 + background_heat_pressure - heat_reduction
-        urban_heat_index = 100 + year * 0.35 - (18 * urban + 8 * vegetation + 6 * building + 5 * rainwater)
-        surface_temperature_index = 100 + year * 0.30 - (14 * urban + 9 * soil + 9 * vegetation + 5 * water)
-        water_cycle_index = 100 - year * 0.10 + (12 * water + 8 * rainwater + 7 * treated + 6 * soil + 5 * vegetation)
-        soil_moisture_index = 100 - year * 0.12 + (14 * soil + 8 * organic + 4 * rainwater)
-        vegetation_transpiration_index = 100 - year * 0.08 + (13 * vegetation + 7 * soil + 5 * water + 3 * organic)
+        urban_heat_index = 100 + year * 0.35 - (18 * urban + 8 * vegetation + 6 * building + 5 * rainwater + 7 * emergency)
+        surface_temperature_index = 100 + year * 0.30 - (14 * urban + 9 * soil + 9 * vegetation + 5 * water + 3 * emergency)
+        water_cycle_index = 100 - year * 0.10 + (12 * water + 8 * rainwater + 7 * treated + 6 * soil + 5 * vegetation + 5 * flood)
+        soil_moisture_index = 100 - year * 0.12 + (14 * soil + 8 * organic + 4 * rainwater + 7 * drought)
+        vegetation_transpiration_index = 100 - year * 0.08 + (13 * vegetation + 7 * soil + 5 * water + 3 * organic + 4 * food)
         waste_heat_index = 100 + year * 0.24 - (15 * waste + 12 * building)
-        cooling_demand_index = 100 + year * 0.28 - (10 * urban + 9 * building + 5 * vegetation + 4 * waste)
-        ecological_cooling_index = 100 - year * 0.08 + (11 * soil + 12 * vegetation + 8 * organic + 7 * water + 4 * ocean)
+        cooling_demand_index = 100 + year * 0.28 - (10 * urban + 9 * building + 5 * vegetation + 4 * waste + 5 * emergency)
+        ecological_cooling_index = 100 - year * 0.08 + (11 * soil + 12 * vegetation + 8 * organic + 7 * water + 4 * ocean + 3 * drought + 3 * flood)
+        el_nino_damage_risk_index = enso_risk_pressure - (
+            10 * emergency
+            + 9 * drought
+            + 8 * flood
+            + 7 * food
+            + 5 * water
+            + 4 * soil
+            + 4 * rainwater
+            + 3 * treated
+            + 3 * ocean
+        )
 
         water_stress_penalty = scenario.water_stress_penalty * (rainwater + treated + water) * 16
         humidity_risk_penalty = scenario.humidity_risk_penalty * max(urban + rainwater - 0.45, 0) * 18
         ecological_risk_penalty = scenario.ecological_risk_penalty * max(vegetation + ocean - 0.55, 0) * 16
+        poor_monitoring_penalty = scenario.poor_monitoring_penalty * max(emergency + ocean + flood - 0.45, 0) * 14
 
         cooling_credit_score = (
             (100 - heat_load_index) * 0.24
@@ -98,9 +123,11 @@ def simulate_scenario(scenario: Scenario) -> pd.DataFrame:
             + (100 - waste_heat_index) * 0.12
             + (100 - cooling_demand_index) * 0.08
             + (ecological_cooling_index - 100) * 0.13
+            + (100 - el_nino_damage_risk_index) * 0.10
             - water_stress_penalty
             - humidity_risk_penalty
             - ecological_risk_penalty
+            - poor_monitoring_penalty
         )
 
         rows.append(
@@ -117,6 +144,10 @@ def simulate_scenario(scenario: Scenario) -> pd.DataFrame:
                 "treated_water_reuse": treated,
                 "organic_matter_restoration": organic,
                 "ocean_cooling_support": ocean,
+                "emergency_heat_risk_reduction": emergency,
+                "drought_buffering": drought,
+                "flood_buffering": flood,
+                "food_system_cooling_support": food,
                 "heat_load_index": heat_load_index,
                 "urban_heat_index": urban_heat_index,
                 "surface_temperature_index": surface_temperature_index,
@@ -126,9 +157,11 @@ def simulate_scenario(scenario: Scenario) -> pd.DataFrame:
                 "waste_heat_index": waste_heat_index,
                 "cooling_demand_index": cooling_demand_index,
                 "ecological_cooling_index": ecological_cooling_index,
+                "el_nino_damage_risk_index": el_nino_damage_risk_index,
                 "water_stress_penalty": water_stress_penalty,
                 "humidity_risk_penalty": humidity_risk_penalty,
                 "ecological_risk_penalty": ecological_risk_penalty,
+                "poor_monitoring_penalty": poor_monitoring_penalty,
                 "cooling_credit_score": cooling_credit_score,
             }
         )
@@ -155,14 +188,22 @@ def plot_component_contribution(data: pd.DataFrame) -> None:
     final_year["water_recovery_component"] = final_year["water_cycle_index"] - 100
     final_year["ecological_recovery_component"] = final_year["ecological_cooling_index"] - 100
     final_year["waste_heat_component"] = 100 - final_year["waste_heat_index"]
+    final_year["el_nino_risk_reduction_component"] = 100 - final_year["el_nino_damage_risk_index"]
 
     components = [
         "heat_reduction_component",
         "water_recovery_component",
         "ecological_recovery_component",
         "waste_heat_component",
+        "el_nino_risk_reduction_component",
     ]
-    labels = ["Heat reduction", "Water-cycle recovery", "Ecological recovery", "Waste-heat reduction"]
+    labels = [
+        "Heat reduction",
+        "Water-cycle recovery",
+        "Ecological recovery",
+        "Waste-heat reduction",
+        "El Niño damage-risk reduction",
+    ]
 
     fig, ax = plt.subplots(figsize=(11, 6))
     bottom = np.zeros(len(final_year))
@@ -183,6 +224,9 @@ def plot_component_contribution(data: pd.DataFrame) -> None:
 
 
 def main() -> None:
+    if hasattr(sys.stdout, "reconfigure"):
+        sys.stdout.reconfigure(encoding="utf-8")
+
     RESULTS_DIR.mkdir(parents=True, exist_ok=True)
     data = pd.concat([simulate_scenario(scenario) for scenario in SCENARIOS], ignore_index=True)
     csv_path = RESULTS_DIR / "cooling_credit_scenario_summary.csv"
@@ -211,12 +255,19 @@ def main() -> None:
     )
     plot_component_contribution(data)
 
-    final = data[data["year"] == YEARS[-1]][["scenario", "heat_load_index", "water_cycle_index", "cooling_credit_score"]]
+    final = data[data["year"] == YEARS[-1]][[
+        "scenario",
+        "heat_load_index",
+        "water_cycle_index",
+        "el_nino_damage_risk_index",
+        "cooling_credit_score",
+    ]]
     print("Cooling Credit illustrative scenario simulation complete.")
-    print("This is not a climate prediction model.")
+    print("This is not a climate prediction model and does not predict ENSO behavior.")
     print(final.to_string(index=False, formatters={
         "heat_load_index": "{:.2f}".format,
         "water_cycle_index": "{:.2f}".format,
+        "el_nino_damage_risk_index": "{:.2f}".format,
         "cooling_credit_score": "{:.2f}".format,
     }))
     print(f"\nSaved CSV: {csv_path}")

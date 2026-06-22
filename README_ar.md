@@ -877,19 +877,22 @@ Cooling Credit Score =
 
 ---
 
-## وثائق المحاكاة والتنفيذ
+## وثائق المحاكاة والقياس والتنفيذ والاستجابة للنينيو
 
-- [Cooling Credit Impact Simulation](simulations/cooling_credit_impact_simulation/README.md)
-  محاكاة سيناريوهات توضيحية تقارن بين خط الأساس ومستويات مختلفة من اعتماد أرصدة التبريد.
+- [محاكاة تأثير أرصدة التبريد](simulations/cooling_credit_impact_simulation/README_ar.md)
+  محاكاة سيناريوهات توضيحية تقارن بين خط الأساس ومستويات مختلفة من اعتماد أرصدة التبريد، بما في ذلك سيناريو الاستجابة الطارئة للنينيو.
 
-- [Simulation Model](docs/SIMULATION_MODEL.md)
-  شرح تقني لبنية نموذج السيناريوهات، والمتغيرات، والمؤشرات، والعقوبات، والحدود.
+- [نموذج المحاكاة](docs/SIMULATION_MODEL_ar.md)
+  شرح تقني لبنية نموذج السيناريوهات، والمتغيرات، والمؤشرات، والعقوبات، وسيناريو الاستجابة الطارئة للنينيو، والحدود.
 
-- [MRV Guidelines](docs/MRV_GUIDELINES.md)
+- [إرشادات MRV](docs/MRV_GUIDELINES_ar.md)
   مبادئ القياس والإبلاغ والتحقق لأرصدة التبريد.
 
-- [Implementation Roadmap](docs/IMPLEMENTATION_ROADMAP.md)
-  خارطة طريق للتنفيذ من التجارب المحلية إلى الاعتماد البلدي والإقليمي والدولي.
+- [خارطة طريق التنفيذ](docs/IMPLEMENTATION_ROADMAP_ar.md)
+  خارطة طريق للتنفيذ من التجارب المحلية إلى الاعتماد البلدي والإقليمي والبحري والدولي.
+
+- [تكامل الاستجابة لظاهرة النينيو](docs/EL_NINO_RESPONSE_INTEGRATION_ar.md)
+  يشرح لماذا ينبغي إدخال أرصدة التبريد بشكل عاجل لتقليل مخاطر الحرارة والجفاف والفيضانات والغذاء والنظم البيئية في ظل ظروف النينيو أو النينيو الفائق.
 
 ---
 
@@ -923,6 +926,7 @@ https://note.com/inchacomusho/n/ne956f3a8fdf0
 | تبريد المحيطات        | [Direct Planetary Cooling via Ocean Tuning Units (OTU)](https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Tuning-Units-OTU-)                                                                      | الدوران العمودي للمحيط، وتبريد السطح، واستعادة الأكسجين المذاب        |
 | نظام تبريد متكامل     | [Global Planetary Cooling Ecosystem Regeneration System](https://github.com/InchaComisho/Global-Planetary-Cooling-Ecosystem-Regeneration-System)                                                                   | نموذج متكامل لتبريد المحيطات والمدن والصحارى وتجديد النظم البيئية     |
 | بنية الاحترار العالمي | [Global Warming Causal Structure Portal](https://github.com/InchaComisho/Global-Warming-Causal-Structure-Portal)                                                                                                   | بوابة لتحليل البنية السببية لعوامل الاحترار العالمي والتدخلات الممكنة |
+| النينيو واضطراب النظم البيئية | [El Niño, Super El Niño, Global Warming and Ecosystem Disruption](https://github.com/InchaComisho/El-Ni-o-Super-El-Ni-o-Global-Warming-and-Ecosystem-Disruption) | إطار مرتبط يوضح لماذا ينبغي إدخال أرصدة التبريد بشكل عاجل لتقليل مخاطر الحرارة والجفاف والفيضانات والغذاء والمحيطات والنظم البيئية المرتبطة بظاهرة النينيو أو النينيو الفائق |
 | نظام دوران الحرارة    | [Planetary Heat Circulation OS](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS)                                                                                                                     | نموذج مرتبط بدوران الحرارة الكوكبي، والتبريد، واستعادة دورة المياه    |
 | مدينة دورة المياه     | [Circular City Concept](https://github.com/InchaComisho/Circular-City-Concept)                                                                                                                                     | نموذج حضري لتدوير المياه، والحرارة، والمواد العضوية، والطاقة، والغذاء |
 | تبريد المركبات وتطبيقات التنقل | [Ultimate Hybrid Vehicle UHV](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV)                                                                                                                        | تصور لمركبة هجينة يرتبط بتبريد المركبات، وخفض الحرارة المهدرة، واستخدام الماء والهواء، والتكيف مع المناطق الجافة، ويمكن اعتباره مجالًا تطبيقيًا لأرصدة التبريد |

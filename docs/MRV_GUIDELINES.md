@@ -6,7 +6,7 @@ These guidelines define a practical Measurement, Reporting, and Verification str
 
 ## What Must Be Measured
 
-Cooling Credit evaluation should measure thermal reduction, water-cycle recovery, soil and vegetation cooling, waste-heat reduction, cooling-demand reduction, and implementation risks.
+Cooling Credit evaluation should measure thermal reduction, water-cycle recovery, soil and vegetation cooling, waste-heat reduction, cooling-demand reduction, El Niño-related damage-risk reduction where applicable, and implementation risks.
 
 ## Measurement Categories
 
@@ -20,6 +20,7 @@ Cooling Credit evaluation should measure thermal reduction, water-cycle recovery
 - Waste-heat reduction
 - Cooling-energy demand
 - Ocean surface or water-body temperature where applicable
+- El Niño-related risk indicators where applicable
 
 ## Baseline Design
 
@@ -43,7 +44,7 @@ Air temperature alone is insufficient. Projects using misting, evaporation, wate
 
 ## Ecological Safeguards
 
-Projects involving vegetation, soil, wetlands, rivers, coastal water, or ocean systems must monitor ecological suitability. Native species, biodiversity, water balance, invasive-species risk, and long-term ecosystem effects should be considered.
+Projects involving vegetation, soil, wetlands, rivers, coastal water, or ocean systems must monitor ecological suitability. Native species, biodiversity, water balance, invasive-species risk, and long-term ecosystem effects should be considered. Ecological harm must be penalized.
 
 ## Credit Calculation Principles
 
@@ -55,9 +56,11 @@ Cooling Credit Score =
 + Vegetation Cooling Recovery
 + Waste-Heat Reduction
 + Cooling Demand Reduction
++ El Niño Damage-Risk Reduction
 - Water Stress Penalty
 - Humidity Risk Penalty
 - Ecological Risk Penalty
+- Poor Monitoring Penalty
 ```
 
 Credit should be based on measurable cooling contribution. Regional conditions must be considered, and short-term cooling without long-term system recovery should receive lower credit.
@@ -72,8 +75,12 @@ Projects should disclose methods, sensor types, measurement periods, baselines, 
 
 ## Third-Party Verification
 
-Independent verification should review data quality, baseline design, control-area comparison, water-source sustainability, WBGT safeguards, ecological safeguards, and credit calculations.
+Independent verification should review data quality, baseline design, control-area comparison, water-source sustainability, WBGT safeguards, ecological safeguards, monitoring quality, and credit calculations.
+
+## Emergency Deployment Under El Niño Conditions
+
+Emergency El Niño deployment must prioritize harm reduction, food-system protection, water-cycle recovery, and heat-risk reduction. Projects may include emergency urban cooling zones, drought-buffering soil moisture recovery, rainwater storage and infiltration, treated-water reuse, wetland and watershed buffering, agricultural cooling pilots, and ocean monitoring where applicable. Emergency status does not remove the need for MRV; weak monitoring should reduce credit.
 
 ## Summary
 
-Cooling Credits should reward real heat-load reduction and natural cooling recovery. Credible MRV requires measured data, transparent baselines, control comparisons, seasonal correction, sustainable water use, WBGT checks, ecological safeguards, and independent verification.
+Cooling Credits should reward real heat-load reduction, water-cycle recovery, soil cooling, vegetation transpiration, waste-heat reduction, and ecological cooling recovery. Credible MRV requires measured data, transparent baselines, control comparisons, seasonal correction, sustainable water use, WBGT checks, ecological safeguards, emergency-risk indicators where relevant, and independent verification.

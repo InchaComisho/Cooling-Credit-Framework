@@ -702,19 +702,22 @@ Cooling Credit Score =
 
 ---
 
-## シミュレーション・実装関連文書
+## シミュレーション・MRV・実装・エルニーニョ対応文書
 
 - [クーリングクレジット実行シミュレーション](simulations/cooling_credit_impact_simulation/README_ja.md)
-  ベースライン、低導入、中導入、高導入、統合的地球冷却シナリオを比較する概念シミュレーション。
+  ベースライン、低導入、中導入、高導入、統合的地球冷却、エルニーニョ緊急対応シナリオを比較する概念シミュレーション。
 
 - [シミュレーションモデル](docs/SIMULATION_MODEL_ja.md)
-  シナリオ、変数、指標、ペナルティ、限界を整理した技術説明文書。
+  シナリオ、変数、指標、ペナルティ、エルニーニョ緊急対応シナリオ、限界を整理した技術説明文書。
 
 - [MRV指針](docs/MRV_GUIDELINES_ja.md)
   クーリングクレジットの測定・報告・検証に関する基本設計。
 
 - [実装ロードマップ](docs/IMPLEMENTATION_ROADMAP_ja.md)
-  小規模実証から自治体、農地、都市、地域、国際制度へ展開するための段階的ロードマップ。
+  小規模実証から自治体、農地、都市、地域、海洋、国際制度へ展開するための段階的ロードマップ。
+
+- [エルニーニョ対応統合文書](docs/EL_NINO_RESPONSE_INTEGRATION_ja.md)
+  エルニーニョ／スーパーエルニーニョ条件下で、熱・干ばつ・洪水・食料・生態系リスクを減らすために、クーリングクレジットを緊急導入すべき理由を整理した文書。
 
 ---
 
@@ -729,6 +732,7 @@ Cooling Credit Score =
 | 海洋冷却 | [Direct Planetary Cooling via Ocean Tuning Units (OTU)](https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Tuning-Units-OTU-) | 海洋鉛直循環・表層冷却・溶存酸素回復に関する技術体系 |
 | 統合冷却システム | [Global Planetary Cooling Ecosystem Regeneration System](https://github.com/InchaComisho/Global-Planetary-Cooling-Ecosystem-Regeneration-System) | 海洋・都市・砂漠を統合する惑星冷却・生態系再生モデル |
 | 温暖化構造分析 | [Global Warming Causal Structure Portal](https://github.com/InchaComisho/Global-Warming-Causal-Structure-Portal) | 温暖化要因・構造・対策を整理する因果構造ポータル |
+| エルニーニョ・生態系撹乱 | [El Niño, Super El Niño, Global Warming and Ecosystem Disruption](https://github.com/InchaComisho/El-Ni-o-Super-El-Ni-o-Global-Warming-and-Ecosystem-Disruption) | エルニーニョ／スーパーエルニーニョによる熱・干ばつ・洪水・食料・海洋・生態系リスクを減らすために、クーリングクレジットを緊急導入すべき理由を示す関連フレームワーク |
 | 熱循環OS | [Planetary Heat Circulation OS](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS) | 熱循環・冷却・水循環を文明OSとして扱う関連モデル |
 | 水循環都市 | [Circular City Concept](https://github.com/InchaComisho/Circular-City-Concept) | 水・熱・有機物・エネルギーを循環させる都市実装モデル |
 | 移動体冷却・車両応用 | [Ultimate Hybrid Vehicle UHV](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV) | 車両・移動体における冷却、排熱低減、水・空気利用、乾燥地帯対応など、クーリングクレジットの応用対象となるハイブリッド車構想 |

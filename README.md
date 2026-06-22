@@ -852,19 +852,22 @@ The Cooling Credit Framework is a proposed economic and technical system to conn
 
 ---
 
-## Simulation and Implementation Documents
+## Simulation, MRV, Implementation, and El Niño Response
 
 - [Cooling Credit Impact Simulation](simulations/cooling_credit_impact_simulation/README.md)
-  An illustrative scenario simulation comparing baseline, low, medium, high, and integrated Cooling Credit adoption.
+  An illustrative scenario simulation comparing baseline, low, medium, high, integrated, and El Niño emergency-response Cooling Credit adoption.
 
 - [Simulation Model](docs/SIMULATION_MODEL.md)
-  Technical explanation of the scenario model, variables, indices, penalties, and limitations.
+  Technical explanation of the scenario model, variables, indices, penalties, El Niño emergency scenario, and limitations.
 
 - [MRV Guidelines](docs/MRV_GUIDELINES.md)
   Measurement, reporting, and verification principles for Cooling Credits.
 
 - [Implementation Roadmap](docs/IMPLEMENTATION_ROADMAP.md)
-  Step-by-step roadmap from local pilots to municipal, regional, and international adoption.
+  Step-by-step roadmap from local pilots to municipal, regional, ocean, and international adoption.
+
+- [El Niño Response Integration](docs/EL_NINO_RESPONSE_INTEGRATION.md)
+  Explains why Cooling Credits should be introduced urgently to reduce heat, drought, flood, food-system, and ecosystem risks under El Niño / Super El Niño conditions.
 
 ---
 
@@ -879,6 +882,7 @@ The Cooling Credit Framework is a proposed economic and technical system to conn
 | Ocean Cooling | [Direct Planetary Cooling via Ocean Tuning Units (OTU)](https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Tuning-Units-OTU-) | Ocean vertical circulation, surface cooling, and dissolved oxygen recovery |
 | Integrated Cooling System | [Global Planetary Cooling Ecosystem Regeneration System](https://github.com/InchaComisho/Global-Planetary-Cooling-Ecosystem-Regeneration-System) | Integrated ocean–urban–desert cooling and ecosystem regeneration model |
 | Climate Structure | [Global Warming Causal Structure Portal](https://github.com/InchaComisho/Global-Warming-Causal-Structure-Portal) | Causal-structure portal for global warming drivers and interventions |
+| El Niño / Ecosystem Disruption | [El Niño, Super El Niño, Global Warming and Ecosystem Disruption](https://github.com/InchaComisho/El-Ni-o-Super-El-Ni-o-Global-Warming-and-Ecosystem-Disruption) | Related framework explaining why Cooling Credits should be urgently introduced to reduce El Niño-related heat, drought, flood, food-system, ocean, and ecosystem risks |
 | Heat Circulation OS | [Planetary Heat Circulation OS](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS) | Related model for planetary heat circulation, cooling, and water-cycle restoration |
 | Water-Circulation City | [Circular City Concept](https://github.com/InchaComisho/Circular-City-Concept) | Urban implementation model for water, heat, organic matter, energy, and food circulation |
 | Mobility Cooling / Vehicle Application | [Ultimate Hybrid Vehicle UHV](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV) | Hybrid vehicle concept related to mobile cooling, waste-heat reduction, water and air utilization, dry-region adaptation, and possible Cooling Credit applications |
