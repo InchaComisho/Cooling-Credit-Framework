@@ -877,6 +877,22 @@ Cooling Credit Score =
 
 ---
 
+## وثائق المحاكاة والتنفيذ
+
+- [Cooling Credit Impact Simulation](simulations/cooling_credit_impact_simulation/README.md)
+  محاكاة سيناريوهات توضيحية تقارن بين خط الأساس ومستويات مختلفة من اعتماد أرصدة التبريد.
+
+- [Simulation Model](docs/SIMULATION_MODEL.md)
+  شرح تقني لبنية نموذج السيناريوهات، والمتغيرات، والمؤشرات، والعقوبات، والحدود.
+
+- [MRV Guidelines](docs/MRV_GUIDELINES.md)
+  مبادئ القياس والإبلاغ والتحقق لأرصدة التبريد.
+
+- [Implementation Roadmap](docs/IMPLEMENTATION_ROADMAP.md)
+  خارطة طريق للتنفيذ من التجارب المحلية إلى الاعتماد البلدي والإقليمي والدولي.
+
+---
+
 ## الروابط ذات الصلة
 
 ### النسخ اللغوية

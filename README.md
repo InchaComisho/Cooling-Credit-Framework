@@ -852,6 +852,22 @@ The Cooling Credit Framework is a proposed economic and technical system to conn
 
 ---
 
+## Simulation and Implementation Documents
+
+- [Cooling Credit Impact Simulation](simulations/cooling_credit_impact_simulation/README.md)
+  An illustrative scenario simulation comparing baseline, low, medium, high, and integrated Cooling Credit adoption.
+
+- [Simulation Model](docs/SIMULATION_MODEL.md)
+  Technical explanation of the scenario model, variables, indices, penalties, and limitations.
+
+- [MRV Guidelines](docs/MRV_GUIDELINES.md)
+  Measurement, reporting, and verification principles for Cooling Credits.
+
+- [Implementation Roadmap](docs/IMPLEMENTATION_ROADMAP.md)
+  Step-by-step roadmap from local pilots to municipal, regional, and international adoption.
+
+---
+
 ## Related Repositories
 
 | Category | Repository | Relationship |

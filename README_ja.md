@@ -702,6 +702,22 @@ Cooling Credit Score =
 
 ---
 
+## シミュレーション・実装関連文書
+
+- [クーリングクレジット実行シミュレーション](simulations/cooling_credit_impact_simulation/README_ja.md)
+  ベースライン、低導入、中導入、高導入、統合的地球冷却シナリオを比較する概念シミュレーション。
+
+- [シミュレーションモデル](docs/SIMULATION_MODEL_ja.md)
+  シナリオ、変数、指標、ペナルティ、限界を整理した技術説明文書。
+
+- [MRV指針](docs/MRV_GUIDELINES_ja.md)
+  クーリングクレジットの測定・報告・検証に関する基本設計。
+
+- [実装ロードマップ](docs/IMPLEMENTATION_ROADMAP_ja.md)
+  小規模実証から自治体、農地、都市、地域、国際制度へ展開するための段階的ロードマップ。
+
+---
+
 ## 関連リポジトリ
 
 | 分類 | リポジトリ | 関係 |
