@@ -6,6 +6,14 @@
 
 ---
 
+## 言語 / Languages
+
+* [日本語版 / Japanese](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/README_ja.md)
+* [English Version / 英語版](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/README.md)
+* [العربية / Arabic](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/README_ar.md)
+
+---
+
 ## 概要
 
 **Cooling Credit Framework（クーリングクレジット制度設計案）** は、従来のカーボンクレジットが主に評価してきた「CO₂排出削減」や「炭素吸収」だけではなく、**実際に地域・都市・土壌・森林・海洋の熱負荷を低減する行為**に信用価値を与えるための制度モデルである。
@@ -707,6 +715,7 @@ Cooling Credit Score =
 | 温暖化構造分析 | [Global Warming Causal Structure Portal](https://github.com/InchaComisho/Global-Warming-Causal-Structure-Portal) | 温暖化要因・構造・対策を整理する因果構造ポータル |
 | 熱循環OS | [Planetary Heat Circulation OS](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS) | 熱循環・冷却・水循環を文明OSとして扱う関連モデル |
 | 水循環都市 | [Circular City Concept](https://github.com/InchaComisho/Circular-City-Concept) | 水・熱・有機物・エネルギーを循環させる都市実装モデル |
+| 移動体冷却・車両応用 | [Ultimate Hybrid Vehicle UHV](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV) | 車両・移動体における冷却、排熱低減、水・空気利用、乾燥地帯対応など、クーリングクレジットの応用対象となるハイブリッド車構想 |
 | 文明OS | [Civilization OS Framework](https://github.com/InchaComisho/Civilization-OS-Framework) | クーリングクレジットを文明制度設計に接続する上位フレームワーク |
 | 文明OS | [Civilization OS](https://github.com/InchaComisho/Civilization-OS) | 持続可能な文明設計の中核OSモデル |
 | REIMEI文明OS | [REIMEI Civilization OS](https://github.com/InchaComisho/REIMEI-Civilization-OS) | REIMEI構想に基づく文明再設計モデル |

@@ -4,6 +4,14 @@
 
 ---
 
+## Languages / 言語
+
+* [日本語版 / Japanese](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/README_ja.md)
+* [English Version / 英語版](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/README.md)
+* [العربية / Arabic](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/README_ar.md)
+
+---
+
 ## Overview
 
 The **Cooling Credit Framework** is a proposed environmental credit system that assigns measurable value not only to carbon reduction, but also to actions that **directly reduce heat loads** in cities, soils, forests, agricultural lands, oceans, buildings, and regional water systems.
@@ -857,6 +865,7 @@ The Cooling Credit Framework is a proposed economic and technical system to conn
 | Climate Structure | [Global Warming Causal Structure Portal](https://github.com/InchaComisho/Global-Warming-Causal-Structure-Portal) | Causal-structure portal for global warming drivers and interventions |
 | Heat Circulation OS | [Planetary Heat Circulation OS](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS) | Related model for planetary heat circulation, cooling, and water-cycle restoration |
 | Water-Circulation City | [Circular City Concept](https://github.com/InchaComisho/Circular-City-Concept) | Urban implementation model for water, heat, organic matter, energy, and food circulation |
+| Mobility Cooling / Vehicle Application | [Ultimate Hybrid Vehicle UHV](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV) | Hybrid vehicle concept related to mobile cooling, waste-heat reduction, water and air utilization, dry-region adaptation, and possible Cooling Credit applications |
 | Civilization OS | [Civilization OS Framework](https://github.com/InchaComisho/Civilization-OS-Framework) | Higher-level civilizational framework connecting cooling credits to institutional design |
 | Civilization OS | [Civilization OS](https://github.com/InchaComisho/Civilization-OS) | Core OS model for sustainable civilization design |
 | REIMEI Civilization OS | [REIMEI Civilization OS](https://github.com/InchaComisho/REIMEI-Civilization-OS) | REIMEI-based civilizational redesign model |
