@@ -1,0 +1,5 @@
+results/*.csv
+results/*.json
+!results/.gitkeep
+!results/example_summary.txt
+!results/example_results.json
