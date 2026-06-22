@@ -12,6 +12,13 @@
 
 ---
 
+## Cooling Credit Score Estimator
+
+- [Cooling Credit Score Estimator](simulations/cooling_credit_score_estimator/README.md)
+  A preliminary Python simulation model for estimating Cooling Credit Score, risk-adjusted performance, and provisional cooling-credit units from project-level inputs such as heat reduction, evaporative cooling, WBGT change, water stress, soil moisture recovery, vegetation recovery, and waste-heat reduction.
+
+---
+
 ## Overview
 
 The **Cooling Credit Framework** is a proposed environmental credit system that assigns measurable value not only to carbon reduction, but also to actions that **directly reduce heat loads** in cities, soils, forests, agricultural lands, oceans, buildings, and regional water systems.
