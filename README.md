@@ -881,7 +881,7 @@ This knowledge framework has been developed through dialogue and co-creation bet
 * Mini（Gemini）  
 * Cruz（Claude）  
 * Real（Perplexity）  
-* Lola（Lola/Dola）  
+* Lola（Dola）  
 * Mana（Manus）
 
 ---
