@@ -1,0 +1,421 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Cooling Credit Framework portal: from carbon accounting to measurable planetary cooling action." />
+  <title>Cooling Credit Framework Portal</title>
+  <style>
+    :root {
+      --bg: #071414;
+      --panel: #0f2424;
+      --panel2: #133030;
+      --text: #edfdf9;
+      --muted: #b8d5cf;
+      --accent: #60f0cf;
+      --accent2: #9ad7ff;
+      --border: rgba(255, 255, 255, 0.14);
+      --shadow: rgba(0, 0, 0, 0.35);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      color: var(--text);
+      background:
+        radial-gradient(circle at 20% 5%, rgba(96, 240, 207, 0.20), transparent 32rem),
+        radial-gradient(circle at 80% 0%, rgba(154, 215, 255, 0.15), transparent 30rem),
+        linear-gradient(180deg, #061010 0%, #081717 45%, #061010 100%);
+      line-height: 1.65;
+    }
+    a { color: inherit; }
+    .wrap { max-width: 1180px; margin: 0 auto; padding: 28px 18px 56px; }
+    header {
+      border: 1px solid var(--border);
+      background: linear-gradient(135deg, rgba(15, 36, 36, 0.92), rgba(19, 48, 48, 0.78));
+      border-radius: 28px;
+      padding: 34px;
+      box-shadow: 0 24px 60px var(--shadow);
+      position: relative;
+      overflow: hidden;
+    }
+    header::after {
+      content: "";
+      position: absolute;
+      inset: auto -10% -40% 40%;
+      height: 260px;
+      background: radial-gradient(circle, rgba(96,240,207,0.22), transparent 70%);
+      pointer-events: none;
+    }
+    .topbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 18px;
+      margin-bottom: 46px;
+      position: relative;
+      z-index: 1;
+    }
+    .brand { font-weight: 800; letter-spacing: 0.03em; color: var(--accent); }
+    .lang-switch { display: flex; gap: 8px; flex-wrap: wrap; }
+    button {
+      border: 1px solid var(--border);
+      background: rgba(255,255,255,0.06);
+      color: var(--text);
+      border-radius: 999px;
+      padding: 8px 14px;
+      cursor: pointer;
+      font-weight: 700;
+    }
+    button.active { background: var(--accent); color: #04201b; border-color: transparent; }
+    h1 { margin: 0 0 12px; font-size: clamp(2.0rem, 6vw, 5.2rem); line-height: 1.02; letter-spacing: -0.055em; position: relative; z-index: 1; }
+    .subtitle { max-width: 840px; color: var(--muted); font-size: clamp(1.05rem, 2.4vw, 1.45rem); margin: 0 0 28px; position: relative; z-index: 1; }
+    .actions { display: flex; gap: 12px; flex-wrap: wrap; position: relative; z-index: 1; }
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      min-height: 44px;
+      padding: 11px 16px;
+      border-radius: 999px;
+      text-decoration: none;
+      border: 1px solid var(--border);
+      background: rgba(255,255,255,0.07);
+      font-weight: 800;
+    }
+    .btn.primary { background: var(--accent); color: #04201b; border-color: transparent; }
+    .section { margin-top: 26px; }
+    .section-title { font-size: clamp(1.35rem, 3vw, 2.25rem); margin: 32px 0 12px; letter-spacing: -0.03em; }
+    .lead { color: var(--muted); max-width: 920px; margin: 0 0 18px; }
+    .grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; }
+    .grid.two { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .card {
+      border: 1px solid var(--border);
+      background: rgba(15, 36, 36, 0.82);
+      border-radius: 20px;
+      padding: 20px;
+      box-shadow: 0 12px 30px rgba(0,0,0,0.22);
+    }
+    .card h3 { margin: 0 0 8px; font-size: 1.04rem; }
+    .card p { margin: 0 0 14px; color: var(--muted); }
+    .card a { color: var(--accent2); font-weight: 800; text-decoration: none; }
+    .card a:hover { text-decoration: underline; }
+    .flow {
+      display: grid;
+      grid-template-columns: repeat(5, minmax(0, 1fr));
+      gap: 10px;
+      margin-top: 16px;
+    }
+    .step {
+      padding: 16px;
+      background: rgba(255,255,255,0.06);
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      min-height: 112px;
+    }
+    .step b { color: var(--accent); display: block; margin-bottom: 4px; }
+    footer { margin-top: 42px; color: var(--muted); border-top: 1px solid var(--border); padding-top: 24px; }
+    .rtl { direction: rtl; text-align: right; }
+    .rtl .topbar, .rtl .actions, .rtl .lang-switch { direction: ltr; }
+    .rtl .grid, .rtl .flow { direction: rtl; }
+    @media (max-width: 860px) {
+      header { padding: 24px; }
+      .grid, .grid.two, .flow { grid-template-columns: 1fr; }
+      .topbar { align-items: flex-start; flex-direction: column; margin-bottom: 32px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap" id="app">
+    <header>
+      <div class="topbar">
+        <div class="brand">Cooling Credit Framework</div>
+        <div class="lang-switch" aria-label="Language switcher">
+          <button type="button" data-lang="ja">日本語</button>
+          <button type="button" data-lang="en">English</button>
+          <button type="button" data-lang="ar">العربية</button>
+        </div>
+      </div>
+      <h1 id="heroTitle">Cooling Credit Framework</h1>
+      <p class="subtitle" id="heroSubtitle"></p>
+      <div class="actions" id="heroActions"></div>
+    </header>
+
+    <main>
+      <section class="section">
+        <h2 class="section-title" id="coreTitle"></h2>
+        <p class="lead" id="coreLead"></p>
+        <div class="grid" id="coreCards"></div>
+      </section>
+
+      <section class="section">
+        <h2 class="section-title" id="flowTitle"></h2>
+        <p class="lead" id="flowLead"></p>
+        <div class="flow" id="flowSteps"></div>
+      </section>
+
+      <section class="section">
+        <h2 class="section-title" id="toolsTitle"></h2>
+        <p class="lead" id="toolsLead"></p>
+        <div class="grid two" id="toolCards"></div>
+      </section>
+
+      <section class="section">
+        <h2 class="section-title" id="implTitle"></h2>
+        <p class="lead" id="implLead"></p>
+        <div class="grid" id="implCards"></div>
+      </section>
+
+      <section class="section">
+        <h2 class="section-title" id="relatedTitle"></h2>
+        <div class="grid two" id="relatedCards"></div>
+      </section>
+    </main>
+
+    <footer id="footer"></footer>
+  </div>
+
+  <script>
+    const repo = "https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/";
+    const portfolio = "https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio/blob/main/";
+    const centerMist = "https://github.com/InchaComisho/Center-Mist-Ultrasonic-Cooling-Fan-Concept/blob/main/";
+
+    const data = {
+      ja: {
+        dir: "ltr",
+        title: "クーリングクレジット制度設計ポータル",
+        subtitle: "帳簿上の相殺から、物理的な地球冷却へ。都市、土壌、森林、農地、海洋、生活技術の熱負荷低減を測定し、社会的・経済的価値へ変換するためのオープン制度設計ポータルです。",
+        actions: [
+          ["READMEを読む", repo + "README_ja.md", "primary"],
+          ["Score Estimator", repo + "simulations/cooling_credit_score_estimator/README_ja.md", ""],
+          ["実装ポートフォリオ", portfolio + "README_ja.md", ""]
+        ],
+        coreTitle: "中核文書",
+        coreLead: "クーリングクレジットの制度思想、MRV、ロードマップ、災害抑制理論、そしてカーボンクレジットからの転換を読む入口です。",
+        core: [
+          ["制度設計案", "クーリングクレジットの基本定義、評価対象、制度構造。", repo + "README_ja.md"],
+          ["Carbon Credit to Cooling Credit", "帳簿上の相殺から、物理的な地球冷却ビジネスへ。", repo + "docs/CARBON_CREDIT_TO_COOLING_CREDIT_ja.md"],
+          ["MRVガイドライン", "測定・報告・検証によって冷却貢献を制度化するための基礎。", repo + "docs/MRV_GUIDELINES_ja.md"],
+          ["実装ロードマップ", "制度化、実証、自治体・企業導入までの段階設計。", repo + "docs/IMPLEMENTATION_ROADMAP_ja.md"],
+          ["エルニーニョ応答統合", "海洋熱、異常気象、冷却行動の接続。", repo + "docs/EL_NINO_RESPONSE_INTEGRATION_ja.md"],
+          ["気候災害抑制理論", "熱負荷低減を災害リスク抑制として評価する考え方。", repo + "docs/CLIMATE_DISASTER_SUPPRESSION_THEORY_ja.md"]
+        ],
+        flowTitle: "制度の流れ",
+        flowLead: "クーリングクレジットは、冷却行動を測定可能なデータへ変換し、MRVを通して信用化する仕組みです。",
+        flow: [
+          ["1", "冷却行動", "都市冷却、腐葉土化、森林再生、排熱削減などを実施。"],
+          ["2", "測定", "気温、地表温度、WBGT、土壌水分、植生、使用水量を記録。"],
+          ["3", "MRV", "データを報告し、第三者確認・再現性・副作用を検証。"],
+          ["4", "Score化", "Cooling Credit Score Estimatorで予備評価。"],
+          ["5", "信用化", "物理的な冷却貢献を社会的・経済的価値へ変換。"]
+        ],
+        toolsTitle: "評価ツール・モデル",
+        toolsLead: "現場データを入力し、冷却貢献を予備評価するためのシミュレーションと数式定義です。",
+        tools: [
+          ["Cooling Credit Score Estimator", "気温、WBGT、土壌水分、植生、排熱、水ストレス、湿度リスクなどを入力し、冷却貢献を試算します。", repo + "simulations/cooling_credit_score_estimator/README_ja.md"],
+          ["Score Model Formula", "Cooling Credit Scoreの構成要素、加点・減点、リスク補正の考え方。", repo + "simulations/cooling_credit_score_estimator/MODEL_FORMULA_ja.md"],
+          ["Quickstart", "CSV入力から結果出力までの最短手順。", repo + "simulations/cooling_credit_score_estimator/README_QUICKSTART_ja.md"],
+          ["Disclaimer", "正式認証ではなく、予備評価・MRV設計・比較検討用であることの明記。", repo + "simulations/cooling_credit_score_estimator/README_DISCLAIMER.md"]
+        ],
+        implTitle: "実装モデルへの誘導",
+        implLead: "具体的な事業・自治体・地域実装は、Implementation Portfolio側で展開しています。",
+        impl: [
+          ["クーリングクレジット実装ポートフォリオ", "都市冷却、海洋、森林、土壌、有機資源循環、移動体冷却などの実装候補を統合。", portfolio + "README_ja.md"],
+          ["フードロス・腐葉土化クローズドループ", "レストラン、生ごみ、腐葉土化業者、農家をつなぐ循環型クーリングクレジットモデル。", portfolio + "docs/implementation_guides/FOOD_WASTE_TO_HUMUS_CLOSED_LOOP_COOLING_CREDIT_MODEL_ja.md"],
+          ["単一植生・放置林を冷却資産へ", "放置杉林や単一植生を、混交林化・原生林回復・果樹林化で冷却資産へ変えるモデル。", portfolio + "docs/implementation_guides/MONOCULTURE_FOREST_TO_COOLING_ASSET_MODEL_ja.md"],
+          ["都市冷却ステップガイド", "都市・商店街・公共空間で冷却実証を始めるための段階的ガイド。", portfolio + "docs/implementation_guides/URBAN_COOLING_STEP_BY_STEP_GUIDE_ja.md"],
+          ["海洋調律ステップガイド", "OTU・海洋調律を安全側の実証設計として整理。", portfolio + "docs/implementation_guides/OCEAN_TUNING_STEP_BY_STEP_GUIDE_ja.md"],
+          ["センター超音波ミスト冷却ファン", "短期的な物理冷却技術として、都市・乾燥地域・生活冷却に接続。", centerMist + "README_ja.md"]
+        ],
+        relatedTitle: "関連ポータル",
+        related: [
+          ["日本語README", "制度設計の本文へ。", repo + "README_ja.md"],
+          ["English README", "English framework document.", repo + "README.md"],
+          ["العربية", "النسخة العربية من الإطار.", repo + "README_ar.md"],
+          ["Repository", "GitHubリポジトリ本体。", "https://github.com/InchaComisho/Cooling-Credit-Framework"]
+        ],
+        footer: "Author: Master / inchacomusho / InchaComisho. This portal is an open conceptual and implementation index for Cooling Credits."
+      },
+      en: {
+        dir: "ltr",
+        title: "Cooling Credit Framework Portal",
+        subtitle: "From book-based offsetting to physically measurable planetary cooling. A multilingual portal for evaluating heat-load reduction across cities, soils, forests, farms, oceans, and everyday cooling technologies.",
+        actions: [
+          ["Read README", repo + "README.md", "primary"],
+          ["Score Estimator", repo + "simulations/cooling_credit_score_estimator/README.md", ""],
+          ["Implementation Portfolio", portfolio + "README.md", ""]
+        ],
+        coreTitle: "Core Documents",
+        coreLead: "Start here for the institutional concept, MRV, implementation roadmap, climate-disaster theory, and the transition from carbon credits to cooling credits.",
+        core: [
+          ["Framework", "Definition, evaluation targets, and institutional structure of Cooling Credits.", repo + "README.md"],
+          ["Carbon Credit to Cooling Credit", "From book-based offsetting to a physically measurable planetary cooling business.", repo + "docs/CARBON_CREDIT_TO_COOLING_CREDIT.md"],
+          ["MRV Guidelines", "Monitoring, reporting, and verification for cooling contributions.", repo + "docs/MRV_GUIDELINES.md"],
+          ["Implementation Roadmap", "A staged path from concept to pilots, policy, and enterprise adoption.", repo + "docs/IMPLEMENTATION_ROADMAP.md"],
+          ["El Niño Response Integration", "Connecting ocean heat, extreme events, and cooling actions.", repo + "docs/EL_NINO_RESPONSE_INTEGRATION.md"],
+          ["Climate Disaster Suppression Theory", "Heat-load reduction as a way to evaluate disaster-risk suppression.", repo + "docs/CLIMATE_DISASTER_SUPPRESSION_THEORY.md"]
+        ],
+        flowTitle: "How the System Works",
+        flowLead: "Cooling Credits convert cooling actions into measurable data, then into trusted value through MRV.",
+        flow: [
+          ["1", "Cooling Action", "Urban cooling, humus production, forest regeneration, waste-heat reduction, and more."],
+          ["2", "Measurement", "Record air temperature, surface temperature, WBGT, soil moisture, vegetation, and water use."],
+          ["3", "MRV", "Report data and verify reproducibility, integrity, and side effects."],
+          ["4", "Scoring", "Use the Cooling Credit Score Estimator for preliminary assessment."],
+          ["5", "Credit Value", "Convert physical cooling contribution into social and economic value."]
+        ],
+        toolsTitle: "Tools and Models",
+        toolsLead: "Simulation and formula documents for preliminary evaluation and MRV design.",
+        tools: [
+          ["Cooling Credit Score Estimator", "Estimate cooling contribution using temperature, WBGT, soil moisture, vegetation, waste heat, water stress, and humidity risk.", repo + "simulations/cooling_credit_score_estimator/README.md"],
+          ["Score Model Formula", "Scoring structure, positive components, penalties, and risk adjustment.", repo + "simulations/cooling_credit_score_estimator/MODEL_FORMULA.md"],
+          ["Quickstart", "Shortest path from CSV input to result output.", repo + "simulations/cooling_credit_score_estimator/README_QUICKSTART.md"],
+          ["Disclaimer", "Clarifies that the estimator is for preliminary assessment, MRV design, and comparison, not formal certification.", repo + "simulations/cooling_credit_score_estimator/README_DISCLAIMER.md"]
+        ],
+        implTitle: "Implementation Models",
+        implLead: "Concrete pilots and implementation candidates are organized in the Implementation Portfolio repository.",
+        impl: [
+          ["Cooling Credit Implementation Portfolio", "Integrated candidates across urban cooling, ocean systems, forests, soils, organic resources, mobility cooling, and more.", portfolio + "README.md"],
+          ["Food Waste to Humus Closed Loop", "A circular model connecting restaurants, organic waste, humus operators, and farmers.", portfolio + "docs/implementation_guides/FOOD_WASTE_TO_HUMUS_CLOSED_LOOP_COOLING_CREDIT_MODEL.md"],
+          ["Monoculture Forest to Cooling Asset", "Converting abandoned and monoculture forests into cooling assets through mixed-forest and edible-forest systems.", portfolio + "docs/implementation_guides/MONOCULTURE_FOREST_TO_COOLING_ASSET_MODEL.md"],
+          ["Urban Cooling Step-by-Step Guide", "A practical entry point for urban and public-space cooling pilots.", portfolio + "docs/implementation_guides/URBAN_COOLING_STEP_BY_STEP_GUIDE_ja.md"],
+          ["Ocean Tuning Step-by-Step Guide", "A safety-first pilot framework for OTU and ocean tuning concepts.", portfolio + "docs/implementation_guides/OCEAN_TUNING_STEP_BY_STEP_GUIDE_ja.md"],
+          ["Center-Mist Ultrasonic Cooling Fan", "A short-term physical cooling technology connected to cities, dry regions, and everyday cooling.", centerMist + "README.md"]
+        ],
+        relatedTitle: "Related Portals",
+        related: [
+          ["日本語README", "Japanese framework document.", repo + "README_ja.md"],
+          ["English README", "English framework document.", repo + "README.md"],
+          ["العربية", "Arabic framework document.", repo + "README_ar.md"],
+          ["Repository", "Main GitHub repository.", "https://github.com/InchaComisho/Cooling-Credit-Framework"]
+        ],
+        footer: "Author: Master / inchacomusho / InchaComisho. This portal is an open conceptual and implementation index for Cooling Credits."
+      },
+      ar: {
+        dir: "rtl",
+        title: "بوابة إطار أرصدة التبريد",
+        subtitle: "من التعويض الدفتري إلى التبريد الكوكبي الفيزيائي القابل للقياس. بوابة متعددة اللغات لتقييم خفض الحمل الحراري في المدن والتربة والغابات والمزارع والمحيطات وتقنيات التبريد اليومية.",
+        actions: [
+          ["اقرأ README", repo + "README_ar.md", "primary"],
+          ["مقدّر الدرجة", repo + "simulations/cooling_credit_score_estimator/README_ar.md", ""],
+          ["محفظة التنفيذ", portfolio + "README_ar.md", ""]
+        ],
+        coreTitle: "الوثائق الأساسية",
+        coreLead: "ابدأ من هنا لفهم المفهوم المؤسسي، وMRV، وخارطة التنفيذ، ونظرية الحد من كوارث المناخ، والانتقال من أرصدة الكربون إلى أرصدة التبريد.",
+        core: [
+          ["الإطار العام", "تعريف أرصدة التبريد، وأهداف التقييم، والبنية المؤسسية.", repo + "README_ar.md"],
+          ["من أرصدة الكربون إلى أرصدة التبريد", "من التعويض الدفتري إلى أعمال إنقاذ كوكبية قائمة على تبريد فيزيائي قابل للقياس.", repo + "docs/CARBON_CREDIT_TO_COOLING_CREDIT_ar.md"],
+          ["إرشادات MRV", "القياس والإبلاغ والتحقق لمساهمات التبريد.", repo + "docs/MRV_GUIDELINES_ar.md"],
+          ["خارطة التنفيذ", "مسار مرحلي من المفهوم إلى التجارب والسياسات والتبني المؤسسي.", repo + "docs/IMPLEMENTATION_ROADMAP_ar.md"],
+          ["تكامل الاستجابة لإل نينيو", "ربط حرارة المحيط والظواهر المتطرفة وأفعال التبريد.", repo + "docs/EL_NINO_RESPONSE_INTEGRATION_ar.md"],
+          ["نظرية الحد من كوارث المناخ", "تقييم خفض الحمل الحراري كوسيلة للحد من مخاطر الكوارث.", repo + "docs/CLIMATE_DISASTER_SUPPRESSION_THEORY_ar.md"]
+        ],
+        flowTitle: "كيف يعمل النظام",
+        flowLead: "تحول أرصدة التبريد أفعال التبريد إلى بيانات قابلة للقياس، ثم إلى قيمة موثوقة عبر MRV.",
+        flow: [
+          ["1", "فعل التبريد", "تبريد المدن، إنتاج الدبال، تجديد الغابات، خفض الحرارة المهدرة وغيرها."],
+          ["2", "القياس", "تسجيل حرارة الهواء والسطح وWBGT ورطوبة التربة والغطاء النباتي واستخدام المياه."],
+          ["3", "MRV", "الإبلاغ عن البيانات والتحقق من النزاهة والقابلية للتكرار والآثار الجانبية."],
+          ["4", "الدرجة", "استخدام مقدّر درجة أرصدة التبريد للتقييم الأولي."],
+          ["5", "القيمة", "تحويل مساهمة التبريد الفيزيائية إلى قيمة اجتماعية واقتصادية."]
+        ],
+        toolsTitle: "الأدوات والنماذج",
+        toolsLead: "وثائق المحاكاة والصيغ من أجل التقييم الأولي وتصميم MRV.",
+        tools: [
+          ["مقدّر درجة أرصدة التبريد", "تقدير مساهمة التبريد باستخدام الحرارة وWBGT ورطوبة التربة والغطاء النباتي والحرارة المهدرة وضغط المياه ومخاطر الرطوبة.", repo + "simulations/cooling_credit_score_estimator/README_ar.md"],
+          ["صيغة نموذج الدرجة", "بنية الدرجة، والعناصر الإيجابية، والخصومات، وتصحيح المخاطر.", repo + "simulations/cooling_credit_score_estimator/MODEL_FORMULA_ar.md"],
+          ["البدء السريع", "أقصر مسار من ملف CSV إلى نتائج التقييم.", repo + "simulations/cooling_credit_score_estimator/README_QUICKSTART_ar.md"],
+          ["إخلاء المسؤولية", "يوضح أن المقدّر للتقييم الأولي وتصميم MRV والمقارنة، وليس اعتمادًا رسميًا.", repo + "simulations/cooling_credit_score_estimator/README_DISCLAIMER.md"]
+        ],
+        implTitle: "نماذج التنفيذ",
+        implLead: "تُنظم التجارب والمرشحات العملية في مستودع محفظة التنفيذ.",
+        impl: [
+          ["محفظة تنفيذ أرصدة التبريد", "مرشحات متكاملة تشمل تبريد المدن والمحيطات والغابات والتربة والموارد العضوية وتبريد الحركة وغيرها.", portfolio + "README_ar.md"],
+          ["من مخلفات الطعام إلى الدبال", "نموذج دائري يربط المطاعم والمخلفات العضوية ومشغلي الدبال والمزارعين.", portfolio + "docs/implementation_guides/FOOD_WASTE_TO_HUMUS_CLOSED_LOOP_COOLING_CREDIT_MODEL_ar.md"],
+          ["الغابات كأصول تبريد", "تحويل الغابات المهملة والأحادية إلى أصول تبريد عبر الغابات المختلطة والغابات الصالحة للأكل.", portfolio + "docs/implementation_guides/MONOCULTURE_FOREST_TO_COOLING_ASSET_MODEL_ar.md"],
+          ["دليل تبريد المدن", "مدخل عملي لتجارب تبريد المدن والمساحات العامة.", portfolio + "docs/implementation_guides/URBAN_COOLING_STEP_BY_STEP_GUIDE_ja.md"],
+          ["دليل ضبط المحيط", "إطار تجريبي حذر وآمن لمفاهيم OTU وضبط المحيط.", portfolio + "docs/implementation_guides/OCEAN_TUNING_STEP_BY_STEP_GUIDE_ja.md"],
+          ["مروحة الرذاذ فوق الصوتي المركزي", "تقنية تبريد فيزيائية قصيرة الأجل للمدن والمناطق الجافة والتبريد اليومي.", centerMist + "README_ar.md"]
+        ],
+        relatedTitle: "بوابات ذات صلة",
+        related: [
+          ["日本語README", "الوثيقة اليابانية للإطار.", repo + "README_ja.md"],
+          ["English README", "الوثيقة الإنجليزية للإطار.", repo + "README.md"],
+          ["العربية", "الوثيقة العربية للإطار.", repo + "README_ar.md"],
+          ["Repository", "المستودع الرئيسي على GitHub.", "https://github.com/InchaComisho/Cooling-Credit-Framework"]
+        ],
+        footer: "المؤلف: Master / inchacomusho / InchaComisho. هذه البوابة فهرس مفتوح لمفهوم وتنفيذ أرصدة التبريد."
+      }
+    };
+
+    function detectLang() {
+      const saved = localStorage.getItem("cc_lang");
+      if (saved && data[saved]) return saved;
+      const lang = (navigator.language || navigator.userLanguage || "ja").toLowerCase();
+      if (lang.startsWith("ar")) return "ar";
+      if (lang.startsWith("ja")) return "ja";
+      return "en";
+    }
+
+    function cards(items) {
+      return items.map(([title, desc, href]) => `
+        <article class="card">
+          <h3>${title}</h3>
+          <p>${desc}</p>
+          <a href="${href}" target="_blank" rel="noopener">Open →</a>
+        </article>
+      `).join("");
+    }
+
+    function render(lang) {
+      const t = data[lang];
+      document.documentElement.lang = lang;
+      document.documentElement.dir = t.dir;
+      document.body.classList.toggle("rtl", t.dir === "rtl");
+      document.title = t.title;
+
+      document.getElementById("heroTitle").textContent = t.title;
+      document.getElementById("heroSubtitle").textContent = t.subtitle;
+      document.getElementById("heroActions").innerHTML = t.actions.map(([label, href, cls]) =>
+        `<a class="btn ${cls}" href="${href}" target="_blank" rel="noopener">${label}</a>`
+      ).join("");
+
+      document.getElementById("coreTitle").textContent = t.coreTitle;
+      document.getElementById("coreLead").textContent = t.coreLead;
+      document.getElementById("coreCards").innerHTML = cards(t.core);
+
+      document.getElementById("flowTitle").textContent = t.flowTitle;
+      document.getElementById("flowLead").textContent = t.flowLead;
+      document.getElementById("flowSteps").innerHTML = t.flow.map(([num, title, desc]) =>
+        `<div class="step"><b>${num}. ${title}</b><span>${desc}</span></div>`
+      ).join("");
+
+      document.getElementById("toolsTitle").textContent = t.toolsTitle;
+      document.getElementById("toolsLead").textContent = t.toolsLead;
+      document.getElementById("toolCards").innerHTML = cards(t.tools);
+
+      document.getElementById("implTitle").textContent = t.implTitle;
+      document.getElementById("implLead").textContent = t.implLead;
+      document.getElementById("implCards").innerHTML = cards(t.impl);
+
+      document.getElementById("relatedTitle").textContent = t.relatedTitle;
+      document.getElementById("relatedCards").innerHTML = cards(t.related);
+      document.getElementById("footer").textContent = t.footer;
+
+      document.querySelectorAll("button[data-lang]").forEach(btn => {
+        btn.classList.toggle("active", btn.dataset.lang === lang);
+      });
+    }
+
+    document.querySelectorAll("button[data-lang]").forEach(btn => {
+      btn.addEventListener("click", () => {
+        localStorage.setItem("cc_lang", btn.dataset.lang);
+        render(btn.dataset.lang);
+      });
+    });
+
+    render(detectLang());
+  </script>
+</body>
+</html>
