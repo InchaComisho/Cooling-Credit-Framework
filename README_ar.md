@@ -886,12 +886,12 @@ Cooling Credit Score =
 
 ### مقال NOTE باللغة اليابانية
 
-クーリングクレジットという温暖化対策
+クーリングクレジットという温暖化対策  
 https://note.com/inchacomusho/n/n0f541b313ad2
 
 ### مفهوم مرتبط
 
-地球直接冷却
+地球直接冷却  
 https://note.com/inchacomusho/n/ne956f3a8fdf0
 
 ---
