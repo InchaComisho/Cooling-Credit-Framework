@@ -844,22 +844,27 @@ The Cooling Credit Framework is a proposed economic and technical system to conn
 
 ---
 
-## Related Links
+## Related Repositories
 
-### Japanese NOTE Article
+| Category | Repository | Relationship |
+|---|---|---|
+| Master Portal | [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal) | Integrated portal for Master's public research, concepts, and technical frameworks |
+| Repository Index | [Natural Complementary Science and the New Civilizational Genesis Plan – Repository Index](https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index) | General index for Natural Complementary Science and the New Civilizational Genesis Plan |
+| Theoretical Foundation | [Natural Complementary Science](https://github.com/InchaComisho/Natural-Complementary-Science) | The theoretical foundation of the Cooling Credit Framework |
+| Direct Cooling | [Direct Planetary Cooling](https://github.com/InchaComisho/Direct-Planetary-Cooling) | Foundational concept for directly cooling the Earth system |
+| Ocean Cooling | [Direct Planetary Cooling via Ocean Tuning Units (OTU)](https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Tuning-Units-OTU-) | Ocean vertical circulation, surface cooling, and dissolved oxygen recovery |
+| Integrated Cooling System | [Global Planetary Cooling Ecosystem Regeneration System](https://github.com/InchaComisho/Global-Planetary-Cooling-Ecosystem-Regeneration-System) | Integrated ocean–urban–desert cooling and ecosystem regeneration model |
+| Climate Structure | [Global Warming Causal Structure Portal](https://github.com/InchaComisho/Global-Warming-Causal-Structure-Portal) | Causal-structure portal for global warming drivers and interventions |
+| Heat Circulation OS | [Planetary Heat Circulation OS](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS) | Related model for planetary heat circulation, cooling, and water-cycle restoration |
+| Water-Circulation City | [Circular City Concept](https://github.com/InchaComisho/Circular-City-Concept) | Urban implementation model for water, heat, organic matter, energy, and food circulation |
+| Civilization OS | [Civilization OS Framework](https://github.com/InchaComisho/Civilization-OS-Framework) | Higher-level civilizational framework connecting cooling credits to institutional design |
+| Civilization OS | [Civilization OS](https://github.com/InchaComisho/Civilization-OS) | Core OS model for sustainable civilization design |
+| REIMEI Civilization OS | [REIMEI Civilization OS](https://github.com/InchaComisho/REIMEI-Civilization-OS) | REIMEI-based civilizational redesign model |
 
-クーリングクレジットという温暖化対策  
-https://note.com/inchacomusho/n/n0f541b313ad2
+## Related NOTE Articles
 
-### Related Concept
-
-地球直接冷却  
-https://note.com/inchacomusho/n/ne956f3a8fdf0
-
-### Japanese README
-
-README_ja.md  
-https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/README_ja.md
+- [Cooling Credit as a Climate Strategy](https://note.com/inchacomusho/n/n0f541b313ad2)
+- [Direct Planetary Cooling](https://note.com/inchacomusho/n/ne956f3a8fdf0)
 
 ---
 

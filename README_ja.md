@@ -694,17 +694,27 @@ Cooling Credit Score =
 
 ---
 
-## 関連リンク
+## 関連リポジトリ
 
-### NOTE版
+| 分類 | リポジトリ | 関係 |
+|---|---|---|
+| 総合ポータル | [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal) | マスターの公開研究・思想・技術体系を統合する知識ポータル |
+| 総合インデックス | [Natural Complementary Science and the New Civilizational Genesis Plan – Repository Index](https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index) | 自然補完科学と新文明構想の総合インデックス |
+| 基礎理論 | [Natural Complementary Science](https://github.com/InchaComisho/Natural-Complementary-Science) | クーリングクレジットの理論的基盤となる自然補完科学 |
+| 地球直接冷却 | [Direct Planetary Cooling](https://github.com/InchaComisho/Direct-Planetary-Cooling) | 地球を直接冷やすための基礎構想 |
+| 海洋冷却 | [Direct Planetary Cooling via Ocean Tuning Units (OTU)](https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Tuning-Units-OTU-) | 海洋鉛直循環・表層冷却・溶存酸素回復に関する技術体系 |
+| 統合冷却システム | [Global Planetary Cooling Ecosystem Regeneration System](https://github.com/InchaComisho/Global-Planetary-Cooling-Ecosystem-Regeneration-System) | 海洋・都市・砂漠を統合する惑星冷却・生態系再生モデル |
+| 温暖化構造分析 | [Global Warming Causal Structure Portal](https://github.com/InchaComisho/Global-Warming-Causal-Structure-Portal) | 温暖化要因・構造・対策を整理する因果構造ポータル |
+| 熱循環OS | [Planetary Heat Circulation OS](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS) | 熱循環・冷却・水循環を文明OSとして扱う関連モデル |
+| 水循環都市 | [Circular City Concept](https://github.com/InchaComisho/Circular-City-Concept) | 水・熱・有機物・エネルギーを循環させる都市実装モデル |
+| 文明OS | [Civilization OS Framework](https://github.com/InchaComisho/Civilization-OS-Framework) | クーリングクレジットを文明制度設計に接続する上位フレームワーク |
+| 文明OS | [Civilization OS](https://github.com/InchaComisho/Civilization-OS) | 持続可能な文明設計の中核OSモデル |
+| REIMEI文明OS | [REIMEI Civilization OS](https://github.com/InchaComisho/REIMEI-Civilization-OS) | REIMEI構想に基づく文明再設計モデル |
 
-クーリングクレジットという温暖化対策  
-https://note.com/inchacomusho/n/n0f541b313ad2
+## 関連NOTE
 
-### 関連構想
-
-地球直接冷却  
-https://note.com/inchacomusho/n/ne956f3a8fdf0
+- [クーリングクレジットという温暖化対策](https://note.com/inchacomusho/n/n0f541b313ad2)
+- [地球直接冷却](https://note.com/inchacomusho/n/ne956f3a8fdf0)
 
 ---
 
@@ -774,4 +784,3 @@ Cooling Credit, クーリングクレジット, 地球直接冷却, Direct Plane
 #海洋循環
 #自然補完科学
 #持続可能な文明
-
