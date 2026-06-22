@@ -26,6 +26,15 @@
 
 ---
 
+## Multilingual HTML Portal
+
+- [Cooling Credit Framework Portal](index.html)
+  A multilingual HTML portal that automatically switches among Japanese, English, and Arabic, linking to the framework, MRV, Score Estimator, implementation portfolio, food-waste-to-humus model, monoculture forest regeneration, and center-mist ultrasonic cooling fan concept.
+
+- [GitHub Pages Portal Setup Note](docs/GITHUB_PAGES_PORTAL_SETUP.md)
+
+---
+
 ## Overview
 
 The **Cooling Credit Framework** is a proposed environmental credit system that assigns measurable value not only to carbon reduction, but also to actions that **directly reduce heat loads** in cities, soils, forests, agricultural lands, oceans, buildings, and regional water systems.

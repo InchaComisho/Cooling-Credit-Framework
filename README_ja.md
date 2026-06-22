@@ -28,6 +28,15 @@
 
 ---
 
+## 多言語HTMLポータル
+
+- [Cooling Credit Framework Portal](index.html)
+  日本語・英語・アラビア語に自動切替するHTMLポータルページ。制度設計、MRV、Score Estimator、実装ポートフォリオ、フードロス腐葉土化、単一植生・放置林再生、センター超音波ミスト冷却ファンへ誘導する入口。
+
+- [GitHub Pages ポータル設定メモ](docs/GITHUB_PAGES_PORTAL_SETUP_ja.md)
+
+---
+
 ## 概要
 
 **Cooling Credit Framework（クーリングクレジット制度設計案）** は、従来のカーボンクレジットが主に評価してきた「CO₂排出削減」や「炭素吸収」だけではなく、**実際に地域・都市・土壌・森林・海洋の熱負荷を低減する行為**に信用価値を与えるための制度モデルである。
