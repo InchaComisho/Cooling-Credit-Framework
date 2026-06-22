@@ -1,0 +1,7 @@
+Projects evaluated: 4
+Average Cooling Credit Score: 30.443
+Total gross preliminary units: 3900.263
+Total risk-adjusted preliminary units: 2172.396
+Grade distribution: D:2, E:2
+
+Disclaimer: These are preliminary, non-certified simulation results.
