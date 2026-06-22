@@ -1,0 +1,5 @@
+project_id,project_name,technology_type,baseline_air_temp_c,reduced_air_temp_c,baseline_surface_temp_c,reduced_surface_temp_c,baseline_wbgt_c,reduced_wbgt_c,cooled_area_m2,duration_hours,water_used_liters,evaporated_water_liters,recycled_water_ratio,electricity_used_kwh,soil_moisture_before_pct,soil_moisture_after_pct,vegetation_cover_before_pct,vegetation_cover_after_pct,waste_heat_reduction_kwh,water_stress_level,humidity_risk_level,ecological_risk_level,mrv_data_quality
+CC-URBAN-001,Center mist cooling pilot,urban_mist,36.0,33.8,49.0,42.0,31.5,29.6,800,120,18000,12500,0.70,420,8,8,5,5,600,0.35,0.45,0.15,0.82
+CC-SOIL-002,Organic humus soil recovery,soil_regeneration,34.0,33.2,46.0,39.5,30.2,29.7,5000,720,12000,2500,0.40,180,12,24,18,37,300,0.30,0.20,0.10,0.76
+CC-OCEAN-003,OTU coastal circulation test,ocean_tuning,30.0,29.5,31.5,30.4,28.0,27.8,20000,240,50000,6000,0.90,2200,0,0,0,0,1500,0.25,0.15,0.35,0.68
+CC-DRY-004,Dryland mist and vegetation buffer,desert_regeneration,41.0,38.5,58.0,48.0,33.8,31.4,10000,360,90000,65000,0.55,1600,4,15,2,18,700,0.75,0.30,0.20,0.72
