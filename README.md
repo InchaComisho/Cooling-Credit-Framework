@@ -19,6 +19,13 @@
 
 ---
 
+## Carbon Credit to Cooling Credit
+
+- [Carbon Credit to Cooling Credit: From Book-Based Offsetting to a Physically Measurable Planetary Cooling Business](docs/CARBON_CREDIT_TO_COOLING_CREDIT.md)
+  A concept document that contrasts carbon credits as book-based emissions accounting with Cooling Credits as a physically measurable framework for heat-load reduction, urban cooling, soil water retention, evapotranspiration recovery, forest regeneration, humus production, and waste-heat reduction.
+
+---
+
 ## Overview
 
 The **Cooling Credit Framework** is a proposed environmental credit system that assigns measurable value not only to carbon reduction, but also to actions that **directly reduce heat loads** in cities, soils, forests, agricultural lands, oceans, buildings, and regional water systems.
