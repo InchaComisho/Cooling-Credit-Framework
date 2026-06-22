@@ -1,0 +1,58 @@
+[
+  {
+    "project_id": "CC-URBAN-001",
+    "project_name": "Center mist cooling pilot",
+    "technology_type": "urban_mist",
+    "thermal_reduction_score": 76.521,
+    "evaporative_cooling_score": 100.0,
+    "wbgt_improvement_score": 47.5,
+    "water_cycle_recovery_score": 69.806,
+    "soil_moisture_recovery_score": 0.0,
+    "vegetation_transpiration_score": 0.0,
+    "waste_heat_reduction_score": 20.833,
+    "ecological_cooling_score": 13.961,
+    "water_stress_penalty": 0.788,
+    "humidity_risk_penalty": 1.465,
+    "ecological_risk_penalty": 3.75,
+    "energy_use_penalty": 0.461,
+    "positive_score_before_penalties": 47.431,
+    "total_penalty": 6.464,
+    "cooling_credit_score": 40.968,
+    "gross_cooling_credit_units": 45.534,
+    "risk_adjusted_cooling_credit_units": 32.25,
+    "scenario_grade": "D",
+    "mrv_reliability_level": "High",
+    "estimated_evaporative_cooling_kwh_th": 8506.944,
+    "net_air_temp_reduction_c": 2.2,
+    "net_surface_temp_reduction_c": 7.0,
+    "net_wbgt_reduction_c": 1.9,
+    "warnings": ""
+  },
+  {
+    "project_id": "CC-SOIL-002",
+    "project_name": "Organic humus soil recovery",
+    "technology_type": "soil_regeneration",
+    "cooling_credit_score": 30.691,
+    "risk_adjusted_cooling_credit_units": 839.696,
+    "scenario_grade": "E",
+    "mrv_reliability_level": "Medium"
+  },
+  {
+    "project_id": "CC-OCEAN-003",
+    "project_name": "OTU coastal circulation test",
+    "technology_type": "ocean_tuning",
+    "cooling_credit_score": 1.539,
+    "risk_adjusted_cooling_credit_units": 50.237,
+    "scenario_grade": "E",
+    "mrv_reliability_level": "Medium"
+  },
+  {
+    "project_id": "CC-DRY-004",
+    "project_name": "Dryland mist and vegetation buffer",
+    "technology_type": "desert_regeneration",
+    "cooling_credit_score": 47.581,
+    "risk_adjusted_cooling_credit_units": 1250.213,
+    "scenario_grade": "D",
+    "mrv_reliability_level": "Medium"
+  }
+]
