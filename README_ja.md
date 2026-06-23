@@ -1,6 +1,6 @@
-# Cooling Credit Framework
+# クーリングクレジット制度設計案
 
-## クーリングクレジット制度設計案
+## Cooling Credit Framework
 
 ### 地球直接冷却・水循環再生・地域熱負荷低減のための新しい温暖化対策モデル
 
