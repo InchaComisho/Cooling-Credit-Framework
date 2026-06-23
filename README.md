@@ -63,6 +63,14 @@ An entry guide explaining how investors, municipalities, companies, researchers,
 
 ---
 
+## Provisional Cooling Credit Unit Definition
+
+- [Provisional Cooling Credit Unit Definition](docs/PROVISIONAL_COOLING_CREDIT_UNIT.md)
+
+A document defining an initial evaluation unit for using Cooling Credits in pilot projects, score estimation, and institutional design. It treats temperature reduction, WBGT reduction, surface cooling, cooling demand reduction, soil moisture recovery, vegetation recovery, water-cycle recovery, organic-matter circulation, and maintenance continuity as provisional evaluation components rather than formal financial products.
+
+---
+
 ## Cooling Credit Score Estimator
 
 - [Cooling Credit Score Estimator](simulations/cooling_credit_score_estimator/README.md)
