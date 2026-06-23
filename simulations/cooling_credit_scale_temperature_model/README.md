@@ -115,6 +115,30 @@ This makes it possible to compare pilot-scale, municipal-scale, regional-scale, 
 
 ---
 
+## Example Results
+
+The following table shows key outputs generated from `example_inputs.csv`.
+
+| Scenario | Estimated Air Temp Reduction | Estimated WBGT Reduction | Estimated Cooling Demand Reduction | Cooling Score | Provisional Cooling Credits |
+|---|---:|---:|---:|---:|---:|
+| Small pilot | 0.268°C | 0.171°C | 1.74% | 25.3 | 39 |
+| District program | 1.470°C | 1.001°C | 9.94% | 149 | 319 |
+| Municipal deployment | 2.250°C | 1.679°C | 16.20% | 295 | 761 |
+| Regional watershed program | 2.250°C | 1.680°C | 16.20% | 349 | 1,052 |
+| National portfolio | 2.250°C | 1.680°C | 16.20% | 349 | 1,290 |
+
+---
+
+## How to Interpret These Results
+
+This simplified model intentionally uses saturation curves. Therefore, local or regional air-temperature reduction approaches an upper bound as implementation scale increases.
+
+Up to the municipal scale, estimated air-temperature reduction, WBGT reduction, and cooling-demand reduction increase substantially. At regional and national scales, temperature reduction itself approaches the model upper bound, while Cooling Score and provisional Cooling Credits may continue to grow through expanded project area, water-cycle recovery, ecosystem recovery, and implementation scale.
+
+This means that Cooling Credits should not be understood as a mechanism for unlimited temperature reduction. Rather, they are a framework for evaluating local cooling, heat-risk reduction, reduced cooling demand, water-cycle recovery, ecosystem recovery, and regional resilience as a combined value system.
+
+---
+
 ## Important Caution
 
 This model is not an official credit issuance model.
