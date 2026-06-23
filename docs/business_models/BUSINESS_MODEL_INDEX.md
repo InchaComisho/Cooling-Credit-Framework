@@ -14,7 +14,7 @@
 
 ## Overview
 
-This directory organizes Cooling Credits not only as a climate-countermeasure concept or technical framework, but as a set of **planetary rescue business models** that can involve nations, municipalities, companies, investors, fishery communities, forest owners, farmers, and local societies.
+This directory organizes Cooling Credits not only as a climate-countermeasure concept or technical framework, but as a set of **planetary rescue business models** that can involve nations, municipalities, companies, investors, fishery communities, forest owners, farmers, manufacturers, waste managers, and local societies.
 
 Social implementation requires more than technological possibility. It must clarify who invests, who operates, who benefits, what returns to the region, what is measured through MRV, and how the resulting cooling contribution can be evaluated as Cooling Credits.
 
@@ -70,6 +70,22 @@ A municipal and corporate model integrating parks, street trees, rooftop greenin
 - [Monoculture Mountain Forest to Native-Fruit Mixed Forest Business Model](MONOCULTURE_MOUNTAIN_FOREST_TO_NATIVE_FRUIT_FOREST_BUSINESS_MODEL.md)
 
 A model for converting monoculture or abandoned mountain forests into zoned systems of fruit orchards, wild edible forests, mushroom forests, nectar forests, evergreen forests, deciduous broadleaf forests, wildlife habitats, and watershed forests.
+
+---
+
+### 6. Center Mist Ultrasonic Cooling Fan Cooling Credit Business Model
+
+- [Center Mist Ultrasonic Cooling Fan Cooling Credit Business Model](CENTER_MIST_ULTRASONIC_COOLING_FAN_BUSINESS_MODEL.md)
+
+A low-entry model that evaluates small cooling devices introduced into homes, shops, factories, farms, schools, shelters, and outdoor spaces as measurable local cooling, heat-risk reduction, and air-conditioning load reduction.
+
+---
+
+### 7. Food Loss and Organic Waste to Humus Cooling Credit Model
+
+- [Food Loss and Organic Waste to Humus Cooling Credit Model](FOOD_LOSS_ORGANIC_WASTE_TO_HUMUS_COOLING_CREDIT_MODEL.md)
+
+A low-entry model that converts food loss, kitchen waste, fallen leaves, pruning branches, and organic waste into humus through drying, crushing, sanitation, and microbial treatment, evaluating incineration reduction, soil regeneration, water retention, evapotranspiration cooling, and carbon fixation.
 
 ---
 
