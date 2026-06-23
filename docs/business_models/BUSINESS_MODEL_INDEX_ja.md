@@ -4,6 +4,14 @@
 
 ---
 
+## Languages / 言語
+
+- [日本語](BUSINESS_MODEL_INDEX_ja.md)
+- [English](BUSINESS_MODEL_INDEX.md)
+- [العربية](BUSINESS_MODEL_INDEX_ar.md)
+
+---
+
 ## 概要
 
 このディレクトリは、クーリングクレジットを単なる温暖化対策の思想・技術モデルではなく、国家、自治体、企業、投資家、地域社会が参加できる **地球救済ビジネスモデル** として展開するための事業モデル集である。
