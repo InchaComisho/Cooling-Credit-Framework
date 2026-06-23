@@ -39,6 +39,14 @@ A market-design thesis for turning measurable cooling actions into investable, m
 
 ---
 
+## FAQ / Objections
+
+- [Cooling Credit FAQ: Common Questions and Objections](docs/FAQ_AND_OBJECTIONS.md)
+
+A supporting document answering common questions and objections about Cooling Credits, including the difference from carbon credits, emissions-offset concerns, MRV, greenwashing risk, water vapor, clouds, geoengineering, measurement, and payment mechanisms.
+
+---
+
 ## Cooling Credit Score Estimator
 
 - [Cooling Credit Score Estimator](simulations/cooling_credit_score_estimator/README.md)
