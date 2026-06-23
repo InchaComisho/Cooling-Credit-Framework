@@ -152,3 +152,12 @@
 
 - [فهرس نماذج الأعمال](BUSINESS_MODEL_INDEX_ar.md)
 - [README_ar.md](../../README_ar.md)
+
+## المستودعات والنماذج ذات الصلة
+
+- [نظام الحضارة الحضرية](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities)
+- [مفهوم المدينة الدائرية](https://github.com/InchaComisho/Circular-City-Concept)
+- [إطار أرصدة التبريد](https://github.com/InchaComisho/Cooling-Credit-Framework)
+- [محفظة تنفيذ أرصدة التبريد](https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio)
+- [نموذج تحويل فاقد الطعام والنفايات العضوية إلى دبال ضمن أرصدة التبريد](FOOD_LOSS_ORGANIC_WASTE_TO_HUMUS_COOLING_CREDIT_MODEL_ar.md)
+- [نموذج أعمال مروحة الرذاذ فوق الصوتي المركزي](CENTER_MIST_ULTRASONIC_COOLING_FAN_BUSINESS_MODEL_ar.md)

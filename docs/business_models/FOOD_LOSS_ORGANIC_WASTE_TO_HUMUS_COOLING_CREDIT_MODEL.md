@@ -182,3 +182,8 @@ This is the Food Loss and Organic Waste to Humus Cooling Credit Model.
 
 - [Business Model Index](BUSINESS_MODEL_INDEX.md)
 - [README](../../README.md)
+
+## Related Repositories and Models
+
+- [Urban Green Infrastructure Cooling Credit Model](URBAN_GREEN_INFRASTRUCTURE_COOLING_CREDIT_MODEL.md)
+- [Monoculture Mountain Forest to Native-Fruit Mixed Forest Business Model](MONOCULTURE_MOUNTAIN_FOREST_TO_NATIVE_FRUIT_FOREST_BUSINESS_MODEL.md)

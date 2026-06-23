@@ -156,3 +156,10 @@ MRVによる水循環・冷却・植生回復評価
 
 - [事業モデル・インデックス](BUSINESS_MODEL_INDEX_ja.md)
 - [README_ja.md](../../README_ja.md)
+
+## 関連リポジトリ / 関連モデル
+
+- [砂漠再生・有機物循環リポジトリ](https://github.com/InchaComisho/Desert-Regeneration-and-Food-Production-Through-Organic-Matter-Circulation)
+- [Cooling Credit Framework](https://github.com/InchaComisho/Cooling-Credit-Framework)
+- [Cooling Credit Implementation Portfolio](https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio)
+- [フードロス・有機ごみ腐葉土化クーリングクレジットモデル](FOOD_LOSS_ORGANIC_WASTE_TO_HUMUS_COOLING_CREDIT_MODEL_ja.md)

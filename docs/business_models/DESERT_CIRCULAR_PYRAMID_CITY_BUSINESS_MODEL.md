@@ -157,3 +157,10 @@ This is the Desert Circular Pyramid City Business Model.
 
 - [Business Model Index](BUSINESS_MODEL_INDEX.md)
 - [README](../../README.md)
+
+## Related Repositories and Models
+
+- [Desert Regeneration and Food Production Through Organic Matter Circulation](https://github.com/InchaComisho/Desert-Regeneration-and-Food-Production-Through-Organic-Matter-Circulation)
+- [Cooling Credit Framework](https://github.com/InchaComisho/Cooling-Credit-Framework)
+- [Cooling Credit Implementation Portfolio](https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio)
+- [Food Loss and Organic Waste to Humus Cooling Credit Model](FOOD_LOSS_ORGANIC_WASTE_TO_HUMUS_COOLING_CREDIT_MODEL.md)

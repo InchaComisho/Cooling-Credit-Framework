@@ -155,3 +155,8 @@
 
 - [فهرس نماذج الأعمال](BUSINESS_MODEL_INDEX_ar.md)
 - [README_ar.md](../../README_ar.md)
+
+## المستودعات والنماذج ذات الصلة
+
+- [المركبة الهجينة النهائية UHV](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV)
+- [نموذج أرصدة التبريد للبنية الخضراء الحضرية](URBAN_GREEN_INFRASTRUCTURE_COOLING_CREDIT_MODEL_ar.md)

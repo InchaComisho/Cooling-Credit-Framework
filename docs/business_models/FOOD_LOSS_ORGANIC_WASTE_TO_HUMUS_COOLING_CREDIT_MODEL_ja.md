@@ -181,3 +181,8 @@ MRV評価
 
 - [事業モデル・インデックス](BUSINESS_MODEL_INDEX_ja.md)
 - [README_ja.md](../../README_ja.md)
+
+## 関連リポジトリ / 関連モデル
+
+- [都市グリーンインフラ・クーリングクレジットモデル](URBAN_GREEN_INFRASTRUCTURE_COOLING_CREDIT_MODEL_ja.md)
+- [単一植生山林から在来果樹混交林への転換事業モデル](MONOCULTURE_MOUNTAIN_FOREST_TO_NATIVE_FRUIT_FOREST_BUSINESS_MODEL_ja.md)

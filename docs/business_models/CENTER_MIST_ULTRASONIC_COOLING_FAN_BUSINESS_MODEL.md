@@ -155,3 +155,8 @@ This is the Center Mist Ultrasonic Cooling Fan Cooling Credit Business Model.
 
 - [Business Model Index](BUSINESS_MODEL_INDEX.md)
 - [README](../../README.md)
+
+## Related Repositories and Models
+
+- [Ultimate Hybrid Vehicle UHV](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV)
+- [Urban Green Infrastructure Cooling Credit Model](URBAN_GREEN_INFRASTRUCTURE_COOLING_CREDIT_MODEL.md)

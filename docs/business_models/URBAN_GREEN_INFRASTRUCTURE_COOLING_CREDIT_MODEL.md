@@ -152,3 +152,12 @@ This is the Urban Green Infrastructure Cooling Credit Model.
 
 - [Business Model Index](BUSINESS_MODEL_INDEX.md)
 - [README](../../README.md)
+
+## Related Repositories and Models
+
+- [Urban-Civilization-OS](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities)
+- [Circular-City-Concept](https://github.com/InchaComisho/Circular-City-Concept)
+- [Cooling Credit Framework](https://github.com/InchaComisho/Cooling-Credit-Framework)
+- [Cooling Credit Implementation Portfolio](https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio)
+- [Food Loss and Organic Waste to Humus Cooling Credit Model](FOOD_LOSS_ORGANIC_WASTE_TO_HUMUS_COOLING_CREDIT_MODEL.md)
+- [Center Mist Ultrasonic Cooling Fan Business Model](CENTER_MIST_ULTRASONIC_COOLING_FAN_BUSINESS_MODEL.md)

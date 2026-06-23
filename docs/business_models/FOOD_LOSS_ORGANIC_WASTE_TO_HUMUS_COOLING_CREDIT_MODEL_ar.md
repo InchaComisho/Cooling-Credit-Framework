@@ -182,3 +182,8 @@
 
 - [فهرس نماذج الأعمال](BUSINESS_MODEL_INDEX_ar.md)
 - [README_ar.md](../../README_ar.md)
+
+## المستودعات والنماذج ذات الصلة
+
+- [نموذج أرصدة التبريد للبنية الخضراء الحضرية](URBAN_GREEN_INFRASTRUCTURE_COOLING_CREDIT_MODEL_ar.md)
+- [نموذج تحويل الغابات الجبلية أحادية النبات إلى غابات مختلطة من أشجار الفاكهة المحلية](MONOCULTURE_MOUNTAIN_FOREST_TO_NATIVE_FRUIT_FOREST_BUSINESS_MODEL_ar.md)

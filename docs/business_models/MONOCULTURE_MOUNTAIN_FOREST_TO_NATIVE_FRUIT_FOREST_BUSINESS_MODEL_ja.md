@@ -151,3 +151,11 @@ MRV評価
 
 - [事業モデル・インデックス](BUSINESS_MODEL_INDEX_ja.md)
 - [README_ja.md](../../README_ja.md)
+
+## 関連リポジトリ / 関連モデル
+
+- [Natural Microbial OS](https://github.com/InchaComisho/Natural-Microbial-OS)
+- [Natural Complementary Science](https://github.com/InchaComisho/Natural-Complementary-Science)
+- [Cooling Credit Framework](https://github.com/InchaComisho/Cooling-Credit-Framework)
+- [Cooling Credit Implementation Portfolio](https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio)
+- [フードロス・有機ごみ腐葉土化クーリングクレジットモデル](FOOD_LOSS_ORGANIC_WASTE_TO_HUMUS_COOLING_CREDIT_MODEL_ja.md)

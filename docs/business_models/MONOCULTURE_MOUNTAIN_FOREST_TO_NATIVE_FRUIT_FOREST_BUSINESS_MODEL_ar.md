@@ -152,3 +152,11 @@
 
 - [فهرس نماذج الأعمال](BUSINESS_MODEL_INDEX_ar.md)
 - [README_ar.md](../../README_ar.md)
+
+## المستودعات والنماذج ذات الصلة
+
+- [نظام التشغيل الميكروبي الطبيعي](https://github.com/InchaComisho/Natural-Microbial-OS)
+- [العلم التكميلي الطبيعي](https://github.com/InchaComisho/Natural-Complementary-Science)
+- [إطار أرصدة التبريد](https://github.com/InchaComisho/Cooling-Credit-Framework)
+- [محفظة تنفيذ أرصدة التبريد](https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio)
+- [نموذج تحويل فاقد الطعام والنفايات العضوية إلى دبال ضمن أرصدة التبريد](FOOD_LOSS_ORGANIC_WASTE_TO_HUMUS_COOLING_CREDIT_MODEL_ar.md)

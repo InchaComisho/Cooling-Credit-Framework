@@ -1037,3 +1037,10 @@ Cooling Credit, Cooling Credit Framework, Direct Planetary Cooling, Water-Circul
 
 - [Carbon Credit to Cooling Credit](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README.md)  
   A conceptual proposal that reframes offset-based carbon credits as book-based accounting and defines Cooling Credits as an investment framework for physically measurable heat-load reduction and planetary cooling.
+
+---
+
+## Cooling Credit Business Models
+
+- [Cooling Credit Business Model Index](docs/business_models/BUSINESS_MODEL_INDEX.md)
+  A link collection for developing Cooling Credits not only as a climate-policy framework, but also as business models that national governments, municipalities, companies, investors, and local communities can join.

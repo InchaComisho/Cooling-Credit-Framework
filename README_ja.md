@@ -887,3 +887,10 @@ Cooling Credit, クーリングクレジット, 地球直接冷却, Direct Plane
 
 - [カーボンクレジットからクーリングクレジットへ](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README_ja.md)  
   カーボンクレジットを帳簿上の相殺として整理し、クーリングクレジットを物理的な熱負荷低減に投資する地球救済ビジネスとして再定義する制度提案。
+
+---
+
+## クーリングクレジット事業モデル
+
+- [クーリングクレジット事業モデル・インデックス](docs/business_models/BUSINESS_MODEL_INDEX_ja.md)
+  クーリングクレジットを温暖化対策の制度だけでなく、国家・自治体・企業・投資家・地域社会が参加できる事業モデルとして展開するためのリンク集。

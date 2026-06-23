@@ -164,3 +164,11 @@ MRVによる冷却貢献評価
 
 - [事業モデル・インデックス](BUSINESS_MODEL_INDEX_ja.md)
 - [README_ja.md](../../README_ja.md)
+
+## 関連リポジトリ / 関連モデル
+
+- [Cooling Credit Framework](https://github.com/InchaComisho/Cooling-Credit-Framework)
+- [Cooling Credit Implementation Portfolio](https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio)
+- [Urban-Civilization-OS](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities)
+- [Circular-City-Concept](https://github.com/InchaComisho/Circular-City-Concept)
+- [Natural Complementary Science](https://github.com/InchaComisho/Natural-Complementary-Science)

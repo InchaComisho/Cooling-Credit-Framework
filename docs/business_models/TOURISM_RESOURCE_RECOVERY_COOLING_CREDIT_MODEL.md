@@ -165,3 +165,11 @@ This is the Tourism Resource Recovery Cooling Credit Model.
 
 - [Business Model Index](BUSINESS_MODEL_INDEX.md)
 - [README](../../README.md)
+
+## Related Repositories and Models
+
+- [Cooling Credit Framework](https://github.com/InchaComisho/Cooling-Credit-Framework)
+- [Cooling Credit Implementation Portfolio](https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio)
+- [Urban-Civilization-OS](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities)
+- [Circular-City-Concept](https://github.com/InchaComisho/Circular-City-Concept)
+- [Natural Complementary Science](https://github.com/InchaComisho/Natural-Complementary-Science)

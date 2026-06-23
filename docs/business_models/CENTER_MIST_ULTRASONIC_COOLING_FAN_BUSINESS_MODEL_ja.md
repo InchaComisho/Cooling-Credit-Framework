@@ -155,3 +155,8 @@ MRVによる冷却効果測定
 
 - [事業モデル・インデックス](BUSINESS_MODEL_INDEX_ja.md)
 - [README_ja.md](../../README_ja.md)
+
+## 関連リポジトリ / 関連モデル
+
+- [Ultimate Hybrid Vehicle UHV](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV)
+- [都市グリーンインフラ・クーリングクレジットモデル](URBAN_GREEN_INFRASTRUCTURE_COOLING_CREDIT_MODEL_ja.md)
