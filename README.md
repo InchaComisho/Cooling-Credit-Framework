@@ -55,6 +55,14 @@ A practical package for testing Cooling Credits in schools, parks, station plaza
 
 ---
 
+## Participant Entry Guide: Who Can Participate?
+
+- [Who Can Participate in Cooling Credits?](docs/WHO_CAN_PARTICIPATE.md)
+
+An entry guide explaining how investors, municipalities, companies, researchers, local communities, agriculture, fisheries, and tourism sectors can participate in the Cooling Credit Framework through funding, pilots, technology, measurement, research, local implementation, and natural-regeneration businesses.
+
+---
+
 ## Cooling Credit Score Estimator
 
 - [Cooling Credit Score Estimator](simulations/cooling_credit_score_estimator/README.md)
