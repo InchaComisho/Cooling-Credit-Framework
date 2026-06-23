@@ -1,0 +1,141 @@
+# クーリングクレジット導入規模別・冷却効果試算モデル
+
+[← Cooling Credit Framework README_ja.md へ戻る](../../README_ja.md)
+
+---
+
+## Languages / 言語
+
+- [日本語](README_ja.md)
+- [English](README.md)
+- [العربية](README_ar.md)
+
+---
+
+## 概要
+
+このシミュレーションは、クーリングクレジット施策をどの程度の規模で導入した場合に、どの程度の局所・地域的な冷却効果が期待され得るかを比較するための簡易シナリオモデルである。
+
+対象となる施策は、センター超音波ミスト冷却ファン、公共施設レトロフィット、有機ごみ腐葉土化、都市緑化、森林再生、土壌再生、海洋循環支援などである。
+
+このモデルは、実際の気候予測モデルではない。投資家、自治体、企業、研究者が、導入規模・投資額・冷却効果・クーリングスコアの関係を比較するための、初期的な感度分析モデルである。
+
+---
+
+## 目的
+
+```text
+導入規模
+↓
+冷却アクション量
+↓
+熱負荷低減
+↓
+気温・WBGT・冷房需要低下
+↓
+クーリングスコア
+↓
+仮クーリングクレジット
+↓
+投資判断・実装判断
+```
+
+---
+
+## 入力項目
+
+`example_inputs.csv` では、以下の列を使用する。
+
+| 列 | 内容 |
+|---|---|
+| scenario | シナリオ名 |
+| scale_level | 導入規模レベル |
+| project_area_ha | 対象面積 ha |
+| mist_fan_units | ミスト冷却ファン台数 |
+| public_facility_retrofits | 公共施設・交通施設レトロフィット数 |
+| organic_waste_tons_year | 有機ごみ処理量 t/年 |
+| urban_greening_ha | 都市緑化面積 ha |
+| forest_regeneration_ha | 森林再生面積 ha |
+| soil_restoration_ha | 土壌再生面積 ha |
+| ocean_circulation_units | 海洋循環支援ユニット数 |
+| investment_usd_million | 投資額 百万USD |
+
+---
+
+## 出力項目
+
+主な出力は以下である。
+
+- 推定気温低下
+- 推定地表温度低下
+- 推定WBGT低下
+- 推定冷房需要削減率
+- 水循環回復指数
+- 生態系回復指数
+- 暑熱リスク低減指数
+- クーリングスコア
+- 仮クーリングクレジット
+- 投資額あたり仮クレジット
+
+---
+
+## 実行方法
+
+```bash
+cd simulations/cooling_credit_scale_temperature_model
+python cooling_credit_scale_temperature_model.py
+```
+
+出力は `outputs/` に保存される。
+
+```text
+outputs/
+├─ scale_temperature_results.csv
+├─ scale_vs_air_temperature_reduction.png
+├─ scale_vs_wbgt_reduction.png
+├─ scale_vs_cooling_demand_reduction.png
+├─ scale_vs_cooling_score.png
+├─ investment_vs_cooling_credits.png
+└─ investment_vs_temperature_reduction.png
+```
+
+---
+
+## シナリオ例
+
+初期CSVには以下の5段階を入れている。
+
+1. Small pilot
+2. District program
+3. Municipal deployment
+4. Regional watershed program
+5. National portfolio
+
+これにより、小規模実証から国家規模ポートフォリオまで、導入規模と冷却効果の関係を比較できる。
+
+---
+
+## 注意事項
+
+本モデルは、公式なクレジット発行モデルではない。
+
+実際の気候予測、都市気象モデル、海洋モデル、健康影響評価、投資収益保証を行うものでもない。
+
+本モデルの目的は、施策規模と冷却効果の関係を可視化し、クーリングクレジット制度設計、事業モデル、実証実験、自治体導入、投資判断のための初期比較材料を提供することである。
+
+---
+
+## 関連リンク
+
+- [Cooling Credit Framework](../../README_ja.md)
+- [クーリングクレジットスコア試算モデル](../cooling_credit_score_estimator/README_ja.md)
+- [クーリングクレジット事業モデル](../../docs/business_models/BUSINESS_MODEL_INDEX_ja.md)
+- [支援・協力・実装に関するお願い](../../docs/SUPPORT_AND_COLLABORATION_ja.md)
+
+---
+
+## 原案・構想
+
+マスター / inchacomusho / InchaComisho
+
+物語構成・本文作成・文体調整・コード設計補助：G（ChatGPT）
