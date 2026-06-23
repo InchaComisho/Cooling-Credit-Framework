@@ -12,6 +12,15 @@
 
 ---
 
+## Support, Collaboration, and Implementation
+
+- [Support, Collaboration, and Implementation Policy](docs/SUPPORT_AND_COLLABORATION.md)
+
+This framework is openly published for the public interest and for the restoration of the Earth system.
+However, if it is used for implementation, commercialization, institutional design, research, or investment decisions, please provide clear credit to the original proposer, **Master / inchacomusho / InchaComisho**, and consider appropriate forms of support, collaboration, sponsorship, joint research, consulting, or implementation partnership.
+
+---
+
 ## Cooling Credit Score Estimator
 
 - [Cooling Credit Score Estimator](simulations/cooling_credit_score_estimator/README.md)
