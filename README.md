@@ -47,6 +47,14 @@ A supporting document answering common questions and objections about Cooling Cr
 
 ---
 
+## Cooling Credit Pilot Project Package
+
+- [Cooling Credit Pilot Project Package](docs/PILOT_PROJECT_PACKAGE.md)
+
+A practical package for testing Cooling Credits in schools, parks, station plazas, shopping streets, public facilities, farms, forests, waterfronts, and coastal areas through 30-day, 90-day, and one-year pilots. It defines measurement items such as air temperature, humidity, WBGT, surface temperature, cooling demand, soil moisture, vegetation, rainwater use, and organic-matter circulation, then connects them to Cooling Scores and provisional Cooling Credits.
+
+---
+
 ## Cooling Credit Score Estimator
 
 - [Cooling Credit Score Estimator](simulations/cooling_credit_score_estimator/README.md)
