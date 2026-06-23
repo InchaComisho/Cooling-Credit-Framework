@@ -149,6 +149,12 @@
         <div class="grid" id="coreCards"></div>
       </section>
 
+      <section class="section" id="searchSection">
+        <h2 class="section-title" id="searchTitle"></h2>
+        <p class="lead" id="searchLead"></p>
+        <div class="grid two" id="searchCards"></div>
+      </section>
+
       <section class="section">
         <h2 class="section-title" id="flowTitle"></h2>
         <p class="lead" id="flowLead"></p>
@@ -202,6 +208,12 @@
           ["実装ロードマップ", "制度化、実証、自治体・企業導入までの段階設計。", repo + "docs/IMPLEMENTATION_ROADMAP_ja.md"],
           ["エルニーニョ応答統合", "海洋熱、異常気象、冷却行動の接続。", repo + "docs/EL_NINO_RESPONSE_INTEGRATION_ja.md"],
           ["気候災害抑制理論", "熱負荷低減を災害リスク抑制として評価する考え方。", repo + "docs/CLIMATE_DISASTER_SUPPRESSION_THEORY_ja.md"]
+        ],
+        searchTitle: "日本語検索・概念普及",
+        searchLead: "クーリングクレジットがクレジットカードやクーリング・オフと混同される検索ノイズを逆手に取り、概念定義、複合キーワード、生活実装型スコアカード構想として整理する補助文書。",
+        search: [
+          ["クーリングクレジット検索戦略", "クレジットカード・クーリングオフとの混同を入口に、クーリングクレジットの固定定義と複合キーワードを整理。", repo + "docs/SEO_AND_SEARCH_STRATEGY_ja.md"],
+          ["Eco-Cooling Score Card 構想", "消費行動や生活行動を、地域冷却・水循環回復・土壌再生へつなぐスコアカード構想。", repo + "docs/ECO_COOLING_SCORE_CARD_CONCEPT_ja.md"]
         ],
         flowTitle: "制度の流れ",
         flowLead: "クーリングクレジットは、冷却行動を測定可能なデータへ変換し、MRVを通して信用化する仕組みです。",
@@ -390,6 +402,16 @@
       document.getElementById("coreTitle").textContent = t.coreTitle;
       document.getElementById("coreLead").textContent = t.coreLead;
       document.getElementById("coreCards").innerHTML = cards(t.core);
+
+      const searchSection = document.getElementById("searchSection");
+      if (t.search && t.search.length) {
+        searchSection.style.display = "";
+        document.getElementById("searchTitle").textContent = t.searchTitle;
+        document.getElementById("searchLead").textContent = t.searchLead;
+        document.getElementById("searchCards").innerHTML = cards(t.search);
+      } else {
+        searchSection.style.display = "none";
+      }
 
       document.getElementById("flowTitle").textContent = t.flowTitle;
       document.getElementById("flowLead").textContent = t.flowLead;

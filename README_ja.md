@@ -37,6 +37,15 @@
 
 ---
 
+## 日本語検索・概念普及のための補助文書
+
+- [クーリングクレジット検索戦略：クレジットカード・クーリングオフとの混同を逆手に取る](docs/SEO_AND_SEARCH_STRATEGY_ja.md)
+- [Eco-Cooling Score Card 構想：消費行動を地域冷却へつなぐ仕組み](docs/ECO_COOLING_SCORE_CARD_CONCEPT_ja.md)
+
+日本語検索では「クーリングクレジット」がクレジットカードやクーリング・オフと混同される場合があるため、概念定義、検索語、一般向け説明、生活実装型スコアカード構想を整理した補助文書です。
+
+---
+
 ## 多言語HTMLポータル
 
 - [Cooling Credit Framework Portal](index.html)
