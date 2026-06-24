@@ -73,6 +73,13 @@
 
 ---
 
+## 日本型高湿度クーリングクレジット・シミュレーション
+
+- [日本型高湿度クーリングクレジット・シミュレーション](simulations/high_humidity_cooling_credit_simulation/README_ja.md)
+  梅雨・高湿度環境におけるミスト冷却、除湿型WBGT低減、雨水貯留＋腐葉土化＋土壌保水の比較モデル。
+
+---
+
 ## クーリングクレジットスコア試算モデル
 
 - [クーリングクレジットスコア試算モデル](simulations/cooling_credit_score_estimator/README_ja.md)

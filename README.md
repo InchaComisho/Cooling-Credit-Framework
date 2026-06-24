@@ -71,6 +71,13 @@ A document defining an initial evaluation unit for using Cooling Credits in pilo
 
 ---
 
+## High-Humidity Cooling Credit Simulation
+
+- [High-Humidity Cooling Credit Simulation](simulations/high_humidity_cooling_credit_simulation/README.md)
+  A pre-verification simulation comparing mist cooling, dehumidification-based WBGT reduction, and rainwater-humus-soil moisture cooling potential in humid climates.
+
+---
+
 ## Cooling Credit Score Estimator
 
 - [Cooling Credit Score Estimator](simulations/cooling_credit_score_estimator/README.md)
