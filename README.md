@@ -1028,6 +1028,9 @@ In short:
 - [El Niño Warning and Cooling Credit](https://github.com/InchaComisho/El-Nino-Warning-and-Cooling-Credit)
   Explains why El Niño in the age of global warming should be understood as a warning signal from an already heat-loaded ocean, and connects that warning to Cooling Credits and thermal accounting.
 
+- [Japanese NOTE article on El Niño and Cooling Credits](https://note.com/inchacomusho/n/n3426a35cb2a2)
+  A public-facing Japanese article connecting El Niño, ocean heat accumulation, thermal accounting, and Cooling Credits.
+
 ## Related NOTE Articles
 
 - [Cooling Credit as a Climate Strategy](https://note.com/inchacomusho/n/n0f541b313ad2)
