@@ -1069,6 +1069,9 @@ https://note.com/inchacomusho/n/ne956f3a8fdf0
 
 ---
 
+- [تحذير النينيو وأرصدة التبريد](https://github.com/InchaComisho/El-Nino-Warning-and-Cooling-Credit/blob/main/README_ar.md)
+  يشرح لماذا ينبغي فهم النينيو في عصر الاحترار العالمي كإشارة تحذير من محيط محمّل بالحرارة، ويربط هذا التحذير بأرصدة التبريد والمحاسبة الحرارية.
+
 ## المؤلف
 
 ماستر / inchacomusho / InchaComisho
