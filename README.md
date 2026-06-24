@@ -1015,6 +1015,9 @@ In short:
 | Civilization OS | [Civilization OS](https://github.com/InchaComisho/Civilization-OS) | Core OS model for sustainable civilization design |
 | REIMEI Civilization OS | [REIMEI Civilization OS](https://github.com/InchaComisho/REIMEI-Civilization-OS) | REIMEI-based civilizational redesign model |
 
+- [Sustainable Future Cooling Credit Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal)
+  A multilingual search gateway connecting sustainability, SDGs, environmental mobility, ESG, climate adaptation, urban cooling, and Civilization OS to Cooling Credits.
+
 ## Related NOTE Articles
 
 - [Cooling Credit as a Climate Strategy](https://note.com/inchacomusho/n/n0f541b313ad2)

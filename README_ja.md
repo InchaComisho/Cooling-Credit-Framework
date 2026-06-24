@@ -874,6 +874,9 @@ Cooling Credit Score =
 | 文明OS | [Civilization OS](https://github.com/InchaComisho/Civilization-OS) | 持続可能な文明設計の中核OSモデル |
 | REIMEI文明OS | [REIMEI Civilization OS](https://github.com/InchaComisho/REIMEI-Civilization-OS) | REIMEI構想に基づく文明再設計モデル |
 
+- [Sustainable Future Cooling Credit Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal)
+  サステナブル、サステナビリティ、SDGs、環境モビリティ、ESG、気候適応、都市冷却、文明OSなどの検索語から、クーリングクレジットへ接続する多言語検索入口ポータル。
+
 ## 関連NOTE
 
 - [クーリングクレジットという温暖化対策](https://note.com/inchacomusho/n/n0f541b313ad2)
