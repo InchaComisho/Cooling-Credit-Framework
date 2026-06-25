@@ -893,6 +893,12 @@ Cooling Credit Score =
 - [NOTE版：温暖化時代のエルニーニョとクーリングクレジット](https://note.com/inchacomusho/n/n3426a35cb2a2)
   エルニーニョ、海洋蓄熱、熱会計、クーリングクレジットを一般向けに接続した記事。
 
+### 地球温暖化の因果構造とクーリングクレジット
+
+- [Cooling Credit Definition](https://github.com/InchaComisho/Cooling-Credit-Definition)
+
+
+
 ## 関連NOTE
 
 - [クーリングクレジットという温暖化対策](https://note.com/inchacomusho/n/n0f541b313ad2)
