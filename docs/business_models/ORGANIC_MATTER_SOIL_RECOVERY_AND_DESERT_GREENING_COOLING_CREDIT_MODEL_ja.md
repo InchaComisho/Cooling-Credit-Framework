@@ -6,6 +6,12 @@
 
 ---
 
+## 図解
+
+<p align="center">
+  <img src="./images/organic_matter_soil_recovery_desert_greening_model_ja.png" alt="有機物循環による土壌回復・砂漠緑化クーリングクレジットモデル" width="100%">
+</p>
+
 ## 概要
 
 本モデルは、有機物循環、土壌冷却、農地回復、乾燥地回復、砂漠縁辺部の緑化を、クーリングクレジット評価へ接続する事業モデルである。

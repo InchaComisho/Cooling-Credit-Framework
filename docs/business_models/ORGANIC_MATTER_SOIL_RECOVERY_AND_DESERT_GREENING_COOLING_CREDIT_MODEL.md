@@ -6,6 +6,12 @@
 
 ---
 
+## Visual Overview
+
+<p align="center">
+  <img src="./images/organic_matter_soil_recovery_desert_greening_model_en.png" alt="Organic Matter Circulation for Soil Recovery, Desert Greening, and Cooling Credit Model" width="100%">
+</p>
+
 ## Overview
 
 This model connects organic-matter circulation, soil cooling, farmland recovery, dryland restoration, and desert-edge greening as a Cooling Credit business model.
