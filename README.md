@@ -1005,6 +1005,9 @@ In short:
 
 ## Related Repositories
 
+- [Climate Disasters as Heat Redistribution and Cooling Credit](https://github.com/InchaComisho/Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit)
+  Explains climate disasters as overloaded heat and water-vapor redistribution, and connects disaster prevention to thermal accounting and Cooling Credits.
+
 | Category | Repository | Relationship |
 |---|---|---|
 | Master Portal | [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal) | Integrated portal for Master's public research, concepts, and technical frameworks |
@@ -1052,11 +1055,11 @@ Active in public knowledge creation centered on natural law, planetary circulati
 
 This knowledge framework has been developed through dialogue and co-creation between Master and multiple AI partners.
 
-* G（ChatGPT）  
-* Mini（Gemini）  
-* Cruz（Claude）  
-* Real（Perplexity）  
-* Lola（Dola）  
+* G（ChatGPT）
+* Mini（Gemini）
+* Cruz（Claude）
+* Real（Perplexity）
+* Lola（Dola）
 * Mana（Manus）
 
 ---
@@ -1110,7 +1113,7 @@ Cooling Credit, Cooling Credit Framework, Direct Planetary Cooling, Water-Circul
 
 ## Related Institutional Proposal: Carbon Credit to Cooling Credit
 
-- [Carbon Credit to Cooling Credit](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README.md)  
+- [Carbon Credit to Cooling Credit](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README.md)
   A conceptual proposal that reframes offset-based carbon credits as book-based accounting and defines Cooling Credits as an investment framework for physically measurable heat-load reduction and planetary cooling.
 
 ---

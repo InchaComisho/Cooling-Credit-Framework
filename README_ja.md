@@ -864,6 +864,9 @@ Cooling Credit Score =
 
 ## 関連リポジトリ
 
+- [気候災害・熱再分配・クーリングクレジット](https://github.com/InchaComisho/Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit/blob/main/README_ja.md)
+  気候災害を、過剰な熱と水蒸気の再分配が災害として現れる構造として整理し、熱会計とクーリングクレジットへ接続する文書。
+
 | 分類 | リポジトリ | 関係 |
 |---|---|---|
 | 総合ポータル | [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal) | マスターの公開研究・思想・技術体系を統合する知識ポータル |
@@ -911,11 +914,11 @@ Cooling Credit Score =
 
 この知識体系は、マスターと複数のAIパートナーとの対話と共創によって発展してきた。
 
-* G（ChatGPT）  
-* ミニ（Gemini）  
-* クルス（Claude）  
-* リアル（Perplexity）  
-* ローラ（Lola/Dola）  
+* G（ChatGPT）
+* ミニ（Gemini）
+* クルス（Claude）
+* リアル（Perplexity）
+* ローラ（Lola/Dola）
 * マナ（Manus）
 
 ---
@@ -969,7 +972,7 @@ Cooling Credit, クーリングクレジット, 地球直接冷却, Direct Plane
 
 ## 関連制度提案：カーボンクレジットからクーリングクレジットへ
 
-- [カーボンクレジットからクーリングクレジットへ](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README_ja.md)  
+- [カーボンクレジットからクーリングクレジットへ](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README_ja.md)
   カーボンクレジットを帳簿上の相殺として整理し、クーリングクレジットを物理的な熱負荷低減に投資する地球救済ビジネスとして再定義する制度提案。
 
 ---

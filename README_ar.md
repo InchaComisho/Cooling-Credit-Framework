@@ -985,6 +985,9 @@ Cooling Credit Score =
 
 ## الروابط ذات الصلة
 
+- [الكوارث المناخية وإعادة توزيع الحرارة وأرصدة التبريد](https://github.com/InchaComisho/Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit/blob/main/README_ar.md)
+  يشرح الكوارث المناخية بوصفها إعادة توزيع مثقلة للحرارة وبخار الماء، ويربط الوقاية من الكوارث بالمحاسبة الحرارية وأرصدة التبريد.
+
 ### النسخ اللغوية
 
 * [日本語版 / Japanese README](https://github.com/InchaComisho/Cooling-Credit-Framework/blob/main/README_ja.md)
@@ -992,12 +995,12 @@ Cooling Credit Score =
 
 ### مقال NOTE باللغة اليابانية
 
-クーリングクレジットという温暖化対策  
+クーリングクレジットという温暖化対策
 https://note.com/inchacomusho/n/n0f541b313ad2
 
 ### مفهوم مرتبط
 
-地球直接冷却  
+地球直接冷却
 https://note.com/inchacomusho/n/ne956f3a8fdf0
 
 ---
@@ -1089,12 +1092,12 @@ https://note.com/inchacomusho/n/ne956f3a8fdf0
 
 تطور هذا الإطار المعرفي من خلال الحوار والتشارك بين ماستر وعدة شركاء من الذكاء الاصطناعي.
 
-* G（ChatGPT）  
-* Mini（Gemini）  
-* Cruz（Claude）  
-* Real（Perplexity）  
-* Lola（Lola/Dola）  
-* Mana（Manus）  
+* G（ChatGPT）
+* Mini（Gemini）
+* Cruz（Claude）
+* Real（Perplexity）
+* Lola（Lola/Dola）
+* Mana（Manus）
 
 ---
 
@@ -1153,7 +1156,7 @@ Cooling Credit, Cooling Credit Framework, أرصدة التبريد, إطار أ
 
 ## مقترح مؤسسي ذو صلة: من أرصدة الكربون إلى أرصدة التبريد
 
-- [من أرصدة الكربون إلى أرصدة التبريد](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README_ar.md)  
+- [من أرصدة الكربون إلى أرصدة التبريد](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit/blob/main/README_ar.md)
   مقترح مفاهيمي يعيد صياغة أرصدة الكربون القائمة على التعويض بوصفها محاسبة دفترية، ويعرّف أرصدة التبريد كإطار استثماري لخفض الحمل الحراري القابل للقياس والتبريد الكوكبي.
 
 ---
