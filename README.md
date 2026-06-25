@@ -1122,3 +1122,5 @@ Cooling Credit, Cooling Credit Framework, Direct Planetary Cooling, Water-Circul
 
 - [Cooling Credit Business Model Index](docs/business_models/BUSINESS_MODEL_INDEX.md)
   A link collection for developing Cooling Credits not only as a climate-policy framework, but also as business models that national governments, municipalities, companies, investors, and local communities can join.
+- [Organic Matter Circulation for Soil Recovery and Desert Greening Cooling Credit Model](docs/business_models/ORGANIC_MATTER_SOIL_RECOVERY_AND_DESERT_GREENING_COOLING_CREDIT_MODEL.md)
+  A bridge model connecting organic waste humus conversion, farmland soil recovery, dryland restoration, desert-edge greening, and Cooling Credit evaluation.

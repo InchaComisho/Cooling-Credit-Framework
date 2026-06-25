@@ -89,6 +89,14 @@ A low-entry model that converts food loss, kitchen waste, fallen leaves, pruning
 
 ---
 
+### 8. Organic Matter Circulation for Soil Recovery and Desert Greening Cooling Credit Model
+
+- [Organic Matter Circulation for Soil Recovery and Desert Greening Cooling Credit Model](./ORGANIC_MATTER_SOIL_RECOVERY_AND_DESERT_GREENING_COOLING_CREDIT_MODEL.md)
+
+A bridge model connecting organic waste humus conversion, farmland soil recovery, dryland restoration, desert-edge greening, and Cooling Credit evaluation.
+
+---
+
 ## Common Evaluation Axes
 
 - air-temperature reduction,

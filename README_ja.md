@@ -981,3 +981,5 @@ Cooling Credit, クーリングクレジット, 地球直接冷却, Direct Plane
 
 - [クーリングクレジット事業モデル・インデックス](docs/business_models/BUSINESS_MODEL_INDEX_ja.md)
   クーリングクレジットを温暖化対策の制度だけでなく、国家・自治体・企業・投資家・地域社会が参加できる事業モデルとして展開するためのリンク集。
+- [有機物循環による土壌回復・砂漠緑化クーリングクレジットモデル](docs/business_models/ORGANIC_MATTER_SOIL_RECOVERY_AND_DESERT_GREENING_COOLING_CREDIT_MODEL_ja.md)
+  フードロス・有機ごみ腐葉土化、農地の土壌回復、乾燥地・砂漠縁辺部の緑化、クーリングクレジット評価を接続するビジネスモデル。
