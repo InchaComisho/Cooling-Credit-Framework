@@ -12,6 +12,12 @@
 
 ---
 
+## Visual Overview
+
+<p align="center">
+  <img src="./images/FOOD_LOSS_ORGANIC_WASTE_TO_HUMUS_EN.png" alt="Food Loss and Organic Waste to Humus Cooling Credit Model" width="100%">
+</p>
+
 ## Overview
 
 This model converts food loss, kitchen waste, fallen leaves, pruning branches, and organic waste into humus through drying, crushing, sanitation, and microbial treatment. It is a **low-entry Cooling Credit business model** that evaluates incineration reduction, soil regeneration, water-retention recovery, evapotranspiration cooling, and carbon fixation together.
