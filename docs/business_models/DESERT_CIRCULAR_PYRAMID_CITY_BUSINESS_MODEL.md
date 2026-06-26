@@ -12,6 +12,10 @@
 
 ---
 
+![Desert Circular Pyramid City Business Model](images/DESERT_CIRCULAR_PYRAMID_CITY_EN.png)
+
+---
+
 ## Overview
 
 This model redefines deserts not as unusable land, but as **national regeneration assets integrating water circulation, food production, cooling, tourism, research, and habitation**.
