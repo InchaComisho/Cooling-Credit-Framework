@@ -12,6 +12,10 @@
 
 ---
 
+![Monoculture Mountain Forest to Native Fruit Forest Business Model](images/MONOCULTURE_MOUNTAIN_FOREST_TO_NATIVE_FRUIT_FOREST_AR.png)
+
+---
+
 ## نظرة عامة
 
 يحوّل هذا النموذج الغابات الجبلية أحادية النبات أو المهملة إلى **أصول تبريد تجمع بين الغابات الطبيعية متعددة الطبقات، وبساتين الفاكهة، وغابات الحياة البرية، وغابات تغذية الأحواض المائية، والسياحة، والتعليم**.
