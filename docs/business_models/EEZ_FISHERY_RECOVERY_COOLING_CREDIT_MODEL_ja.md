@@ -7,8 +7,12 @@
 ## Languages / 言語
 
 - [日本語](EEZ_FISHERY_RECOVERY_COOLING_CREDIT_MODEL_ja.md)
-- [English](EEZ_FISHERY_RECOVERY_COOLING_CREDIT_MODEL.md) ※準備中
-- [العربية](EEZ_FISHERY_RECOVERY_COOLING_CREDIT_MODEL_ar.md) ※準備中
+- [English](EEZ_FISHERY_RECOVERY_COOLING_CREDIT_MODEL.md)
+- [العربية](EEZ_FISHERY_RECOVERY_COOLING_CREDIT_MODEL_ar.md)
+
+---
+
+![排他的経済水域・漁場回復クーリングクレジットモデル](images/EEZ_FISHERY_RECOVERY_COOLING_CREDIT_MODEL.png)
 
 ---
 
