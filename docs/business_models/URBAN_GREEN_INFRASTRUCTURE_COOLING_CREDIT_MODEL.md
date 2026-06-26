@@ -12,6 +12,10 @@
 
 ---
 
+![Urban Green Infrastructure Cooling Credit Model](images/URBAN_GREEN_INFRASTRUCTURE_EN.png)
+
+---
+
 ## Overview
 
 This model integrates parks, street trees, rooftop greening, rainwater use, water-retentive pavement, urban farms, mist cooling, and organic humus circulation as a **municipal and corporate Cooling Credit business model for reducing urban heat load**.
