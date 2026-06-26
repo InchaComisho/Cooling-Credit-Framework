@@ -12,6 +12,10 @@
 
 ---
 
+![Center Mist Ultrasonic Cooling Fan Business Model](images/CENTER_MIST_ULTRASONIC_COOLING_FAN_EN.png)
+
+---
+
 ## Overview
 
 This model deploys center mist ultrasonic cooling fans in homes, shops, factories, farms, shopping streets, outdoor events, schools, welfare facilities, shelters, public buildings, and transportation systems as a **low-entry distributed Cooling Credit business model**.
