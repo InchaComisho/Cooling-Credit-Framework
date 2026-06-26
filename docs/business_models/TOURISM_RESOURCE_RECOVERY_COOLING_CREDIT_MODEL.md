@@ -12,6 +12,10 @@
 
 ---
 
+![Tourism Resource Recovery Cooling Credit Model](images/TOURISM_RESOURCE_RECOVERY_EN.png)
+
+---
+
 ## Overview
 
 This model redefines tourism resources such as coral reefs, beaches, lakes, forests, cool-climate destinations, urban waterfronts, hot-spring areas, and islands not only as visitor-attraction assets, but as **Cooling Credit business assets based on natural cooling, water-cycle recovery, landscape restoration, and ecosystem regeneration**.
