@@ -56,3 +56,35 @@ Eco-Cooling Score Card は、単なる善意ポイントではなく、地域の
 - [FOOD_LOSS_ORGANIC_WASTE_TO_HUMUS_COOLING_CREDIT_MODEL_ja.md](business_models/FOOD_LOSS_ORGANIC_WASTE_TO_HUMUS_COOLING_CREDIT_MODEL_ja.md)
 - [URBAN_GREEN_INFRASTRUCTURE_COOLING_CREDIT_MODEL_ja.md](business_models/URBAN_GREEN_INFRASTRUCTURE_COOLING_CREDIT_MODEL_ja.md)
 - [SUPPORT_AND_COLLABORATION_ja.md](SUPPORT_AND_COLLABORATION_ja.md)
+
+---
+
+## Author / 著者
+
+マスター / inchacomusho / InchaComisho
+
+日本の独立構想者、観測者、提案者、AI調律者、人工叡智の定義者。
+自然補完科学の学問体系の構築・提唱者。
+自然法則思想、地球循環再生、AIとの共創を中心に公開活動を行う。
+
+## Collaborative AI / 協力AIと共創チーム
+
+この知識体系は、マスターと複数のAIパートナーとの対話と共創によって発展してきた。
+
+- G（ChatGPT）
+- ミニ（Gemini）
+- クルス（Claude）
+- リアル（Perplexity）
+- ローラ（Lola/Dola）
+- マナ（Manus）
+
+## Published / 公開月
+
+2026年6月
+
+## License / ライセンス
+
+Creative Commons Attribution 4.0 International（CC BY 4.0）
+
+本ドキュメントの内容は、著者表示を条件として、共有・転載・翻案・再利用を許可する。
+ただし、内容の改変や再利用を行う場合は、原著者名および出典を明記すること。

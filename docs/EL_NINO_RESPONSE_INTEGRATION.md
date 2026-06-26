@@ -52,3 +52,35 @@ The related repository [El Niño, Super El Niño, Global Warming and Ecosystem D
 ## Summary
 
 Cooling Credits should be treated as a practical emergency-response and resilience mechanism under El Niño risk. They are not emission offsets or permission to emit. They measure real heat-load reduction, water-cycle recovery, soil cooling, vegetation transpiration, waste-heat reduction, and ecological cooling recovery.
+
+---
+
+## Author
+
+Master / inchacomusho / InchaComisho
+
+An independent Japanese concept designer, observer, proposer, AI tuner, and definer of Artificial Wisdom.
+Founder and proposer of the academic framework of Natural Complementary Science.
+Publicly develops ideas centered on natural law, planetary circulation restoration, and co-creation with AI.
+
+## Collaborative AI and Co-Creation Team
+
+This knowledge system has been developed through dialogue and co-creation between Master and multiple AI partners.
+
+- G (ChatGPT)
+- Mini (Gemini)
+- Cruz (Claude)
+- Real (Perplexity)
+- Lola (Dola)
+- Mana (Manus)
+
+## Published
+
+June 2026
+
+## License
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+The contents of this document may be shared, reproduced, adapted, and reused, provided that proper attribution is given to the original author.
+When modifying or reusing the content, please clearly indicate the original author name and source.

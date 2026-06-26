@@ -173,3 +173,35 @@
 - [نظام الحضارة الحضرية](https://github.com/InchaComisho/Urban-Civilization-OS-A-Circular-Infrastructure-Framework-for-Nature-Integrated-Cities)
 - [مفهوم المدينة الدائرية](https://github.com/InchaComisho/Circular-City-Concept)
 - [العلم التكميلي الطبيعي](https://github.com/InchaComisho/Natural-Complementary-Science)
+
+---
+
+## المؤلف / Author
+
+Master / inchacomusho / InchaComisho
+
+مُصمّم مفاهيمي ياباني مستقل، ومراقب، ومقترح، وموائم للذكاء الاصطناعي، ومُعرّف لمفهوم الحكمة الاصطناعية.
+مؤسس ومقترح للإطار المعرفي لعلم التكامل الطبيعي.
+ينشر أعمالًا تتمحور حول قوانين الطبيعة، واستعادة دوران الكوكب، والتشارك الإبداعي مع الذكاء الاصطناعي.
+
+## الذكاء الاصطناعي التعاوني / Collaborative AI
+
+تطوّر هذا النظام المعرفي من خلال الحوار والتشارك الإبداعي بين Master وعدة شركاء من الذكاء الاصطناعي.
+
+- G (ChatGPT)
+- Mini (Gemini)
+- Cruz (Claude)
+- Real (Perplexity)
+- Lola (Dola)
+- Mana (Manus)
+
+## تاريخ النشر / Published
+
+يونيو 2026
+
+## الرخصة / License
+
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+يجوز مشاركة محتوى هذا المستند وإعادة نشره وتعديله وإعادة استخدامه بشرط ذكر اسم المؤلف الأصلي بوضوح.
+عند تعديل المحتوى أو إعادة استخدامه، يجب توضيح اسم المؤلف الأصلي والمصدر.
