@@ -12,6 +12,10 @@
 
 ---
 
+![Monoculture Mountain Forest to Native Fruit Forest Business Model](images/MONOCULTURE_MOUNTAIN_FOREST_TO_NATIVE_FRUIT_FOREST_EN.png)
+
+---
+
 ## Overview
 
 This model converts monoculture or abandoned mountain forests into **cooling assets that integrate multilayer native forests, fruit orchards, wildlife forests, watershed forests, tourism, and education**.
