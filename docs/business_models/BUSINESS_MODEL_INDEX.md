@@ -97,6 +97,26 @@ A bridge model connecting organic waste humus conversion, farmland soil recovery
 
 ---
 
+## Business Model Simulation Coverage
+
+The conceptual simulations are maintained in the implementation and finance repository.
+
+- [Business Model Simulation Map](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model/blob/main/BUSINESS_MODEL_SIMULATION_MAP.md)
+- [Cooling Credit Simulation Package](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model/blob/main/simulations/README.md)
+
+| Business model | Primary simulation coverage |
+|---|---|
+| EEZ Fishery Recovery Cooling Credit Business Model | [Natural Feedback Cooling Simulation](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model/blob/main/simulations/natural_feedback_cooling_simulation/README.md), especially EEZ Ocean Cooling indicators |
+| Tourism Resource Recovery Cooling Credit Model | [Tourism Resource Recovery Simulation](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model/blob/main/simulations/tourism_resource_recovery_simulation/README.md) |
+| Desert Circular Pyramid City Business Model | [Natural Feedback Cooling Simulation](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model/blob/main/simulations/natural_feedback_cooling_simulation/README.md), especially Coastal Desert Edge Regeneration indicators |
+| Urban Green Infrastructure Cooling Credit Model | [Urban Cooling Cost-Benefit](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model/blob/main/simulations/urban_cooling_cost_benefit_model/README.md) and [Natural Feedback Cooling](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model/blob/main/simulations/natural_feedback_cooling_simulation/README.md) |
+| Monoculture Mountain Forest to Native-Fruit Mixed Forest Business Model | [Forest Conversion Business Simulation](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model/blob/main/simulations/forest_conversion_business_simulation/README.md) |
+| Center Mist Ultrasonic Cooling Fan Cooling Credit Business Model | [Urban Cooling Cost-Benefit](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model/blob/main/simulations/urban_cooling_cost_benefit_model/README.md) and [Natural Feedback Cooling](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model/blob/main/simulations/natural_feedback_cooling_simulation/README.md) |
+| Food Loss and Organic Waste to Humus Cooling Credit Model | [Soil Recovery Agriculture](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model/blob/main/simulations/soil_recovery_agriculture_model/README.md) and [Natural Feedback Cooling](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model/blob/main/simulations/natural_feedback_cooling_simulation/README.md) |
+| Organic Matter Circulation for Soil Recovery and Desert Greening Cooling Credit Model | [Soil Recovery Agriculture](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model/blob/main/simulations/soil_recovery_agriculture_model/README.md) and [Natural Feedback Cooling](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model/blob/main/simulations/natural_feedback_cooling_simulation/README.md) |
+
+---
+
 ## Common Evaluation Axes
 
 - air-temperature reduction,
