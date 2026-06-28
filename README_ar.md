@@ -1051,24 +1051,20 @@ https://note.com/inchacomusho/n/ne956f3a8fdf0
 
 ---
 
-## المستودعات ذات الصلة
+## المستودعات ذات الصلة بأرصدة التبريد
 
-| الفئة                 | المستودع                                                                                                                                                                                                           | العلاقة                                                               |
-| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------- |
-| البوابة العامة        | [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal)                                                                                                                                 | بوابة معرفية متكاملة لأبحاث ماستر العامة وأطره الفكرية والتقنية       |
-| فهرس المستودعات       | [Natural Complementary Science and the New Civilizational Genesis Plan – Repository Index](https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index) | فهرس عام للعلم التكميلي الطبيعي وخطة التكوين الحضاري الجديد           |
-| الأساس النظري         | [Natural Complementary Science](https://github.com/InchaComisho/Natural-Complementary-Science)                                                                                                                     | الأساس النظري لإطار أرصدة التبريد                                     |
-| التبريد المباشر       | [Direct Planetary Cooling](https://github.com/InchaComisho/Direct-Planetary-Cooling)                                                                                                                               | المفهوم الأساسي للتبريد المباشر لنظام الأرض                           |
-| تبريد المحيطات        | [Direct Planetary Cooling via Ocean Tuning Units (OTU)](https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Tuning-Units-OTU-)                                                                      | الدوران العمودي للمحيط، وتبريد السطح، واستعادة الأكسجين المذاب        |
-| نظام تبريد متكامل     | [Global Planetary Cooling Ecosystem Regeneration System](https://github.com/InchaComisho/Global-Planetary-Cooling-Ecosystem-Regeneration-System)                                                                   | نموذج متكامل لتبريد المحيطات والمدن والصحارى وتجديد النظم البيئية     |
-| بنية الاحترار العالمي | [Global Warming Causal Structure Portal](https://github.com/InchaComisho/Global-Warming-Causal-Structure-Portal)                                                                                                   | بوابة لتحليل البنية السببية لعوامل الاحترار العالمي والتدخلات الممكنة |
-| النينيو واضطراب النظم البيئية | [El Niño, Super El Niño, Global Warming and Ecosystem Disruption](https://github.com/InchaComisho/El-Ni-o-Super-El-Ni-o-Global-Warming-and-Ecosystem-Disruption) | إطار مرتبط يوضح لماذا ينبغي إدخال أرصدة التبريد بشكل عاجل لتقليل مخاطر الحرارة والجفاف والفيضانات والغذاء والمحيطات والنظم البيئية المرتبطة بظاهرة النينيو أو النينيو الفائق |
-| نظام دوران الحرارة    | [Planetary Heat Circulation OS](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS)                                                                                                                     | نموذج مرتبط بدوران الحرارة الكوكبي، والتبريد، واستعادة دورة المياه    |
-| مدينة دورة المياه     | [Circular City Concept](https://github.com/InchaComisho/Circular-City-Concept)                                                                                                                                     | نموذج حضري لتدوير المياه، والحرارة، والمواد العضوية، والطاقة، والغذاء |
-| تبريد المركبات وتطبيقات التنقل | [Ultimate Hybrid Vehicle UHV](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV)                                                                                                                        | تصور لمركبة هجينة يرتبط بتبريد المركبات، وخفض الحرارة المهدرة، واستخدام الماء والهواء، والتكيف مع المناطق الجافة، ويمكن اعتباره مجالًا تطبيقيًا لأرصدة التبريد |
-| نظام الحضارة          | [Civilization OS Framework](https://github.com/InchaComisho/Civilization-OS-Framework)                                                                                                                             | إطار حضاري أعلى يربط أرصدة التبريد بتصميم المؤسسات                    |
-| نظام الحضارة          | [Civilization OS](https://github.com/InchaComisho/Civilization-OS)                                                                                                                                                 | نموذج أساسي لتصميم حضارة مستدامة                                      |
-| نظام حضارة REIMEI     | [REIMEI Civilization OS](https://github.com/InchaComisho/REIMEI-Civilization-OS)                                                                                                                                   | نموذج لإعادة تصميم الحضارة على أساس تصور REIMEI                       |
+هذا المستودع جزء من منظومة معرفة أرصدة التبريد التي اقترحها ماستر / inchacomusho / InchaComisho.
+
+- [Cooling-Credit](https://github.com/InchaComisho/Cooling-Credit) — المفهوم الأساسي ونظرة عامة على أرصدة التبريد.
+- [Cooling-Credit-Definition](https://github.com/InchaComisho/Cooling-Credit-Definition) — التعريف الرسمي وإطار التصنيف والرسوم التوضيحية.
+- [Cooling-Credit-Framework](https://github.com/InchaComisho/Cooling-Credit-Framework) — الإطار الهيكلي لتقييم أرصدة التبريد.
+- [Cooling-Credit-Implementation-Portfolio](https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio) — محفظة التنفيذ العملي.
+- [Cooling-Credit-Implementation-and-Finance-Model](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model) — نموذج التنفيذ والتمويل.
+- [Carbon-Credit-to-Cooling-Credit](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit) — نموذج الانتقال من أرصدة الكربون إلى أرصدة التبريد.
+- [carbon-credit-limitations-cooling-credit](https://github.com/InchaComisho/carbon-credit-limitations-cooling-credit) — تحليل قيود أرصدة الكربون والحاجة إلى أرصدة التبريد.
+- [Sustainable-Future-Cooling-Credit-Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal) — بوابة المستقبل المستدام ومنظومة معرفة أرصدة التبريد.
+- [El-Nino-Warning-and-Cooling-Credit](https://github.com/InchaComisho/El-Nino-Warning-and-Cooling-Credit) — تحذير النينيو ومنظور أرصدة التبريد.
+- [Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit](https://github.com/InchaComisho/Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit) — الكوارث المناخية بوصفها إعادة توزيع للحرارة ودور أرصدة التبريد.
 
 ---
 
