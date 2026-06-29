@@ -29,3 +29,22 @@ This page links the Cooling Credit fiction, concept, framework, definition, impl
 - 小説・物語アーカイブ: [Cooling-Credit](https://github.com/InchaComisho/Cooling-Credit)
 - 制度構想・定義・実装: Framework / Definition / Implementation Portfolio
 - 気候文脈: El Niño、災害、熱再分配、持続可能性ポータル
+
+---
+
+## Author
+
+Master / inchacomusho / InchaComisho
+
+An independent Japanese concept designer, observer, proposer, AI tuner, and definer of Artificial Wisdom.  
+Founder and advocate of the academic framework of Natural Complementary Science.  
+Publicly active in natural-law philosophy, planetary circulation restoration, and co-creation with AI.
+
+---
+
+## License
+
+CC BY 4.0
+
+This article is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+Sharing, redistribution, translation, adaptation, and reuse are permitted as long as proper attribution is given.

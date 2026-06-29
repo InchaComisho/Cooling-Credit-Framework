@@ -163,3 +163,12 @@ outputs/
 マスター / inchacomusho / InchaComisho
 
 物語構成・本文作成・文体調整・コード設計補助：G（ChatGPT）
+
+---
+
+## ライセンス
+
+CC BY 4.0
+
+本記事は、Creative Commons Attribution 4.0 International License（CC BY 4.0）で公開する。  
+著者表示を行う限り、共有、転載、翻訳、改変、再利用を許可する。

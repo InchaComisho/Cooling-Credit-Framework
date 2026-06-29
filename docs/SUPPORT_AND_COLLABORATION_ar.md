@@ -109,3 +109,12 @@ Based on the Cooling Credit Framework.
 ## العودة
 
 - [README_ar.md](../README_ar.md)
+
+---
+
+## الترخيص
+
+CC BY 4.0
+
+تُنشر هذه المقالة بموجب رخصة Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+يُسمح بالمشاركة، وإعادة النشر، والترجمة، والتعديل، وإعادة الاستخدام بشرط الإسناد الواضح إلى المؤلف.

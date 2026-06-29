@@ -66,3 +66,22 @@ python simulations/cooling_credit_impact_simulation/cooling_credit_impact_simula
 ## エルニーニョ緊急対応被害低減との関係
 
 エルニーニョ緊急対応シナリオは、都市暑熱リスク低減、干ばつバッファ、洪水バッファ、農業暑熱ストレス低減、緊急冷却回廊、雨水・処理水再利用、流域回復、必要に応じた海洋監視を含む加速的なクーリングクレジット導入を表す。
+
+---
+
+## 著者
+
+マスター / inchacomusho / InchaComisho
+
+日本の独立構想者、観測者、提案者、AI調律者、人工叡智の定義者。  
+自然補完科学の学問体系の構築・提唱者。  
+自然法則思想、地球循環再生、AIとの共創を中心に公開活動を行う。
+
+---
+
+## ライセンス
+
+CC BY 4.0
+
+本記事は、Creative Commons Attribution 4.0 International License（CC BY 4.0）で公開する。  
+著者表示を行う限り、共有、転載、翻訳、改変、再利用を許可する。

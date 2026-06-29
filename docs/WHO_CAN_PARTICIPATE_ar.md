@@ -289,3 +289,12 @@
 Master / inchacomusho / InchaComisho
 
 دعم البنية والتوثيق: G (ChatGPT)
+
+---
+
+## الترخيص
+
+CC BY 4.0
+
+تُنشر هذه المقالة بموجب رخصة Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+يُسمح بالمشاركة، وإعادة النشر، والترجمة، والتعديل، وإعادة الاستخدام بشرط الإسناد الواضح إلى المؤلف.

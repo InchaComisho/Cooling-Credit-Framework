@@ -242,3 +242,12 @@ Formal financial products, trading markets, and legal credit systems would requi
 Master / inchacomusho / InchaComisho
 
 Structure and documentation support: G (ChatGPT)
+
+---
+
+## License
+
+CC BY 4.0
+
+This article is released under the Creative Commons Attribution 4.0 International License (CC BY 4.0).  
+Sharing, redistribution, translation, adaptation, and reuse are permitted as long as proper attribution is given.
