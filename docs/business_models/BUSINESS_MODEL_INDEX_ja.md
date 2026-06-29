@@ -97,6 +97,26 @@ RO水、再生水、有機資源循環、腐葉土化、果樹、日陰、ミス
 
 ---
 
+## 事業モデル対応シミュレーション
+
+概念シミュレーションは、実装・資金モデル側のリポジトリで管理している。
+
+- [事業モデル・シミュレーション対応表](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model/blob/main/BUSINESS_MODEL_SIMULATION_MAP.md)
+- [クーリングクレジット・シミュレーションパッケージ](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model/blob/main/simulations/README.md)
+
+| 事業モデル | 主な対応シミュレーション |
+|---|---|
+| 排他的経済水域・漁場回復クーリングクレジットモデル | [Natural Feedback Cooling Simulation](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model/blob/main/simulations/natural_feedback_cooling_simulation/README.md) の EEZ Ocean Cooling 指標 |
+| 観光資源回復クーリングクレジットモデル | [Tourism Resource Recovery Simulation](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model/blob/main/simulations/tourism_resource_recovery_simulation/README.md) |
+| 砂漠循環ピラミッド都市ビジネスモデル | [Natural Feedback Cooling Simulation](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model/blob/main/simulations/natural_feedback_cooling_simulation/README.md) の Coastal Desert Edge Regeneration 指標 |
+| 都市緑地計画・冷却インフラクーリングクレジットモデル | [Urban Cooling Cost-Benefit](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model/blob/main/simulations/urban_cooling_cost_benefit_model/README.md) と [Natural Feedback Cooling](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model/blob/main/simulations/natural_feedback_cooling_simulation/README.md) |
+| 単一植生山林の多層自然林・果樹林転換クーリングクレジットモデル | [Forest Conversion Business Simulation](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model/blob/main/simulations/forest_conversion_business_simulation/README.md) |
+| センター超音波ミスト冷却ファン普及クーリングクレジットモデル | [Urban Cooling Cost-Benefit](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model/blob/main/simulations/urban_cooling_cost_benefit_model/README.md) と [Natural Feedback Cooling](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model/blob/main/simulations/natural_feedback_cooling_simulation/README.md) |
+| フードロス・有機ごみ腐葉土化クーリングクレジットモデル | [Soil Recovery Agriculture](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model/blob/main/simulations/soil_recovery_agriculture_model/README.md) と [Natural Feedback Cooling](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model/blob/main/simulations/natural_feedback_cooling_simulation/README.md) |
+| 有機物循環による土壌回復・砂漠緑化クーリングクレジットモデル | [Soil Recovery Agriculture](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model/blob/main/simulations/soil_recovery_agriculture_model/README.md) と [Natural Feedback Cooling](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model/blob/main/simulations/natural_feedback_cooling_simulation/README.md) |
+
+---
+
 ## 共通する評価軸
 
 - 気温低下

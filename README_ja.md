@@ -14,6 +14,25 @@
 
 ---
 
+## 中核ナビゲーション
+
+このリポジトリは、クーリングクレジットの**評価フレームワーク**を提供します。
+
+- [詳細文書索引](docs/README_ja.md)
+- [クーリングクレジット・フレームワーク評価フロー](docs/FRAMEWORK_EVALUATION_FLOW_ja.md)
+- [Cooling-Credit-Definition](https://github.com/InchaComisho/Cooling-Credit-Definition) — 定義・分類フレームワーク・図解。
+- [Cooling Credit Standard Draft](https://github.com/InchaComisho/Cooling-Credit-Definition/blob/main/docs/COOLING_CREDIT_STANDARD_DRAFT.md)
+- [MRV Requirements](https://github.com/InchaComisho/Cooling-Credit-Definition/blob/main/docs/MRV_REQUIREMENTS.md)
+- [Eligible Activities](https://github.com/InchaComisho/Cooling-Credit-Definition/blob/main/docs/ELIGIBLE_ACTIVITIES.md)
+- [Excluded Categories](https://github.com/InchaComisho/Cooling-Credit-Definition/blob/main/docs/EXCLUDED_CATEGORIES.md)
+- [Terminology](https://github.com/InchaComisho/Cooling-Credit-Definition/blob/main/docs/TERMINOLOGY.md)
+
+```
+定義 → 評価フレームワーク → 実証実装 → 金融・制度設計
+```
+
+---
+
 ## 支援・協力・実装について
 
 - [支援・協力・実装に関するお願い](docs/SUPPORT_AND_COLLABORATION_ja.md)
@@ -862,40 +881,20 @@ Cooling Credit Score =
 
 ---
 
-## 関連リポジトリ
+## 関連するクーリングクレジット・リポジトリ
 
-- [気候災害・熱再分配・クーリングクレジット](https://github.com/InchaComisho/Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit/blob/main/README_ja.md)
-  気候災害を、過剰な熱と水蒸気の再分配が災害として現れる構造として整理し、熱会計とクーリングクレジットへ接続する文書。
+このリポジトリは、マスター / inchacomusho / InchaComisho が提案するクーリングクレジット知識体系の一部です。
 
-| 分類 | リポジトリ | 関係 |
-|---|---|---|
-| 総合ポータル | [Master Knowledge Portal](https://github.com/InchaComisho/Master-Knowledge-Portal) | マスターの公開研究・思想・技術体系を統合する知識ポータル |
-| 総合インデックス | [Natural Complementary Science and the New Civilizational Genesis Plan – Repository Index](https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index) | 自然補完科学と新文明構想の総合インデックス |
-| 基礎理論 | [Natural Complementary Science](https://github.com/InchaComisho/Natural-Complementary-Science) | クーリングクレジットの理論的基盤となる自然補完科学 |
-| 地球直接冷却 | [Direct Planetary Cooling](https://github.com/InchaComisho/Direct-Planetary-Cooling) | 地球を直接冷やすための基礎構想 |
-| 海洋冷却 | [Direct Planetary Cooling via Ocean Tuning Units (OTU)](https://github.com/InchaComisho/Direct-Planetary-Cooling-via-Ocean-Tuning-Units-OTU-) | 海洋鉛直循環・表層冷却・溶存酸素回復に関する技術体系 |
-| 統合冷却システム | [Global Planetary Cooling Ecosystem Regeneration System](https://github.com/InchaComisho/Global-Planetary-Cooling-Ecosystem-Regeneration-System) | 海洋・都市・砂漠を統合する惑星冷却・生態系再生モデル |
-| 温暖化構造分析 | [Global Warming Causal Structure Portal](https://github.com/InchaComisho/Global-Warming-Causal-Structure-Portal) | 温暖化要因・構造・対策を整理する因果構造ポータル |
-| エルニーニョ・生態系撹乱 | [El Niño, Super El Niño, Global Warming and Ecosystem Disruption](https://github.com/InchaComisho/El-Ni-o-Super-El-Ni-o-Global-Warming-and-Ecosystem-Disruption) | エルニーニョ／スーパーエルニーニョによる熱・干ばつ・洪水・食料・海洋・生態系リスクを減らすために、クーリングクレジットを緊急導入すべき理由を示す関連フレームワーク |
-| 熱循環OS | [Planetary Heat Circulation OS](https://github.com/InchaComisho/Planetary-Heat-Circulation-OS) | 熱循環・冷却・水循環を文明OSとして扱う関連モデル |
-| 水循環都市 | [Circular City Concept](https://github.com/InchaComisho/Circular-City-Concept) | 水・熱・有機物・エネルギーを循環させる都市実装モデル |
-| 移動体冷却・車両応用 | [Ultimate Hybrid Vehicle UHV](https://github.com/InchaComisho/Ultimate-Hybrid-Vehicle-UHV) | 車両・移動体における冷却、排熱低減、水・空気利用、乾燥地帯対応など、クーリングクレジットの応用対象となるハイブリッド車構想 |
-| 文明OS | [Civilization OS Framework](https://github.com/InchaComisho/Civilization-OS-Framework) | クーリングクレジットを文明制度設計に接続する上位フレームワーク |
-| 文明OS | [Civilization OS](https://github.com/InchaComisho/Civilization-OS) | 持続可能な文明設計の中核OSモデル |
-| REIMEI文明OS | [REIMEI Civilization OS](https://github.com/InchaComisho/REIMEI-Civilization-OS) | REIMEI構想に基づく文明再設計モデル |
-
-- [Sustainable Future Cooling Credit Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal)
-  サステナブル、サステナビリティ、SDGs、環境モビリティ、ESG、気候適応、都市冷却、文明OSなどの検索語から、クーリングクレジットへ接続する多言語検索入口ポータル。
-
-- [温暖化時代のエルニーニョとクーリングクレジット](https://github.com/InchaComisho/El-Nino-Warning-and-Cooling-Credit/blob/main/README_ja.md)
-  すでに熱を抱えた海にエルニーニョが重なる危険性を整理し、その警告をクーリングクレジットと熱会計へ接続する文書。
-
-- [NOTE版：温暖化時代のエルニーニョとクーリングクレジット](https://note.com/inchacomusho/n/n3426a35cb2a2)
-  エルニーニョ、海洋蓄熱、熱会計、クーリングクレジットを一般向けに接続した記事。
-
-### 地球温暖化の因果構造とクーリングクレジット
-
-- [Cooling Credit Definition](https://github.com/InchaComisho/Cooling-Credit-Definition)
+- [Cooling-Credit](https://github.com/InchaComisho/Cooling-Credit) — クーリングクレジットの中核概念と概要。
+- [Cooling-Credit-Definition](https://github.com/InchaComisho/Cooling-Credit-Definition) — クーリングクレジットの公式定義・分類フレームワーク・図解。
+- [Cooling-Credit-Framework](https://github.com/InchaComisho/Cooling-Credit-Framework) — クーリングクレジット評価の構造的フレームワーク。
+- [Cooling-Credit-Implementation-Portfolio](https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio) — 実装候補・導入領域のポートフォリオ。
+- [Cooling-Credit-Implementation-and-Finance-Model](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model) — 実装と金融モデル。
+- [Carbon-Credit-to-Cooling-Credit](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit) — カーボンクレジットからクーリングクレジットへの移行モデル。
+- [carbon-credit-limitations-cooling-credit](https://github.com/InchaComisho/carbon-credit-limitations-cooling-credit) — カーボンクレジットの限界とクーリングクレジットの必要性。
+- [Sustainable-Future-Cooling-Credit-Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal) — 持続可能な未来とクーリングクレジット知識体系のポータル。
+- [El-Nino-Warning-and-Cooling-Credit](https://github.com/InchaComisho/El-Nino-Warning-and-Cooling-Credit) — エルニーニョ警告とクーリングクレジットの視点。
+- [Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit](https://github.com/InchaComisho/Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit) — 気候災害を熱再分配として捉え、クーリングクレジットと接続する分析。
 
 ## 関連NOTE
 
@@ -911,33 +910,6 @@ Cooling Credit Score =
 - [NOTE記事](https://note.com/inchacomusho/n/n5b2102ffc1c2)
 
 CO₂増加だけでなく、森林、蒸散、土壌微生物、水循環、植物プランクトン、海洋・大気循環など、地球本来の自然冷却機能の弱体化・喪失を含めて温暖化の因果関係を整理するシステム論的モデル。
-
-<!-- COOLING-CREDIT-REPOSITORY-FAMILY:START -->
-
----
-
-## 関連するクーリングクレジット・リポジトリ群
-
-本リポジトリは、クーリングクレジット知識体系の一部である。
-定義、制度設計、実装ポートフォリオ、資金循環、MRV、災害リスク解釈、カーボンクレジットからクーリングクレジットへの移行を、一つの接続された構造として読めるように、関連リポジトリを相互リンクしている。
-
-| リポジトリ | 役割 |
-|---|---|
-| [Cooling-Credit](https://github.com/InchaComisho/Cooling-Credit) | クーリングクレジット概念の中核ポータル |
-| [Cooling-Credit-Definition](https://github.com/InchaComisho/Cooling-Credit-Definition) | クーリングクレジットの定義と概念的基礎 |
-| [Cooling-Credit-Framework](https://github.com/InchaComisho/Cooling-Credit-Framework) | フレームワーク、事業モデル、応用構造 |
-| [Cooling-Credit-Implementation-Portfolio](https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio) | 実装モデルと事業類型のポートフォリオ |
-| [Cooling-Credit-Implementation-and-Finance-Model](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model) | 実装ロードマップ、資金循環、MRV、シミュレーション、全球安定化シナリオ |
-| [Carbon-Credit-to-Cooling-Credit](https://github.com/InchaComisho/Carbon-Credit-to-Cooling-Credit) | カーボンクレジット会計から物理的冷却成果への移行論理 |
-| [carbon-credit-limitations-cooling-credit](https://github.com/InchaComisho/carbon-credit-limitations-cooling-credit) | カーボンクレジット型アプローチの限界と、冷却評価の必要性 |
-| [Sustainable-Future-Cooling-Credit-Portal](https://github.com/InchaComisho/Sustainable-Future-Cooling-Credit-Portal) | 持続可能な未来とクーリングクレジット統合のポータル |
-| [El-Nino-Warning-and-Cooling-Credit](https://github.com/InchaComisho/El-Nino-Warning-and-Cooling-Credit) | エルニーニョ、熱蓄積、警告構造、クーリングクレジットの関係 |
-| [Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit](https://github.com/InchaComisho/Climate-Disasters-as-Heat-Redistribution-and-Cooling-Credit) | 気候災害を熱の再分配と冷却機能不全として捉える解釈 |
-
-<!-- COOLING-CREDIT-REPOSITORY-FAMILY:END -->
-
-
----
 
 ## Author / 著者
 

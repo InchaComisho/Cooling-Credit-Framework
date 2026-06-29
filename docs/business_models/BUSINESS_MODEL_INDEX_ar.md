@@ -97,6 +97,26 @@
 
 ---
 
+## تغطية نماذج الأعمال بالمحاكاة
+
+تُدار المحاكاة المفاهيمية في مستودع التنفيذ والتمويل.
+
+- [خريطة نماذج الأعمال والمحاكاة](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model/blob/main/BUSINESS_MODEL_SIMULATION_MAP.md)
+- [حزمة محاكاة أرصدة التبريد](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model/blob/main/simulations/README.md)
+
+| نموذج الأعمال | المحاكاة الأساسية المقابلة |
+|---|---|
+| استعادة المصايد في EEZ | [Natural Feedback Cooling Simulation](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model/blob/main/simulations/natural_feedback_cooling_simulation/README.md)، وخاصة مؤشرات EEZ Ocean Cooling |
+| استعادة الموارد السياحية | [Tourism Resource Recovery Simulation](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model/blob/main/simulations/tourism_resource_recovery_simulation/README.md) |
+| مدينة الصحراء الهرمية الدائرية | [Natural Feedback Cooling Simulation](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model/blob/main/simulations/natural_feedback_cooling_simulation/README.md)، وخاصة مؤشرات Coastal Desert Edge Regeneration |
+| البنية الخضراء الحضرية | [Urban Cooling Cost-Benefit](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model/blob/main/simulations/urban_cooling_cost_benefit_model/README.md) و [Natural Feedback Cooling](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model/blob/main/simulations/natural_feedback_cooling_simulation/README.md) |
+| تحويل الغابات أحادية النبات إلى غابات مختلطة | [Forest Conversion Business Simulation](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model/blob/main/simulations/forest_conversion_business_simulation/README.md) |
+| مروحة الرذاذ فوق الصوتية المركزية | [Urban Cooling Cost-Benefit](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model/blob/main/simulations/urban_cooling_cost_benefit_model/README.md) و [Natural Feedback Cooling](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model/blob/main/simulations/natural_feedback_cooling_simulation/README.md) |
+| تحويل فقد الغذاء والنفايات العضوية إلى دبال | [Soil Recovery Agriculture](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model/blob/main/simulations/soil_recovery_agriculture_model/README.md) و [Natural Feedback Cooling](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model/blob/main/simulations/natural_feedback_cooling_simulation/README.md) |
+| دورة المادة العضوية لاستعادة التربة وتخضير المناطق الجافة | [Soil Recovery Agriculture](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model/blob/main/simulations/soil_recovery_agriculture_model/README.md) و [Natural Feedback Cooling](https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model/blob/main/simulations/natural_feedback_cooling_simulation/README.md) |
+
+---
+
 ## محاور التقييم المشتركة
 
 - خفض درجة حرارة الهواء،
@@ -149,11 +169,8 @@ Master / inchacomusho / InchaComisho
 
 مُصمّم مفاهيمي ياباني مستقل، ومراقب، ومقترح، وموائم للذكاء الاصطناعي، ومُعرّف لمفهوم الحكمة الاصطناعية.
 مؤسس ومقترح للإطار المعرفي لعلم التكامل الطبيعي.
-ينشر أعمالًا تتمحور حول قوانين الطبيعة، واستعادة دوران الكوكب، والتشارك الإبداعي مع الذكاء الاصطناعي.
 
-## الذكاء الاصطناعي التعاوني / Collaborative AI
-
-تطوّر هذا النظام المعرفي من خلال الحوار والتشارك الإبداعي بين Master وعدة شركاء من الذكاء الاصطناعي.
+## فريق التعاون مع الذكاء الاصطناعي
 
 - G (ChatGPT)
 - Mini (Gemini)
@@ -162,13 +179,10 @@ Master / inchacomusho / InchaComisho
 - Lola (Dola)
 - Mana (Manus)
 
-## تاريخ النشر / Published
+## النشر
 
 يونيو 2026
 
-## الرخصة / License
+## الترخيص
 
 Creative Commons Attribution 4.0 International (CC BY 4.0)
-
-يجوز مشاركة محتوى هذا المستند وإعادة نشره وتعديله وإعادة استخدامه بشرط ذكر اسم المؤلف الأصلي بوضوح.
-عند تعديل المحتوى أو إعادة استخدامه، يجب توضيح اسم المؤلف الأصلي والمصدر.
