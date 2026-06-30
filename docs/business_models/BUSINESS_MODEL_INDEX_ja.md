@@ -31,6 +31,15 @@
 
 ---
 
+## 4大循環回復インジケーターとの接続
+
+- [4大循環回復インジケーターと事業モデルの接続](FOUR_CIRCULATION_RECOVERY_INDICATORS_BRIDGE_ja.md)
+- 基礎文書: [8つのビジネスモデルにおける4大循環回復インジケーター](https://github.com/InchaComisho/Master-Definition-of-Global-Warming-Causality-and-Complete-Solution/blob/main/BUSINESS_MODEL_CIRCULATION_INDICATORS_ja.md)
+
+このディレクトリの事業モデルは、収益性やCO₂削減量だけでなく、水の相転移循環、大気循環、海洋循環、食の循環・有機物循環をどれだけ回復するかで評価する。
+
+---
+
 ## 事業モデル一覧
 
 ### 1. 排他的経済水域・漁場回復クーリングクレジットモデル
@@ -153,6 +162,7 @@ RO水、再生水、有機資源循環、腐葉土化、果樹、日陰、ミス
 - [Cooling Credit Score Estimator](../simulations/cooling_credit_score_estimator/README_ja.md)
 - [MRV Guidelines](../MRV_GUIDELINES_ja.md)
 - [Implementation Roadmap](../IMPLEMENTATION_ROADMAP_ja.md)
+- [4大循環回復インジケーターと事業モデルの接続](FOUR_CIRCULATION_RECOVERY_INDICATORS_BRIDGE_ja.md)
 - [Cooling Credit Implementation Portfolio](https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio/blob/main/README_ja.md)
 
 ---
