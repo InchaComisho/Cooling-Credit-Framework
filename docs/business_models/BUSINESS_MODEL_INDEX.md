@@ -31,6 +31,15 @@ Cooling Credits do not deny economic desire. They redirect it toward natural reg
 
 ---
 
+## Four-Circulation Recovery Indicator Bridge
+
+- [Four-Circulation Recovery Indicators and Business Model Mapping](FOUR_CIRCULATION_RECOVERY_INDICATORS_BRIDGE.md)
+- Foundation document: [Four-Circulation Recovery Indicators for Eight Business Models](https://github.com/InchaComisho/Master-Definition-of-Global-Warming-Causality-and-Complete-Solution/blob/main/BUSINESS_MODEL_CIRCULATION_INDICATORS.md)
+
+The business models in this directory should be evaluated not only by revenue or CO₂ reduction, but also by how much they restore the four planetary circulations: water phase-transition circulation, atmospheric circulation, ocean circulation, and food / organic matter circulation.
+
+---
+
 ## Business Models
 
 ### 1. EEZ Fishery Recovery Cooling Credit Business Model
@@ -153,6 +162,7 @@ These models are institutional designs for evaluating high-potential cooling, re
 - [Cooling Credit Score Estimator](../simulations/cooling_credit_score_estimator/README.md)
 - [MRV Guidelines](../MRV_GUIDELINES.md)
 - [Implementation Roadmap](../IMPLEMENTATION_ROADMAP.md)
+- [Four-Circulation Recovery Indicators and Business Model Mapping](FOUR_CIRCULATION_RECOVERY_INDICATORS_BRIDGE.md)
 - [Cooling Credit Implementation Portfolio](https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio/blob/main/README.md)
 
 ---
