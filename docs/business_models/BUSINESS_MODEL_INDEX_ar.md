@@ -31,6 +31,15 @@
 
 ---
 
+## الربط بمؤشرات استعادة الدورانات الأربعة
+
+- [مؤشرات استعادة الدورانات الأربعة وربطها بنماذج الأعمال](FOUR_CIRCULATION_RECOVERY_INDICATORS_BRIDGE_ar.md)
+- الوثيقة الأساسية: [مؤشرات استعادة الدورانات الأربعة لثمانية نماذج أعمال](https://github.com/InchaComisho/Master-Definition-of-Global-Warming-Causality-and-Complete-Solution/blob/main/BUSINESS_MODEL_CIRCULATION_INDICATORS_ar.md)
+
+ينبغي تقييم نماذج الأعمال في هذا الدليل ليس فقط من حيث الإيرادات أو خفض CO₂، بل أيضًا من حيث مقدار استعادتها لدوران التحول الطوري للماء، ودوران الغلاف الجوي، ودوران المحيطات، ودوران الغذاء والمادة العضوية.
+
+---
+
 ## نماذج الأعمال
 
 ### 1. نموذج أرصدة التبريد لاستعادة المصايد في المنطقة الاقتصادية الخالصة
@@ -153,6 +162,7 @@
 - [Cooling Credit Score Estimator](../simulations/cooling_credit_score_estimator/README_ar.md)
 - [MRV Guidelines](../MRV_GUIDELINES_ar.md)
 - [Implementation Roadmap](../IMPLEMENTATION_ROADMAP_ar.md)
+- [مؤشرات استعادة الدورانات الأربعة وربطها بنماذج الأعمال](FOUR_CIRCULATION_RECOVERY_INDICATORS_BRIDGE_ar.md)
 - [Cooling Credit Implementation Portfolio](https://github.com/InchaComisho/Cooling-Credit-Implementation-Portfolio/blob/main/README_ar.md)
 
 ---
