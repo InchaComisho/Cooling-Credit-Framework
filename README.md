@@ -1,5 +1,7 @@
 # Cooling Credit Framework
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## A Policy and Technical Framework for Direct Planetary Cooling, Water-Cycle Restoration, and Regional Heat-Load Reduction
 
 ---

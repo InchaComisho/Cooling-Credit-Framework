@@ -1,5 +1,7 @@
 # クーリングクレジット制度設計案
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## Cooling Credit Framework
 
 ### 地球直接冷却・水循環再生・地域熱負荷低減のための新しい温暖化対策モデル
