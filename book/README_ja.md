@@ -10201,9 +10201,6 @@ https://github.com/InchaComisho/Global-Warming-Causal-Structure-Planetary-Circul
 The Causal Structure of Global Warming
 https://github.com/InchaComisho/Global-Warming-Causal-Structure-Planetary-Circulation-Failure/blob/main/README.md
 
-温暖化の原因と因果関係
-https://note.com/inchacomusho/n/n5b2102ffc1c2
-
 Global Warming Causal Structure
 https://inchacomisho.github.io/Global-Warming-Causal-Structure/
 
