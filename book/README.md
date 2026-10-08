@@ -8174,8 +8174,6 @@ https://github.com/InchaComisho/Stratospheric-Aerosol-Injection-SAI-Critical-Ove
 
 For the warning document on major oversights of SAI, see:
 
-https://note.com/inchacomusho/n/nead7cd9f47dc
-
 For the broader Cooling Credit definition, see:
 
 https://github.com/InchaComisho/Cooling-Credit-Definition/blob/main/README.md
@@ -9394,9 +9392,6 @@ SAI Critical Oversights
 
 Stratospheric Aerosol Injection — Critical Oversights
 https://github.com/InchaComisho/Stratospheric-Aerosol-Injection-SAI-Critical-Oversights/blob/main/README.md
-
-Warning Document on Major Oversights of SAI
-https://note.com/inchacomusho/n/nead7cd9f47dc
 
 Urban, Soil, Forest, Ocean, and Planetary Cooling Models
 

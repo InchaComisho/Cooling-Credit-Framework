@@ -100,7 +100,6 @@ Based on the Cooling Credit Framework and related Natural Complementary Science 
 現在の主な公開拠点：
 
 - GitHub: [InchaComisho](https://github.com/InchaComisho)
-- NOTE: [inchacomusho](https://note.com/inchacomusho)
 
 GitHub Sponsors、NOTEサポート、共同研究、実証事業、コンサルティング、政策提案、事業化相談などの導線は、順次整備していく。
 

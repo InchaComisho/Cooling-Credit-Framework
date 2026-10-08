@@ -90,7 +90,6 @@ Based on the Cooling Credit Framework.
 ## القنوات العامة
 
 - GitHub: [InchaComisho](https://github.com/InchaComisho)
-- NOTE: [inchacomusho](https://note.com/inchacomusho)
 
 ---
 

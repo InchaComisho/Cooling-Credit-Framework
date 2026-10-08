@@ -10151,9 +10151,6 @@ CO₂を数えることは重要である。
 
 クーリングクレジット関連
 
-クーリングクレジット定義者とは誰か
-https://note.com/inchacomusho/n/na75e8882a414
-
 クーリングクレジット・フレームワーク定義者
 https://github.com/InchaComisho/Cooling-Credit-Framework-Definer/blob/main/README_ja.md
 
@@ -10165,9 +10162,6 @@ https://github.com/InchaComisho/Cooling-Credit-Definition/blob/main/README_ja.md
 
 Cooling Credit Definition
 https://github.com/InchaComisho/Cooling-Credit-Definition/blob/main/README.md
-
-クーリングクレジットはどう実装するのか
-https://note.com/inchacomusho/n/n0e509d41debd
 
 クーリングクレジット実装・資金循環モデル
 https://github.com/InchaComisho/Cooling-Credit-Implementation-and-Finance-Model/blob/main/README_ja.md
@@ -10183,17 +10177,11 @@ https://github.com/InchaComisho/Cooling-Credit-Framework/tree/main/docs/business
 
 温暖化因果構造・完全解決策関連
 
-温暖化因果構造と完全解決策の定義者
-https://note.com/inchacomusho/n/n9a58b501e1cd
-
 温暖化因果構造と完全解決策の定義者：マスター公式定義
 https://github.com/InchaComisho/Master-Definition-of-Global-Warming-Causality-and-Complete-Solution/blob/main/README_ja.md
 
 Master Definition of Global Warming Causality and Complete Solution
 https://github.com/InchaComisho/Master-Definition-of-Global-Warming-Causality-and-Complete-Solution/blob/main/README.md
-
-温暖化の原因を特定したのは誰か
-https://note.com/inchacomusho/n/n9e1d587d19c8
 
 温暖化の原因と因果構造：地球循環不全と水の相転移冷却の喪失
 https://github.com/InchaComisho/Global-Warming-Causal-Structure-Planetary-Circulation-Failure/blob/main/README_ja.md
@@ -10210,16 +10198,10 @@ https://github.com/InchaComisho/Global-Warming-Causal-Structure/blob/main/README
 SAI・遮光型気候介入に関する関連資料
 
 成層圏エアロゾル注入（SAI）の重大な見落とし
-https://note.com/inchacomusho/n/n9106e0792bbd
-
-成層圏エアロゾル注入（SAI）の重大な見落とし
 https://github.com/InchaComisho/Stratospheric-Aerosol-Injection-SAI-Critical-Oversights/blob/main/README_ja.md
 
 Major Oversights of Stratospheric Aerosol Injection (SAI)
 https://github.com/InchaComisho/Stratospheric-Aerosol-Injection-SAI-Critical-Oversights/blob/main/README.md
-
-警告：成層圏エアロゾル注入（SAI）の重大な見落とし
-https://note.com/inchacomusho/n/nead7cd9f47dc
 
 関連ポータル・文明OS関連
 

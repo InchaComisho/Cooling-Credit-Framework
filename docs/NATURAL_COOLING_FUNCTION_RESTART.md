@@ -151,7 +151,6 @@ Therefore, Cooling Credits should not evaluate simple sunlight blocking or water
 - [Cooling Credit Business Models](business_models/BUSINESS_MODEL_INDEX.md)
 - [Cooling Credit Scale and Temperature Impact Model](../simulations/cooling_credit_scale_temperature_model/README.md)
 - [Support, Collaboration, and Implementation Policy](SUPPORT_AND_COLLABORATION.md)
-- [Direct Planetary Cooling NOTE](https://note.com/inchacomusho/n/ne956f3a8fdf0)
 - [Direct Planetary Cooling Repository](https://github.com/InchaComisho/Direct-Planetary-Cooling)
 
 ---

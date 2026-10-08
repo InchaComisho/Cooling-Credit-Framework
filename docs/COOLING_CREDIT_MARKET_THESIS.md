@@ -114,7 +114,6 @@ The long-term thesis is simple: climate resilience improves when real cooling wo
 - [Cooling Credit Business Models](business_models/BUSINESS_MODEL_INDEX.md)
 - [Cooling Credit Scale and Temperature Impact Model](../simulations/cooling_credit_scale_temperature_model/README.md)
 - [Direct Planetary Cooling Repository](https://github.com/InchaComisho/Direct-Planetary-Cooling)
-- [Direct Planetary Cooling NOTE](https://note.com/inchacomusho/n/ne956f3a8fdf0)
 
 ---
 

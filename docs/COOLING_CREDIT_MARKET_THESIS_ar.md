@@ -114,7 +114,6 @@
 - [نماذج أعمال أرصدة التبريد](business_models/BUSINESS_MODEL_INDEX_ar.md)
 - [نموذج أثر الحجم ودرجة الحرارة لأرصدة التبريد](../simulations/cooling_credit_scale_temperature_model/README_ar.md)
 - [Direct Planetary Cooling Repository](https://github.com/InchaComisho/Direct-Planetary-Cooling)
-- [Direct Planetary Cooling NOTE](https://note.com/inchacomusho/n/ne956f3a8fdf0)
 
 ---
 

@@ -155,7 +155,6 @@ Carbon Credit は、排出削減や炭素固定の評価として重要である
 - [クーリングクレジット事業モデル](business_models/BUSINESS_MODEL_INDEX_ja.md)
 - [導入規模別・冷却効果試算モデル](../simulations/cooling_credit_scale_temperature_model/README_ja.md)
 - [支援・協力・実装に関するお願い](SUPPORT_AND_COLLABORATION_ja.md)
-- [地球直接冷却 NOTE](https://note.com/inchacomusho/n/ne956f3a8fdf0)
 - [Direct Planetary Cooling Repository](https://github.com/InchaComisho/Direct-Planetary-Cooling)
 
 ---

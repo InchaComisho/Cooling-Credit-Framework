@@ -95,7 +95,6 @@ In addition to following the applicable license terms, users who apply this fram
 Main public channels:
 
 - GitHub: [InchaComisho](https://github.com/InchaComisho)
-- NOTE: [inchacomusho](https://note.com/inchacomusho)
 
 GitHub Sponsors, NOTE support, joint research, pilot projects, consulting, policy proposals, and commercialization discussions may be organized progressively.
 

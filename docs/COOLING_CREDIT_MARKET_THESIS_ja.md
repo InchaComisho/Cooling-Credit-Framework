@@ -126,7 +126,6 @@ WBGTが下がる
 - [クーリングクレジット事業モデル](business_models/BUSINESS_MODEL_INDEX_ja.md)
 - [導入規模別・冷却効果試算モデル](../simulations/cooling_credit_scale_temperature_model/README_ja.md)
 - [Direct Planetary Cooling Repository](https://github.com/InchaComisho/Direct-Planetary-Cooling)
-- [地球直接冷却 NOTE](https://note.com/inchacomusho/n/ne956f3a8fdf0)
 
 ---
 

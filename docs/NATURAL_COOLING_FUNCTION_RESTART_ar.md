@@ -151,7 +151,6 @@
 - [نماذج أعمال أرصدة التبريد](business_models/BUSINESS_MODEL_INDEX_ar.md)
 - [نموذج أثر الحجم ودرجة الحرارة لأرصدة التبريد](../simulations/cooling_credit_scale_temperature_model/README_ar.md)
 - [الدعم والتعاون والتنفيذ](SUPPORT_AND_COLLABORATION_ar.md)
-- [مقال التبريد الكوكبي المباشر على NOTE](https://note.com/inchacomusho/n/ne956f3a8fdf0)
 - [مستودع Direct Planetary Cooling](https://github.com/InchaComisho/Direct-Planetary-Cooling)
 
 ---
