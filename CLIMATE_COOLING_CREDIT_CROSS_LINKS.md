@@ -1,5 +1,7 @@
 # Climate and Cooling Credit Cross-Links
 
+[日本語版はこちら / Japanese version](CLIMATE_COOLING_CREDIT_CROSS_LINKS_ja.md)
+
 ## 温暖化系・SAI系・クーリングクレジット系 相互リンク
 
 This document connects the global warming causal-structure repositories, SAI risk analysis, and the Cooling Credit framework repositories.

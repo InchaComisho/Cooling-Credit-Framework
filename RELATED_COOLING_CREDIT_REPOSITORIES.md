@@ -1,5 +1,7 @@
 # Related Cooling Credit Repositories
 
+[日本語版はこちら / Japanese version](RELATED_COOLING_CREDIT_REPOSITORIES_ja.md)
+
 This page links the Cooling Credit fiction, concept, framework, definition, implementation, and climate-context repositories.
 
 ## Core / Story
