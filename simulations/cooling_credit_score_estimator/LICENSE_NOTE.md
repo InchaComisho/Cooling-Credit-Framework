@@ -1,5 +1,7 @@
 # License Note
 
+[日本語版はこちら / Japanese version](LICENSE_NOTE_ja.md)
+
 This estimator is released under the same open knowledge principle used by the Cooling Credit Framework.
 
 Recommended license: Creative Commons Attribution 4.0 International (CC BY 4.0).

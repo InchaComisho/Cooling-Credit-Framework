@@ -1,5 +1,7 @@
 # Disclaimer
 
+[日本語版はこちら / Japanese version](README_DISCLAIMER_ja.md)
+
 The Cooling Credit Score Estimator is a preliminary simulation tool.
 
 It does not:

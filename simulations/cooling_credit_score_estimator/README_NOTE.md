@@ -1,5 +1,7 @@
 # Implementation Note
 
+[日本語版はこちら / Japanese version](README_NOTE_ja.md)
+
 This estimator converts the conceptual Cooling Credit Score into a transparent preliminary scoring algorithm.
 
 It is intentionally conservative:

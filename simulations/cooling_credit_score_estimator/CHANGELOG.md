@@ -1,5 +1,7 @@
 # Changelog
 
+[日本語版はこちら / Japanese version](CHANGELOG_ja.md)
+
 ## 2026-06 Initial Public Estimator
 
 Added the first public Cooling Credit Score Estimator.
