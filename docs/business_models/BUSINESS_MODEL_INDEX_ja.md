@@ -159,7 +159,7 @@ RO水、再生水、有機資源循環、腐葉土化、果樹、日陰、ミス
 ## 関連リンク
 
 - [Cooling Credit Framework Portal](https://inchacomisho.github.io/Cooling-Credit-Framework/)
-- [Cooling Credit Score Estimator](../simulations/cooling_credit_score_estimator/README_ja.md)
+- [Cooling Credit Score Estimator](../../simulations/cooling_credit_score_estimator/README_ja.md)
 - [MRV Guidelines](../MRV_GUIDELINES_ja.md)
 - [Implementation Roadmap](../IMPLEMENTATION_ROADMAP_ja.md)
 - [4大循環回復インジケーターと事業モデルの接続](FOUR_CIRCULATION_RECOVERY_INDICATORS_BRIDGE_ja.md)

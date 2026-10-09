@@ -1,5 +1,7 @@
 # Cooling Credit Framework 詳細文書索引
 
+[English Version](README.md)
+
 このディレクトリには、**Cooling Credit Framework（クーリングクレジット制度設計案）** を補助する詳細文書を収録する。
 
 本フレームワークは、次の定義リポジトリと合わせて読むことを前提とする。
