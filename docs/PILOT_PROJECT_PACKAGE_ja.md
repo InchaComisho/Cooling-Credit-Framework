@@ -1,5 +1,7 @@
 # クーリングクレジット実証実験パッケージ
 
+[English Version](PILOT_PROJECT_PACKAGE.md)
+
 [← Cooling Credit Framework README_ja.md へ戻る](../README_ja.md)
 
 ---

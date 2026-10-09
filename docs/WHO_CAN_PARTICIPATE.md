@@ -1,5 +1,7 @@
 # Who Can Participate in Cooling Credits?
 
+[日本語版はこちら / Japanese version](WHO_CAN_PARTICIPATE_ja.md)
+
 [← Back to Cooling Credit Framework README](../README.md)
 
 ---

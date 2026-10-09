@@ -1,5 +1,7 @@
 # Cooling Credit Framework Evaluation Flow
 
+[日本語版はこちら / Japanese version](FRAMEWORK_EVALUATION_FLOW_ja.md)
+
 This document defines a practical evaluation flow for applying the **Cooling Credit Framework**.
 
 It positions this repository as the procedural layer between the formal definition and real-world implementation.

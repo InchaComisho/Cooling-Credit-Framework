@@ -1,5 +1,7 @@
 # 自然冷却機能の再起動としてのクーリングクレジット
 
+[English Version](NATURAL_COOLING_FUNCTION_RESTART.md)
+
 [← Cooling Credit Framework README_ja.md へ戻る](../README_ja.md)
 
 ---

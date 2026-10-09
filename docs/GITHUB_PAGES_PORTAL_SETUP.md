@@ -1,5 +1,7 @@
 # GitHub Pages Portal Setup Note
 
+[日本語版はこちら / Japanese version](GITHUB_PAGES_PORTAL_SETUP_ja.md)
+
 [← Back to README](../README.md)
 
 ---

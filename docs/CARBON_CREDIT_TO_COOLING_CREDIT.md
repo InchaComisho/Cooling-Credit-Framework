@@ -1,5 +1,7 @@
 # Carbon Credit to Cooling Credit
 
+[日本語版はこちら / Japanese version](CARBON_CREDIT_TO_COOLING_CREDIT_ja.md)
+
 ## From Book-Based Offsetting to a Physically Measurable Planetary Cooling Business
 
 [← Back to README](../README.md)

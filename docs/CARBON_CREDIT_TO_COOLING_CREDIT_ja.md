@@ -1,5 +1,7 @@
 # Carbon Credit to Cooling Credit
 
+[English Version](CARBON_CREDIT_TO_COOLING_CREDIT.md)
+
 ## 帳簿上の相殺から、物理的な地球冷却ビジネスへ
 
 [← README_ja.mdへ戻る](../README_ja.md)

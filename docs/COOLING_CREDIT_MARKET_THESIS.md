@@ -1,5 +1,7 @@
 # Cooling Credit Market Thesis
 
+[日本語版はこちら / Japanese version](COOLING_CREDIT_MARKET_THESIS_ja.md)
+
 [← Back to Cooling Credit Framework README](../README.md)
 
 ---

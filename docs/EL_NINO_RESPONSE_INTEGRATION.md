@@ -1,5 +1,7 @@
 # El Niño Response Integration
 
+[日本語版はこちら / Japanese version](EL_NINO_RESPONSE_INTEGRATION_ja.md)
+
 ## Purpose
 
 This document explains why Cooling Credits should be introduced urgently as a damage-reduction and resilience framework under El Niño and Super El Niño risk. El Niño does not wait for long-term carbon accounting. Damage reduction requires immediate heat-load reduction, water-cycle buffering, soil moisture recovery, urban cooling, and ecosystem cooling restoration.

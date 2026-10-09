@@ -1,5 +1,7 @@
 # Cooling Credit Score Estimator Formula Note
 
+[日本語版はこちら / Japanese version](MODEL_FORMULA_ja.md)
+
 This note summarizes the first public scoring logic used by `cooling_credit_score_estimator.py`.
 
 ## Positive Components

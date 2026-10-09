@@ -1,5 +1,7 @@
 # Quickstart
 
+[日本語版はこちら / Japanese version](README_QUICKSTART_ja.md)
+
 Run from the repository root:
 
 ```bash

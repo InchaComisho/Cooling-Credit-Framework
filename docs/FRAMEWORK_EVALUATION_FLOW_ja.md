@@ -1,5 +1,7 @@
 # クーリングクレジット・フレームワーク評価フロー
 
+[English Version](FRAMEWORK_EVALUATION_FLOW.md)
+
 本書は、**Cooling Credit Framework（クーリングクレジット制度設計案）** を実際に適用するための評価フローを整理する文書である。
 
 このリポジトリは、公式定義と実装の間に位置する「判定手順」の層である。

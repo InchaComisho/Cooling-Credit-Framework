@@ -1,4 +1,7 @@
 # 気候災害抑制理論
+
+[English Version](CLIMATE_DISASTER_SUPPRESSION_THEORY.md)
+
 ## OTU・クーリングクレジット・熱負荷低減によるリスク低減の理論的位置づけ
 
 ---

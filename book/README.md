@@ -1,5 +1,7 @@
 # What Is Cooling Credit?
 
+[日本語版はこちら / Japanese version](README_ja.md)
+
 ## From Carbon Accounting to the Valuation of Real Planetary Cooling
 
 **Author**

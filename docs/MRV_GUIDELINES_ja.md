@@ -1,5 +1,7 @@
 # クーリングクレジットのMRV指針
 
+[English Version](MRV_GUIDELINES.md)
+
 ## 測定・報告・検証の基本設計
 
 ## 目的

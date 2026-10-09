@@ -1,5 +1,7 @@
 # Cooling Credit Framework Documentation Index
 
+[日本語版はこちら / Japanese version](README_ja.md)
+
 This directory contains supporting documents for the **Cooling Credit Framework**.
 
 The framework should be read together with the definition repository:

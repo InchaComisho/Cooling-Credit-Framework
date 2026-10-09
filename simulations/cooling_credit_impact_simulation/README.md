@@ -1,5 +1,7 @@
 # Cooling Credit Impact Simulation
 
+[日本語版はこちら / Japanese version](README_ja.md)
+
 ## Purpose
 
 This directory contains an executable illustrative scenario model for the Cooling Credit Framework. The model compares how different levels of Cooling Credit adoption may affect heat-load reduction, water-cycle recovery, waste-heat reduction, and ecological cooling capacity over 30 years.

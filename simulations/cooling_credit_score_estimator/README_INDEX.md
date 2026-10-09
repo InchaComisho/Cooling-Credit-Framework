@@ -1,5 +1,7 @@
 # Cooling Credit Score Estimator Index
 
+[日本語版はこちら / Japanese version](README_INDEX_ja.md)
+
 - [English README](README.md)
 - [日本語 README](README_ja.md)
 - [العربية README](README_ar.md)

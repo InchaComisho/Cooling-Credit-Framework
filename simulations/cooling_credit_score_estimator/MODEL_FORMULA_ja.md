@@ -1,5 +1,7 @@
 # クーリングクレジットスコア試算モデル 数式メモ
 
+[English Version](MODEL_FORMULA.md)
+
 この文書は、`cooling_credit_score_estimator.py` で用いる初期公開版の評価ロジックを整理したものである。
 
 ## 正の評価要素

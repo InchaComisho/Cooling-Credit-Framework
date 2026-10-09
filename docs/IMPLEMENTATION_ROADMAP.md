@@ -1,5 +1,7 @@
 # Cooling Credit Implementation Roadmap
 
+[日本語版はこちら / Japanese version](IMPLEMENTATION_ROADMAP_ja.md)
+
 The purpose of Cooling Credits is not to create a new financial product first, but to force measurable responsibility for heat-load reduction, especially under escalating climate risks such as El Niño.
 
 ## Phase 0: Concept Publication and Open Framework

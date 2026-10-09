@@ -1,5 +1,7 @@
 # クーリングクレジット市場仮説
 
+[English Version](COOLING_CREDIT_MARKET_THESIS.md)
+
 [← Cooling Credit Framework README_ja.md へ戻る](../README_ja.md)
 
 ---

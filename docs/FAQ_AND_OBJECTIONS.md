@@ -1,5 +1,7 @@
 # Cooling Credit FAQ: Common Questions and Objections
 
+[日本語版はこちら / Japanese version](FAQ_AND_OBJECTIONS_ja.md)
+
 [← Back to Cooling Credit Framework README](../README.md)
 
 ---

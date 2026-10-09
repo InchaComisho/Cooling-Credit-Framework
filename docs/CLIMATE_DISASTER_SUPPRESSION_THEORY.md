@@ -1,4 +1,7 @@
 # Climate Disaster Suppression Theory
+
+[日本語版はこちら / Japanese version](CLIMATE_DISASTER_SUPPRESSION_THEORY_ja.md)
+
 ## Theoretical Positioning of OTU, Cooling Credits, and Heat-Load Reduction for Risk Mitigation
 
 ---

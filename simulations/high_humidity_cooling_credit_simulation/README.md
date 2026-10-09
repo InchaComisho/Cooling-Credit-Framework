@@ -1,5 +1,7 @@
 # High-Humidity Cooling Credit Simulation
 
+[日本語版はこちら / Japanese version](README_ja.md)
+
 A pre-verification simulation comparing three cooling models in humid climates — Japan's rainy season, midsummer, dry-hot regions, and humid tropical cities.
 
 ---

@@ -1,5 +1,7 @@
 # MRV Guidelines for Cooling Credits
 
+[日本語版はこちら / Japanese version](MRV_GUIDELINES_ja.md)
+
 ## Purpose
 
 These guidelines define a practical Measurement, Reporting, and Verification structure for Cooling Credits. The purpose is to ensure that credits represent measurable cooling contribution, not emission offset loopholes.

@@ -1,5 +1,7 @@
 # クーリングクレジット：誰が参加できるのか
 
+[English Version](WHO_CAN_PARTICIPATE.md)
+
 [← Cooling Credit Framework README_ja.md へ戻る](../README_ja.md)
 
 ---

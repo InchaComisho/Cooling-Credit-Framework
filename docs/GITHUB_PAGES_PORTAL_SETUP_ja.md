@@ -1,5 +1,7 @@
 # GitHub Pages ポータル設定メモ
 
+[English Version](GITHUB_PAGES_PORTAL_SETUP.md)
+
 [← README_ja.mdへ戻る](../README_ja.md)
 
 ---

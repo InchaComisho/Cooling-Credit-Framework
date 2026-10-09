@@ -1,5 +1,7 @@
 # 仮クーリングクレジット単位定義
 
+[English Version](PROVISIONAL_COOLING_CREDIT_UNIT.md)
+
 [← Cooling Credit Framework README_ja.md へ戻る](../README_ja.md)
 
 ---

@@ -1,5 +1,7 @@
 # Provisional Cooling Credit Unit Definition
 
+[日本語版はこちら / Japanese version](PROVISIONAL_COOLING_CREDIT_UNIT_ja.md)
+
 [← Back to Cooling Credit Framework README](../README.md)
 
 ---

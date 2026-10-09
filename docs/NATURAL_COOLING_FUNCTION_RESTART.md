@@ -1,5 +1,7 @@
 # Cooling Credits as a Restart of Natural Cooling Functions
 
+[日本語版はこちら / Japanese version](NATURAL_COOLING_FUNCTION_RESTART_ja.md)
+
 [← Back to Cooling Credit Framework README](../README.md)
 
 ---

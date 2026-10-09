@@ -1,5 +1,7 @@
 # クーリングクレジット FAQ：よくある疑問と批判への回答
 
+[English Version](FAQ_AND_OBJECTIONS.md)
+
 [← Cooling Credit Framework README_ja.md へ戻る](../README_ja.md)
 
 ---

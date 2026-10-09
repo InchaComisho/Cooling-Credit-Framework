@@ -1,5 +1,7 @@
 # Cooling Credit Pilot Project Package
 
+[日本語版はこちら / Japanese version](PILOT_PROJECT_PACKAGE_ja.md)
+
 [← Back to Cooling Credit Framework README](../README.md)
 
 ---

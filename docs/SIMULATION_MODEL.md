@@ -1,5 +1,7 @@
 # Simulation Model
 
+[日本語版はこちら / Japanese version](SIMULATION_MODEL_ja.md)
+
 ## Conceptual Background
 
 The Cooling Credit Framework evaluates measurable cooling contribution in addition to conventional carbon accounting. Many climate impacts are experienced as accumulated heat: urban heat islands, surface heating, water-cycle disruption, soil drying, vegetation stress, waste heat, ocean warming, El Niño-amplified drought, extreme rainfall, and rising cooling demand.
