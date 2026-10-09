@@ -2,7 +2,7 @@
 
 [English Version](README_INDEX.md)
 
-- [English README](README_ja.md)
+- [English README](README.md)
 - [日本語 README](README_ja.md)
 - [العربية README](README_ar.md)
 - [Formula Note](MODEL_FORMULA_ja.md)

@@ -7,7 +7,7 @@
 ## Languages / 言語
 
 - [日本語](SUPPORT_AND_COLLABORATION_ja.md)
-- [English](SUPPORT_AND_COLLABORATION_ja.md)
+- [English](SUPPORT_AND_COLLABORATION.md)
 - [العربية](SUPPORT_AND_COLLABORATION_ar.md)
 
 ---

@@ -7,7 +7,7 @@
 ## Languages / 言語
 
 - [日本語](README_ja.md)
-- [English](README_ja.md)
+- [English](README.md)
 - [العربية](README_ar.md)
 
 ---

@@ -53,7 +53,7 @@
 - [Carbon Credit to Cooling Credit](CARBON_CREDIT_TO_COOLING_CREDIT_ja.md)  
   帳簿上のカーボン相殺から、物理的に測定できる冷却貢献へ移行するための概念文書。
 
-- [ビジネスモデル索引](business_models/BUSINESS_MODEL_INDEX.md)  
+- [ビジネスモデル索引](business_models/BUSINESS_MODEL_INDEX_ja.md)  
   国、自治体、企業、投資家、地域社会が参加できる事業モデル集。
 
 ---
@@ -72,7 +72,7 @@
 
 - [クーリングクレジットスコア試算モデル](../simulations/cooling_credit_score_estimator/README_ja.md)
 - [日本型高湿度クーリングクレジット・シミュレーション](../simulations/high_humidity_cooling_credit_simulation/README_ja.md)
-- [Cooling Credit Impact Simulation](../simulations/cooling_credit_impact_simulation/README.md)
+- [Cooling Credit Impact Simulation](../simulations/cooling_credit_impact_simulation/README_ja.md)
 
 ---
 

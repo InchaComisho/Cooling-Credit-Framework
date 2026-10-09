@@ -7,7 +7,7 @@
 ## Languages / 言語
 
 - [日本語](BUSINESS_MODEL_INDEX_ja.md)
-- [English](BUSINESS_MODEL_INDEX_ja.md)
+- [English](BUSINESS_MODEL_INDEX.md)
 - [العربية](BUSINESS_MODEL_INDEX_ar.md)
 
 ---
